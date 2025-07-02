@@ -1,3 +1,9 @@
+USE RETC
+GO
+CREATE PROCEDURE usp_CreaTablaWorkProd 
+AS 
+BEGIN
+	RETURN 'SOLO ES SCRIPT, ABRIR STORE PROCEDURE';
 -- CREACION DE TABLAS
 
 /*
@@ -9,9 +15,13 @@ CREATE TABLE TMP_EMPRESAS (
     CorreoElectronico VARCHAR(100),
     FechaRegistro DATETIME,
     CIIU VARCHAR(10),
-    NumeroEstablecimientos INT
+    NumeroEstablecimientos INT,
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100)--,
+    --FechaUltimaModificacion DATETIME,
+    --UsuarioUltimaModificacion VARCHAR(100)
 );
-GO
+
 
 CREATE TABLE TBM_EMPRESAS (
     EmpresaID INT IDENTITY(100,100) PRIMARY KEY,
@@ -20,9 +30,15 @@ CREATE TABLE TBM_EMPRESAS (
     CorreoElectronico VARCHAR(100),
     FechaRegistro DATETIME,
     CIIU VARCHAR(10),
-    NumeroEstablecimientos INT DEFAULT 1
+    NumeroEstablecimientos INT DEFAULT 1,
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100),
+    FechaUltimaModificacion DATETIME,
+    UsuarioUltimaModificacion VARCHAR(100)
 );
-GO
+
+
+
 
 /*
 TABLA Establecimientos
@@ -45,7 +61,9 @@ CREATE TABLE TMP_ESTABLECIMIENTOS (
 	CONSUMO_AGUA_OFICINAS_L DECIMAL(14,2), 
 	AGUAS_RESIDUALES DECIMAL(14,2), 
 	UNIDAD_MEDIDA VARCHAR(10), 
-	METODO_CALCULO VARCHAR(10)
+	METODO_CALCULO VARCHAR(10),
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100)--,
 )
 
 
@@ -66,9 +84,13 @@ CREATE TABLE TBM_ESTABLECIMIENTOS (
     AguasResiduales DECIMAL(14,2),
     UnidadMedida NVARCHAR(20),
     MetodoCalculo NVARCHAR(50),
-    CONSTRAINT UQ_Establecimiento UNIQUE (EmpresaID)
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100),
+    FechaUltimaModificacion DATETIME,
+    UsuarioUltimaModificacion VARCHAR(100),
+    --CONSTRAINT UQ_Establecimiento UNIQUE (EmpresaID)
 );
-GO
+
 
 --  Tabla de Ubicaciones (HC1)
 CREATE TABLE TMP_UBICACIONES (
@@ -82,7 +104,9 @@ CREATE TABLE TMP_UBICACIONES (
 	[HC1-Este] DECIMAL(14,4), 
 	[HC1-Norte] DECIMAL(14,4), 
 	[HC1-Region] VARCHAR(100), 
-	[HC1-Referencia] VARCHAR(200)
+	[HC1-Referencia] VARCHAR(200),
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100)--,
 )
 
 CREATE TABLE TBM_Ubicaciones (
@@ -94,9 +118,13 @@ CREATE TABLE TBM_Ubicaciones (
     Norte DECIMAL(12,2),
     Region NVARCHAR(50),
     Referencia NVARCHAR(200),
-    FechaRegistro DATE
+    FechaRegistro DATE,
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100),
+    FechaUltimaModificacion DATETIME,
+    UsuarioUltimaModificacion VARCHAR(100)
 );
-GO
+
 
 --  Tabla de Combustibles (HC2)
 CREATE TABLE TMP_Combustibles (
@@ -108,7 +136,9 @@ CREATE TABLE TMP_Combustibles (
 	[HC2-Fuente] VARCHAR(100),
 	[HC2-Tipo_combustible] VARCHAR(100),
 	[HC2-Cantidad_toneladas] DECIMAL(14,4),
-	[HC2-Densidad_KgL] DECIMAL(14,4)
+	[HC2-Densidad_KgL] DECIMAL(14,4),
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100)--,
 )
 
 CREATE TABLE TBM_Combustibles (
@@ -118,9 +148,13 @@ CREATE TABLE TBM_Combustibles (
     TipoCombustible NVARCHAR(50),
     Cantidad DECIMAL(12,2),
     Densidad DECIMAL(6,3),
-    FechaRegistro DATE
+    FechaRegistro DATE,
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100),
+    FechaUltimaModificacion DATETIME,
+    UsuarioUltimaModificacion VARCHAR(100)
 );
-GO
+
 
 --  Tabla de Chimeneas (HC3)
 CREATE TABLE TMP_CHIMENEAS (
@@ -135,23 +169,29 @@ CREATE TABLE TMP_CHIMENEAS (
 	[HC3-Porcentaje] DECIMAL(14,4),
 	[HC3-Flujo_real_m3min] DECIMAL(14,4),
 	[HC3-Flujo_normal_m3min] DECIMAL(14,4),
-	[HC3-Horas_ano] INT
+	[HC3-Horas_ano] INT,
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100)--,
 
 )
 
 CREATE TABLE TBM_Chimeneas (
     ChimeneaID INT IDENTITY(100,100) PRIMARY KEY,
     EstablecimientoID INT NOT NULL FOREIGN KEY REFERENCES TBM_Establecimientos(EstablecimientoID),
-    CodigoChimenea NVARCHAR(20),
+    CodiChimenea NVARCHAR(20),
     Presion DECIMAL(6,3),
     Temperatura DECIMAL(6,2),
     PorcentajeOxigeno DECIMAL(5,2),
     FlujoReal DECIMAL(10,2),
     FlujoNormal DECIMAL(10,2),
     HorasOperacionAnual INT,
-    FechaRegistro DATE
+    FechaRegistro DATE,
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100),
+    FechaUltimaModificacion DATETIME,
+    UsuarioUltimaModificacion VARCHAR(100)
 );
-GO
+
 
 --  Tabla de Descargas (HC4)
 CREATE TABLE TMP_Descargas (
@@ -165,21 +205,27 @@ CREATE TABLE TMP_Descargas (
 	[HC4-Horas_ano] INT,
 	[HC4-Tipo] VARCHAR(100),
 	[HC4-Fluido] VARCHAR(100),
-	[HC4-Presion_bar] DECIMAL(14,4)
+	[HC4-Presion_bar] DECIMAL(14,4),
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100)--,
 )
 
 CREATE TABLE TBM_Descargas (
     DescargaID INT IDENTITY(100,100) PRIMARY KEY,
     EstablecimientoID INT NOT NULL FOREIGN KEY REFERENCES TBM_Establecimientos(EstablecimientoID),
-    CodigoDucto NVARCHAR(20),
+    CodiDucto NVARCHAR(20),
     Caudal DECIMAL(10,2),
     HorasOperacionAnual INT,
     Tipo NVARCHAR(50),
     Fluido NVARCHAR(50),
     Presion DECIMAL(6,3),
-    FechaRegistro DATE
+    FechaRegistro DATE,
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100),
+    FechaUltimaModificacion DATETIME,
+    UsuarioUltimaModificacion VARCHAR(100)
 );
-GO
+
 
 --  Tabla de Emisiones (HC5)
 CREATE TABLE TMP_Emisiones (
@@ -193,7 +239,9 @@ CREATE TABLE TMP_Emisiones (
 	[HC5-Nombre_cuerpo] VARCHAR(100),
 	[HC5-Unidad] VARCHAR(100),
 	[HC5-Cantidad] decimal(14,4),
-	[HC5-Metodo_calculo] VARCHAR(100)
+	[HC5-Metodo_calculo] VARCHAR(100),
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100)--,
 )
 
 CREATE TABLE TBM_Emisiones (
@@ -205,9 +253,13 @@ CREATE TABLE TBM_Emisiones (
     UnidadMedida NVARCHAR(20),
     Cantidad DECIMAL(15,2),
     MetodoCalculo NVARCHAR(50),
-    FechaRegistro DATETIME
+    FechaRegistro DATETIME,
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100),
+    FechaUltimaModificacion DATETIME,
+    UsuarioUltimaModificacion VARCHAR(100)
 );
-GO
+
 
 --  Tabla de Residuos (HC6)
 CREATE TABLE TMP_Residuos (
@@ -222,7 +274,9 @@ CREATE TABLE TMP_Residuos (
 	[Densidad_KgL] DECIMAL(14,4),
 	[RUC_operador] VARCHAR(100),
 	[Tipo_operador] VARCHAR(100),
-	[Numero_registro] VARCHAR(100)
+	[Numero_registro] VARCHAR(100),
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100)--,
 )
 
 CREATE TABLE TBM_Residuos (
@@ -235,6 +289,32 @@ CREATE TABLE TBM_Residuos (
     RUCOperador VARCHAR(11),
     TipoOperador NVARCHAR(50),
     NumeroRegistro NVARCHAR(50),
-    FechaRegistro DATE
+    FechaRegistro DATE,
+	FechaCreacion DATETIME DEFAULT GETDATE(),
+    UsuarioCreacion VARCHAR(100),
+    FechaUltimaModificacion DATETIME,
+    UsuarioUltimaModificacion VARCHAR(100)
 );
-GO
+
+
+/*
+
+DROP TABLE TMP_EMPRESAS
+DROP TABLE TBM_EMPRESAS
+DROP TABLE TMP_ESTABLECIMIENTOS
+DROP TABLE TBM_ESTABLECIMIENTOS
+DROP TABLE TMP_UBICACIONES
+DROP TABLE TBM_Ubicaciones
+DROP TABLE TMP_Combustibles
+DROP TABLE TBM_Combustibles
+DROP TABLE TMP_CHIMENEAS
+DROP TABLE TBM_Chimeneas
+DROP TABLE TMP_Descargas
+DROP TABLE TBM_Descargas
+DROP TABLE TMP_Emisiones
+DROP TABLE TBM_Emisiones
+DROP TABLE TMP_Residuos
+DROP TABLE TBM_Residuos
+*/
+
+END

@@ -1,3 +1,10 @@
+USE RETC
+GO
+CREATE PROCEDURE usp_CreaMetadataObjects 
+AS 
+BEGIN
+	RETURN 'SOLO ES SCRIPT, ABRIR STORE PROCEDURE';
+
 -- =====================================================
 -- DESCRIPCIÓN DE TABLAS Y COLUMNAS
 -- Usando sp_addextendedproperty
@@ -260,7 +267,7 @@ EXEC sp_addextendedproperty
     @name = N'MS_Description', @value = N'Código identificador de la chimenea',
     @level0type = N'SCHEMA', @level0name = N'dbo',
     @level1type = N'TABLE', @level1name = N'TBM_Chimeneas',
-    @level2type = N'COLUMN', @level2name = N'CodigoChimenea';
+    @level2type = N'COLUMN', @level2name = N'CodiChimenea';
 
 EXEC sp_addextendedproperty 
     @name = N'MS_Description', @value = N'Presión de operación de la chimenea (atm)',
@@ -329,7 +336,7 @@ EXEC sp_addextendedproperty
     @name = N'MS_Description', @value = N'Código identificador del ducto de descarga',
     @level0type = N'SCHEMA', @level0name = N'dbo',
     @level1type = N'TABLE', @level1name = N'TBM_Descargas',
-    @level2type = N'COLUMN', @level2name = N'CodigoDucto';
+    @level2type = N'COLUMN', @level2name = N'CodiDucto';
 
 EXEC sp_addextendedproperty 
     @name = N'MS_Description', @value = N'Caudal de descarga del efluente (L/s)',
@@ -541,3 +548,4 @@ SET @sql = @sql + 'EXEC sp_dropextendedproperty @name = N''MS_Description'', @le
 PRINT @sql;
 -- EXEC sp_executesql @sql; -- Descomentar para ejecutar
 */
+END
