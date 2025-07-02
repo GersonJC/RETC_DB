@@ -1,0 +1,607 @@
+FECHA,CORREO,RAZON_SOCIAL,NUMERO_RUC,NOMBRE_ESTABLECIMIENTO,HC1-Punto,HC1-Zona,HC1-Este,HC1-Norte,HC1-Region,HC1-Referencia
+6/10/2025 11:15:54,ramosklembert.07@gmail.com,EMPRESA METAL MECANICA S.A,20100276322,Establecimiento_1_6322,P-001,Zona_Industrial,288223,8655593,Lima,Km_48_Carretera_Central
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_1_3372,P-001,Zona_Industrial,282862,8658835,Lima,Km_50_Carretera_Central
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_2_3372,P-002,Zona_Industrial,284247,8652635,Lima,Km_39_Carretera_Central
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_3_3372,P-003,Zona_Industrial,289168,8656734,Lima,Km_12_Carretera_Central
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_4_3372,P-004,Zona_Industrial,282183,8658995,Lima,Km_11_Carretera_Central
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_5_3372,P-005,Zona_Industrial,284193,8657845,Lima,Km_1_Carretera_Central
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_6_3372,P-006,Zona_Industrial,289334,8652981,Lima,Km_11_Carretera_Central
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_7_3372,P-007,Zona_Industrial,284128,8651745,Lima,Km_19_Carretera_Central
+6/18/2025 9:53:20,cruzllacsahuanga@gmail.com,Pesquera Hayduk SA,20136165667,Establecimiento_1_5667,P-001,Zona_Industrial,287946,8655279,Lima,Km_50_Carretera_Central
+6/18/2025 9:53:20,cruzllacsahuanga@gmail.com,Pesquera Hayduk SA,20136165667,Establecimiento_2_5667,P-002,Zona_Industrial,287289,8654663,Lima,Km_5_Carretera_Central
+6/18/2025 9:53:20,cruzllacsahuanga@gmail.com,Pesquera Hayduk SA,20136165667,Establecimiento_3_5667,P-003,Zona_Industrial,282270,8656659,Lima,Km_30_Carretera_Central
+6/23/2025 9:35:52,raysareyesv@gmail.com,Energia Renovable del Sur ,20392847406,Establecimiento_1_7406,P-001,Zona_Industrial,283102,8659876,Lima,Km_15_Carretera_Central
+7/1/2025 14:22:18,jgarcia.industrial@gmail.com,INDUSTRIAS GARCIA HERMANOS S.R.L,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,283093,8658731,Lima,Km_18_Carretera_Central
+7/1/2025 14:22:18,jgarcia.industrial@gmail.com,INDUSTRIAS GARCIA HERMANOS S.R.L,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,285157,8655354,Lima,Km_46_Carretera_Central
+7/2/2025 10:15:33,mperez.textil@hotmail.com,TEXTIL PERU NORTE S.A.C,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,282644,8659375,Lima,Km_12_Carretera_Central
+7/2/2025 10:15:33,mperez.textil@hotmail.com,TEXTIL PERU NORTE S.A.C,20567891234,Establecimiento_2_1234,P-002,Zona_Industrial,287443,8652529,Lima,Km_47_Carretera_Central
+7/2/2025 10:15:33,mperez.textil@hotmail.com,TEXTIL PERU NORTE S.A.C,20567891234,Establecimiento_3_1234,P-003,Zona_Industrial,285183,8654904,Lima,Km_26_Carretera_Central
+7/3/2025 16:45:12,rlopez.quimica@yahoo.com,QUIMICA INDUSTRIAL LIMA S.A,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,283093,8657382,Lima,Km_6_Carretera_Central
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,281335,8658032,Lima,Km_20_Carretera_Central
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,284350,8652805,Lima,Km_40_Carretera_Central
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,287093,8654145,Lima,Km_11_Carretera_Central
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_4_3456,P-004,Zona_Industrial,287257,8650162,Lima,Km_50_Carretera_Central
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_5_3456,P-005,Zona_Industrial,289943,8653759,Lima,Km_11_Carretera_Central
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,287311,8650307,Lima,Km_15_Carretera_Central
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,284234,8654216,Lima,Km_31_Carretera_Central
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_3_4567,P-003,Zona_Industrial,283758,8657073,Lima,Km_46_Carretera_Central
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_4_4567,P-004,Zona_Industrial,285021,8659001,Lima,Km_42_Carretera_Central
+7/6/2025 11:55:17,aprojas.construccion@gmail.com,CONSTRUCTORA ROJAS E HIJOS S.R.L,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,282640,8658167,Lima,Km_18_Carretera_Central
+7/6/2025 11:55:17,aprojas.construccion@gmail.com,CONSTRUCTORA ROJAS E HIJOS S.R.L,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,289748,8654449,Lima,Km_21_Carretera_Central
+7/7/2025 15:10:29,bcastillo.farmaceutica@hotmail.com,FARMACEUTICA CASTILLO S.A.C,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,289248,8653928,Lima,Km_30_Carretera_Central
+7/8/2025 8:25:36,dmendoza.energia@yahoo.com,ENERGIA SOLAR MENDOZA S.A,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,280368,8653173,Lima,Km_20_Carretera_Central
+7/8/2025 8:25:36,dmendoza.energia@yahoo.com,ENERGIA SOLAR MENDOZA S.A,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,281122,8654965,Lima,Km_45_Carretera_Central
+7/8/2025 8:25:36,dmendoza.energia@yahoo.com,ENERGIA SOLAR MENDOZA S.A,20234567891,Establecimiento_3_7891,P-003,Zona_Industrial,289280,8654351,Lima,Km_40_Carretera_Central
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,285044,8651302,Lima,Km_33_Carretera_Central
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,289510,8651471,Lima,Km_4_Carretera_Central
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,284425,8652380,Lima,Km_39_Carretera_Central
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_4_8912,P-004,Zona_Industrial,280735,8659841,Lima,Km_8_Carretera_Central
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_5_8912,P-005,Zona_Industrial,289122,8653390,Lima,Km_1_Carretera_Central
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_6_8912,P-006,Zona_Industrial,282054,8656316,Lima,Km_24_Carretera_Central
+7/10/2025 17:18:14,fherrera.papel@outlook.com,PAPELERA HERRERA S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,280957,8650132,Lima,Km_50_Carretera_Central
+7/10/2025 17:18:14,fherrera.papel@outlook.com,PAPELERA HERRERA S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,280637,8651506,Lima,Km_7_Carretera_Central
+7/11/2025 14:35:22,gmorales.cemento@gmail.com,CEMENTOS MORALES S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,280926,8659828,Lima,Km_20_Carretera_Central
+7/12/2025 10:50:47,hvargas.plasticos@hotmail.com,PLASTICOS VARGAS S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,281564,8659951,Lima,Km_15_Carretera_Central
+7/12/2025 10:50:47,hvargas.plasticos@hotmail.com,PLASTICOS VARGAS S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,285045,8652814,Lima,Km_50_Carretera_Central
+7/12/2025 10:50:47,hvargas.plasticos@hotmail.com,PLASTICOS VARGAS S.A.C,20678912345,Establecimiento_3_2345,P-003,Zona_Industrial,285058,8658680,Lima,Km_23_Carretera_Central
+7/13/2025 16:12:33,itorres.siderurgica@yahoo.com,SIDERURGICA TORRES S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,286499,8659138,Lima,Km_38_Carretera_Central
+7/13/2025 16:12:33,itorres.siderurgica@yahoo.com,SIDERURGICA TORRES S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,285171,8656502,Lima,Km_12_Carretera_Central
+7/13/2025 16:12:33,itorres.siderurgica@yahoo.com,SIDERURGICA TORRES S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,287765,8654106,Lima,Km_33_Carretera_Central
+7/13/2025 16:12:33,itorres.siderurgica@yahoo.com,SIDERURGICA TORRES S.A,20789123456,Establecimiento_4_3456,P-004,Zona_Industrial,283400,8652317,Lima,Km_37_Carretera_Central
+7/14/2025 9:28:11,jflores.textil@gmail.com,TEXTILES FLORES S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,281303,8651286,Lima,Km_33_Carretera_Central
+7/14/2025 9:28:11,jflores.textil@gmail.com,TEXTILES FLORES S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,287408,8656059,Lima,Km_26_Carretera_Central
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,289556,8655860,Lima,Km_39_Carretera_Central
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,286295,8652122,Lima,Km_48_Carretera_Central
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_3_5678,P-003,Zona_Industrial,289276,8656667,Lima,Km_30_Carretera_Central
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_4_5678,P-004,Zona_Industrial,281559,8650284,Lima,Km_29_Carretera_Central
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_5_5678,P-005,Zona_Industrial,284824,8653246,Lima,Km_41_Carretera_Central
+7/16/2025 11:22:39,ldiaz.ceramica@hotmail.com,CERAMICA DIAZ S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,281957,8654007,Lima,Km_38_Carretera_Central
+7/17/2025 15:38:52,mcastro.bebidas@gmail.com,BEBIDAS CASTRO S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,285875,8650602,Lima,Km_15_Carretera_Central
+7/17/2025 15:38:52,mcastro.bebidas@gmail.com,BEBIDAS CASTRO S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,280288,8657496,Lima,Km_31_Carretera_Central
+7/17/2025 15:38:52,mcastro.bebidas@gmail.com,BEBIDAS CASTRO S.R.L,20234567891,Establecimiento_3_7891,P-003,Zona_Industrial,287225,8650227,Lima,Km_13_Carretera_Central
+7/18/2025 8:15:17,njimenez.cuero@yahoo.com,CURTIEMBRE JIMENEZ S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,286699,8654564,Lima,Km_46_Carretera_Central
+7/18/2025 8:15:17,njimenez.cuero@yahoo.com,CURTIEMBRE JIMENEZ S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,289568,8656039,Lima,Km_7_Carretera_Central
+7/19/2025 12:52:44,oramos.madera@outlook.com,MADERERA RAMOS S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,289240,8651008,Lima,Km_13_Carretera_Central
+7/19/2025 12:52:44,oramos.madera@outlook.com,MADERERA RAMOS S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,280780,8656367,Lima,Km_49_Carretera_Central
+7/19/2025 12:52:44,oramos.madera@outlook.com,MADERERA RAMOS S.A,20456789123,Establecimiento_3_9123,P-003,Zona_Industrial,282287,8651010,Lima,Km_2_Carretera_Central
+7/19/2025 12:52:44,oramos.madera@outlook.com,MADERERA RAMOS S.A,20456789123,Establecimiento_4_9123,P-004,Zona_Industrial,283522,8654991,Lima,Km_29_Carretera_Central
+7/20/2025 17:19:31,pvaldes.vidrio@gmail.com,VIDRIOS VALDES S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,283542,8650199,Lima,Km_10_Carretera_Central
+7/21/2025 14:07:16,qortega.detergente@hotmail.com,DETERGENTES ORTEGA S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,284901,8653236,Lima,Km_21_Carretera_Central
+7/21/2025 14:07:16,qortega.detergente@hotmail.com,DETERGENTES ORTEGA S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,280613,8655447,Lima,Km_19_Carretera_Central
+7/22/2025 10:33:58,rmiranda.caucho@yahoo.com,CAUCHO MIRANDA S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,283494,8659364,Lima,Km_23_Carretera_Central
+7/22/2025 10:33:58,rmiranda.caucho@yahoo.com,CAUCHO MIRANDA S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,287435,8657038,Lima,Km_16_Carretera_Central
+7/22/2025 10:33:58,rmiranda.caucho@yahoo.com,CAUCHO MIRANDA S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,282505,8657151,Lima,Km_44_Carretera_Central
+7/23/2025 16:21:42,snavarro.fertilizante@gmail.com,FERTILIZANTES NAVARRO S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,281780,8651320,Lima,Km_2_Carretera_Central
+7/24/2025 9:48:29,tguzman.pintura@outlook.com,PINTURAS GUZMAN S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,282810,8652675,Lima,Km_44_Carretera_Central
+7/24/2025 9:48:29,tguzman.pintura@outlook.com,PINTURAS GUZMAN S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,289105,8652511,Lima,Km_35_Carretera_Central
+7/25/2025 13:14:55,uheredia.acero@hotmail.com,ACEROS HEREDIA S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,282311,8657676,Lima,Km_24_Carretera_Central
+7/25/2025 13:14:55,uheredia.acero@hotmail.com,ACEROS HEREDIA S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,287572,8656347,Lima,Km_32_Carretera_Central
+7/25/2025 13:14:55,uheredia.acero@hotmail.com,ACEROS HEREDIA S.A,20123456789,Establecimiento_3_6789,P-003,Zona_Industrial,286562,8658879,Lima,Km_26_Carretera_Central
+7/25/2025 13:14:55,uheredia.acero@hotmail.com,ACEROS HEREDIA S.A,20123456789,Establecimiento_4_6789,P-004,Zona_Industrial,285602,8650018,Lima,Km_18_Carretera_Central
+7/26/2025 11:41:18,vmendez.electronica@gmail.com,ELECTRONICA MENDEZ S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,287285,8659109,Lima,Km_40_Carretera_Central
+7/27/2025 15:26:33,wparedes.confeccion@yahoo.com,CONFECCIONES PAREDES S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,281824,8652717,Lima,Km_50_Carretera_Central
+7/27/2025 15:26:33,wparedes.confeccion@yahoo.com,CONFECCIONES PAREDES S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,285497,8656397,Lima,Km_6_Carretera_Central
+7/27/2025 15:26:33,wparedes.confeccion@yahoo.com,CONFECCIONES PAREDES S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,287411,8652524,Lima,Km_16_Carretera_Central
+7/28/2025 8:53:47,xsalazar.joyeria@outlook.com,JOYERIA SALAZAR S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,289447,8658405,Lima,Km_20_Carretera_Central
+7/29/2025 12:18:21,yvega.calzado@gmail.com,CALZADOS VEGA S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,285611,8651676,Lima,Km_24_Carretera_Central
+7/29/2025 12:18:21,yvega.calzado@gmail.com,CALZADOS VEGA S.R.L,20567891234,Establecimiento_2_1234,P-002,Zona_Industrial,286728,8659694,Lima,Km_23_Carretera_Central
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,288210,8656600,Lima,Km_28_Carretera_Central
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,280277,8658469,Lima,Km_49_Carretera_Central
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_3_2345,P-003,Zona_Industrial,286291,8650737,Lima,Km_19_Carretera_Central
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_4_2345,P-004,Zona_Industrial,289087,8657456,Lima,Km_29_Carretera_Central
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_5_2345,P-005,Zona_Industrial,282707,8655296,Lima,Km_4_Carretera_Central
+8/1/2025 14:12:49,acoronel.farmacia@yahoo.com,FARMACIA CORONEL S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,285041,8656876,Lima,Km_9_Carretera_Central
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,281218,8650660,Lima,Km_32_Carretera_Central
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,281729,8656970,Lima,Km_36_Carretera_Central
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_3_4567,P-003,Zona_Industrial,280081,8658338,Lima,Km_50_Carretera_Central
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_4_4567,P-004,Zona_Industrial,281983,8650792,Lima,Km_20_Carretera_Central
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_5_4567,P-005,Zona_Industrial,287654,8651290,Lima,Km_18_Carretera_Central
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_6_4567,P-006,Zona_Industrial,283318,8653289,Lima,Km_4_Carretera_Central
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,280624,8654301,Lima,Km_19_Carretera_Central
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,287103,8651547,Lima,Km_12_Carretera_Central
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_3_5678,P-003,Zona_Industrial,280662,8651851,Lima,Km_5_Carretera_Central
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_4_5678,P-004,Zona_Industrial,280828,8653201,Lima,Km_25_Carretera_Central
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_5_5678,P-005,Zona_Industrial,282366,8651818,Lima,Km_48_Carretera_Central
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_6_5678,P-006,Zona_Industrial,282907,8659978,Lima,Km_48_Carretera_Central
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_7_5678,P-007,Zona_Industrial,287570,8650982,Lima,Km_44_Carretera_Central
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_8_5678,P-008,Zona_Industrial,282545,8657853,Lima,Km_28_Carretera_Central
+8/4/2025 9:51:52,daguirre.hotel@hotmail.com,HOTELES AGUIRRE S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,287006,8653389,Lima,Km_38_Carretera_Central
+8/4/2025 9:51:52,daguirre.hotel@hotmail.com,HOTELES AGUIRRE S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,286614,8656285,Lima,Km_48_Carretera_Central
+8/5/2025 13:17:35,emolina.restaurant@gmail.com,RESTAURANTE MOLINA S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,283006,8650240,Lima,Km_43_Carretera_Central
+8/5/2025 13:17:35,emolina.restaurant@gmail.com,RESTAURANTE MOLINA S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,282406,8658521,Lima,Km_8_Carretera_Central
+8/5/2025 13:17:35,emolina.restaurant@gmail.com,RESTAURANTE MOLINA S.R.L,20234567891,Establecimiento_3_7891,P-003,Zona_Industrial,286164,8651192,Lima,Km_43_Carretera_Central
+8/6/2025 11:44:08,fcastañeda.seguridad@yahoo.com,SEGURIDAD CASTAÑEDA S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,289740,8650239,Lima,Km_10_Carretera_Central
+8/6/2025 11:44:08,fcastañeda.seguridad@yahoo.com,SEGURIDAD CASTAÑEDA S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,284724,8656244,Lima,Km_39_Carretera_Central
+8/6/2025 11:44:08,fcastañeda.seguridad@yahoo.com,SEGURIDAD CASTAÑEDA S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,283502,8652144,Lima,Km_23_Carretera_Central
+8/6/2025 11:44:08,fcastañeda.seguridad@yahoo.com,SEGURIDAD CASTAÑEDA S.A.C,20345678912,Establecimiento_4_8912,P-004,Zona_Industrial,288766,8651687,Lima,Km_18_Carretera_Central
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,280996,8651707,Lima,Km_13_Carretera_Central
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,287729,8658508,Lima,Km_43_Carretera_Central
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_3_9123,P-003,Zona_Industrial,280264,8650063,Lima,Km_20_Carretera_Central
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_4_9123,P-004,Zona_Industrial,280635,8654741,Lima,Km_15_Carretera_Central
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_5_9123,P-005,Zona_Industrial,284242,8653104,Lima,Km_48_Carretera_Central
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_6_9123,P-006,Zona_Industrial,288243,8657362,Lima,Km_48_Carretera_Central
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_7_9123,P-007,Zona_Industrial,288665,8656322,Lima,Km_11_Carretera_Central
+8/8/2025 8:26:16,hmoreno.consultoria@gmail.com,CONSULTORA MORENO S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,281015,8655074,Lima,Km_10_Carretera_Central
+8/9/2025 12:43:29,ivasquez.laboratorio@hotmail.com,LABORATORIOS VASQUEZ S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,280292,8652594,Lima,Km_23_Carretera_Central
+8/9/2025 12:43:29,ivasquez.laboratorio@hotmail.com,LABORATORIOS VASQUEZ S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,281869,8654845,Lima,Km_7_Carretera_Central
+8/10/2025 17:08:54,jestrada.ingenieria@yahoo.com,INGENIERIA ESTRADA S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,281631,8659880,Lima,Km_18_Carretera_Central
+8/10/2025 17:08:54,jestrada.ingenieria@yahoo.com,INGENIERIA ESTRADA S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,288363,8656520,Lima,Km_42_Carretera_Central
+8/10/2025 17:08:54,jestrada.ingenieria@yahoo.com,INGENIERIA ESTRADA S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,285111,8655958,Lima,Km_14_Carretera_Central
+8/11/2025 14:35:17,krueda.tecnologia@gmail.com,TECNOLOGIA RUEDA S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,286997,8651885,Lima,Km_16_Carretera_Central
+8/12/2025 10:12:42,lbustamante.publicidad@outlook.com,PUBLICIDAD BUSTAMANTE S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,284174,8651959,Lima,Km_34_Carretera_Central
+8/12/2025 10:12:42,lbustamante.publicidad@outlook.com,PUBLICIDAD BUSTAMANTE S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,281282,8658132,Lima,Km_32_Carretera_Central
+8/13/2025 16:48:15,mvaldez.educacion@hotmail.com,EDUCACION VALDEZ S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,286279,8652591,Lima,Km_2_Carretera_Central
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,283377,8650979,Lima,Km_7_Carretera_Central
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,280500,8657963,Lima,Km_23_Carretera_Central
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_3_7891,P-003,Zona_Industrial,288989,8657556,Lima,Km_38_Carretera_Central
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_4_7891,P-004,Zona_Industrial,281747,8651447,Lima,Km_49_Carretera_Central
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_5_7891,P-005,Zona_Industrial,280808,8653370,Lima,Km_32_Carretera_Central
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_6_7891,P-006,Zona_Industrial,288592,8651953,Lima,Km_42_Carretera_Central
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_7_7891,P-007,Zona_Industrial,289877,8650907,Lima,Km_19_Carretera_Central
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_8_7891,P-008,Zona_Industrial,285709,8656680,Lima,Km_25_Carretera_Central
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_9_7891,P-009,Zona_Industrial,284256,8657547,Lima,Km_21_Carretera_Central
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_10_7891,P-010,Zona_Industrial,289135,8659298,Lima,Km_38_Carretera_Central
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_11_7891,P-011,Zona_Industrial,284167,8658899,Lima,Km_14_Carretera_Central
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_12_7891,P-012,Zona_Industrial,289356,8656715,Lima,Km_16_Carretera_Central
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,289051,8651841,Lima,Km_27_Carretera_Central
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,288588,8650309,Lima,Km_27_Carretera_Central
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,289679,8659323,Lima,Km_28_Carretera_Central
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_4_8912,P-004,Zona_Industrial,286428,8658600,Lima,Km_45_Carretera_Central
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_5_8912,P-005,Zona_Industrial,284930,8657591,Lima,Km_38_Carretera_Central
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_6_8912,P-006,Zona_Industrial,286788,8654449,Lima,Km_2_Carretera_Central
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_7_8912,P-007,Zona_Industrial,280590,8659295,Lima,Km_49_Carretera_Central
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_8_8912,P-008,Zona_Industrial,282021,8657370,Lima,Km_7_Carretera_Central
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,289300,8652410,Lima,Km_50_Carretera_Central
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,286866,8653069,Lima,Km_37_Carretera_Central
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_3_9123,P-003,Zona_Industrial,284406,8650951,Lima,Km_17_Carretera_Central
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_4_9123,P-004,Zona_Industrial,284858,8658691,Lima,Km_16_Carretera_Central
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_5_9123,P-005,Zona_Industrial,287555,8659693,Lima,Km_13_Carretera_Central
+8/17/2025 15:34:11,qdelgado.pesca@gmail.com,PESQUERA DELGADO S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,288388,8658310,Lima,Km_36_Carretera_Central
+8/17/2025 15:34:11,qdelgado.pesca@gmail.com,PESQUERA DELGADO S.R.L,20567891234,Establecimiento_2_1234,P-002,Zona_Industrial,288464,8653609,Lima,Km_38_Carretera_Central
+8/17/2025 15:34:11,qdelgado.pesca@gmail.com,PESQUERA DELGADO S.R.L,20567891234,Establecimiento_3_1234,P-003,Zona_Industrial,284544,8659777,Lima,Km_41_Carretera_Central
+8/18/2025 8:59:27,rrubio.acuicultura@hotmail.com,ACUICULTURA RUBIO S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,280758,8653270,Lima,Km_35_Carretera_Central
+8/18/2025 8:59:27,rrubio.acuicultura@hotmail.com,ACUICULTURA RUBIO S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,281990,8654411,Lima,Km_49_Carretera_Central
+8/18/2025 8:59:27,rrubio.acuicultura@hotmail.com,ACUICULTURA RUBIO S.A.C,20678912345,Establecimiento_3_2345,P-003,Zona_Industrial,284129,8658080,Lima,Km_12_Carretera_Central
+8/18/2025 8:59:27,rrubio.acuicultura@hotmail.com,ACUICULTURA RUBIO S.A.C,20678912345,Establecimiento_4_2345,P-004,Zona_Industrial,280794,8658899,Lima,Km_23_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,283788,8652524,Lima,Km_14_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,280278,8653584,Lima,Km_17_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,285068,8655833,Lima,Km_38_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_4_3456,P-004,Zona_Industrial,286195,8657683,Lima,Km_9_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_5_3456,P-005,Zona_Industrial,282167,8657687,Lima,Km_33_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_6_3456,P-006,Zona_Industrial,281274,8656400,Lima,Km_4_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_7_3456,P-007,Zona_Industrial,282898,8657653,Lima,Km_42_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_8_3456,P-008,Zona_Industrial,282339,8659252,Lima,Km_11_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_9_3456,P-009,Zona_Industrial,288577,8655829,Lima,Km_26_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_10_3456,P-010,Zona_Industrial,287068,8654681,Lima,Km_35_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_11_3456,P-011,Zona_Industrial,284909,8654072,Lima,Km_20_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_12_3456,P-012,Zona_Industrial,286777,8651259,Lima,Km_26_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_13_3456,P-013,Zona_Industrial,282788,8652663,Lima,Km_46_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_14_3456,P-014,Zona_Industrial,282683,8655510,Lima,Km_29_Carretera_Central
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_15_3456,P-015,Zona_Industrial,289386,8654066,Lima,Km_28_Carretera_Central
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,288982,8652442,Lima,Km_17_Carretera_Central
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,281025,8650392,Lima,Km_7_Carretera_Central
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_3_4567,P-003,Zona_Industrial,287896,8655688,Lima,Km_37_Carretera_Central
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_4_4567,P-004,Zona_Industrial,287957,8659649,Lima,Km_28_Carretera_Central
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_5_4567,P-005,Zona_Industrial,288057,8654604,Lima,Km_50_Carretera_Central
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_6_4567,P-006,Zona_Industrial,281627,8657887,Lima,Km_1_Carretera_Central
+8/21/2025 14:09:32,uzamora.flores@outlook.com,FLORICULTURA ZAMORA S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,282287,8653441,Lima,Km_13_Carretera_Central
+8/21/2025 14:09:32,uzamora.flores@outlook.com,FLORICULTURA ZAMORA S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,286120,8655443,Lima,Km_26_Carretera_Central
+8/22/2025 10:37:48,vpacheco.vivero@hotmail.com,VIVEROS PACHECO S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,282041,8656949,Lima,Km_24_Carretera_Central
+8/22/2025 10:37:48,vpacheco.vivero@hotmail.com,VIVEROS PACHECO S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,285517,8659797,Lima,Km_26_Carretera_Central
+8/22/2025 10:37:48,vpacheco.vivero@hotmail.com,VIVEROS PACHECO S.A,20123456789,Establecimiento_3_6789,P-003,Zona_Industrial,281681,8654683,Lima,Km_5_Carretera_Central
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,283854,8651376,Lima,Km_27_Carretera_Central
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,285437,8655015,Lima,Km_37_Carretera_Central
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_3_7891,P-003,Zona_Industrial,283966,8654945,Lima,Km_17_Carretera_Central
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_4_7891,P-004,Zona_Industrial,280025,8653253,Lima,Km_17_Carretera_Central
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_5_7891,P-005,Zona_Industrial,286414,8650732,Lima,Km_1_Carretera_Central
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_6_7891,P-006,Zona_Industrial,286423,8659971,Lima,Km_34_Carretera_Central
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_7_7891,P-007,Zona_Industrial,283989,8657244,Lima,Km_48_Carretera_Central
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,283322,8658941,Lima,Km_30_Carretera_Central
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,287194,8653250,Lima,Km_8_Carretera_Central
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,289880,8658159,Lima,Km_36_Carretera_Central
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_4_8912,P-004,Zona_Industrial,286949,8659374,Lima,Km_23_Carretera_Central
+8/25/2025 13:16:14,ychavez.grava@outlook.com,GRAVERA CHAVEZ S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,280367,8650799,Lima,Km_34_Carretera_Central
+8/25/2025 13:16:14,ychavez.grava@outlook.com,GRAVERA CHAVEZ S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,288547,8653587,Lima,Km_10_Carretera_Central
+8/26/2025 11:52:37,zsoto.granito@gmail.com,GRANITERIA SOTO S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,281722,8656394,Lima,Km_32_Carretera_Central
+8/27/2025 15:29:58,abravo.ceramica@hotmail.com,CERAMICA ARTESANAL BRAVO S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,282769,8650994,Lima,Km_13_Carretera_Central
+8/28/2025 8:56:13,bcampos.ladrillos@yahoo.com,LADRILLERA CAMPOS S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,281830,8656666,Lima,Km_5_Carretera_Central
+8/28/2025 8:56:13,bcampos.ladrillos@yahoo.com,LADRILLERA CAMPOS S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,283290,8654094,Lima,Km_7_Carretera_Central
+8/28/2025 8:56:13,bcampos.ladrillos@yahoo.com,LADRILLERA CAMPOS S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,284085,8653274,Lima,Km_5_Carretera_Central
+8/29/2025 12:23:46,cguerrero.tejas@gmail.com,TEJERA GUERRERO S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,285139,8650063,Lima,Km_33_Carretera_Central
+8/29/2025 12:23:46,cguerrero.tejas@gmail.com,TEJERA GUERRERO S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,281646,8650841,Lima,Km_14_Carretera_Central
+8/30/2025 17:48:21,dhidalgo.yeso@outlook.com,YESERIA HIDALGO S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,283002,8656707,Lima,Km_43_Carretera_Central
+8/31/2025 14:15:39,efernandez.cal@hotmail.com,CALERA FERNANDEZ S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,281049,8652960,Lima,Km_22_Carretera_Central
+8/31/2025 14:15:39,efernandez.cal@hotmail.com,CALERA FERNANDEZ S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,283584,8651635,Lima,Km_32_Carretera_Central
+8/31/2025 14:15:39,efernandez.cal@hotmail.com,CALERA FERNANDEZ S.A,20123456789,Establecimiento_3_6789,P-003,Zona_Industrial,287168,8651456,Lima,Km_9_Carretera_Central
+8/31/2025 14:15:39,efernandez.cal@hotmail.com,CALERA FERNANDEZ S.A,20123456789,Establecimiento_4_6789,P-004,Zona_Industrial,286059,8658604,Lima,Km_32_Carretera_Central
+9/1/2025 10:42:54,fgonzalez.marmol@gmail.com,MARMOLERIA GONZALEZ S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,285446,8659077,Lima,Km_8_Carretera_Central
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,282398,8656545,Lima,Km_22_Carretera_Central
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,287835,8654898,Lima,Km_16_Carretera_Central
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,280408,8652339,Lima,Km_14_Carretera_Central
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_4_8912,P-004,Zona_Industrial,289595,8656041,Lima,Km_45_Carretera_Central
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_5_8912,P-005,Zona_Industrial,281459,8650129,Lima,Km_34_Carretera_Central
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,289984,8651103,Lima,Km_18_Carretera_Central
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,282436,8651461,Lima,Km_7_Carretera_Central
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_3_9123,P-003,Zona_Industrial,281913,8653237,Lima,Km_18_Carretera_Central
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_4_9123,P-004,Zona_Industrial,283384,8657975,Lima,Km_8_Carretera_Central
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_5_9123,P-005,Zona_Industrial,285471,8651375,Lima,Km_48_Carretera_Central
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_6_9123,P-006,Zona_Industrial,289799,8658127,Lima,Km_15_Carretera_Central
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_7_9123,P-007,Zona_Industrial,285215,8657529,Lima,Km_2_Carretera_Central
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_8_9123,P-008,Zona_Industrial,285234,8657249,Lima,Km_25_Carretera_Central
+9/4/2025 13:21:35,jmartinez.fundicion@gmail.com,FUNDICION MARTINEZ S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,281207,8650252,Lima,Km_5_Carretera_Central
+9/4/2025 13:21:35,jmartinez.fundicion@gmail.com,FUNDICION MARTINEZ S.R.L,20567891234,Establecimiento_2_1234,P-002,Zona_Industrial,284919,8652120,Lima,Km_25_Carretera_Central
+9/5/2025 11:48:58,kmedina.forja@hotmail.com,FORJA MEDINA S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,289692,8659043,Lima,Km_31_Carretera_Central
+9/6/2025 15:14:11,lnuñez.soldadura@yahoo.com,SOLDADURAS NUÑEZ S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,286514,8654955,Lima,Km_23_Carretera_Central
+9/6/2025 15:14:11,lnuñez.soldadura@yahoo.com,SOLDADURAS NUÑEZ S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,289154,8654932,Lima,Km_9_Carretera_Central
+9/6/2025 15:14:11,lnuñez.soldadura@yahoo.com,SOLDADURAS NUÑEZ S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,281111,8655859,Lima,Km_15_Carretera_Central
+9/7/2025 8:39:36,mmoya.tuberia@gmail.com,TUBERIA MOYA S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,287200,8654405,Lima,Km_46_Carretera_Central
+9/7/2025 8:39:36,mmoya.tuberia@gmail.com,TUBERIA MOYA S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,280400,8652514,Lima,Km_49_Carretera_Central
+9/8/2025 12:56:49,nnava.alambre@outlook.com,ALAMBRES NAVA S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,285513,8652076,Lima,Km_25_Carretera_Central
+9/8/2025 12:56:49,nnava.alambre@outlook.com,ALAMBRES NAVA S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,280428,8653517,Lima,Km_26_Carretera_Central
+9/8/2025 12:56:49,nnava.alambre@outlook.com,ALAMBRES NAVA S.A.C,20912345678,Establecimiento_3_5678,P-003,Zona_Industrial,280110,8652319,Lima,Km_26_Carretera_Central
+9/8/2025 12:56:49,nnava.alambre@outlook.com,ALAMBRES NAVA S.A.C,20912345678,Establecimiento_4_5678,P-004,Zona_Industrial,285829,8659248,Lima,Km_41_Carretera_Central
+9/9/2025 17:23:14,oortiz.tornillos@hotmail.com,TORNILLERIA ORTIZ S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,285000,8650397,Lima,Km_9_Carretera_Central
+9/10/2025 14:49:27,ppalacios.herramientas@gmail.com,HERRAMIENTAS PALACIOS S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,287754,8656809,Lima,Km_26_Carretera_Central
+9/10/2025 14:49:27,ppalacios.herramientas@gmail.com,HERRAMIENTAS PALACIOS S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,281592,8654994,Lima,Km_30_Carretera_Central
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,289347,8653149,Lima,Km_40_Carretera_Central
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,287454,8653377,Lima,Km_38_Carretera_Central
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,289688,8653963,Lima,Km_5_Carretera_Central
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_4_8912,P-004,Zona_Industrial,286413,8656799,Lima,Km_36_Carretera_Central
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_5_8912,P-005,Zona_Industrial,282212,8651197,Lima,Km_45_Carretera_Central
+9/12/2025 16:43:17,rquiroz.motores@outlook.com,MOTORES QUIROZ S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,281486,8650888,Lima,Km_5_Carretera_Central
+9/12/2025 16:43:17,rquiroz.motores@outlook.com,MOTORES QUIROZ S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,282744,8654715,Lima,Km_6_Carretera_Central
+9/12/2025 16:43:17,rquiroz.motores@outlook.com,MOTORES QUIROZ S.A,20456789123,Establecimiento_3_9123,P-003,Zona_Industrial,281331,8653141,Lima,Km_37_Carretera_Central
+9/13/2025 9:18:52,sramirez.bombas@gmail.com,BOMBAS RAMIREZ S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,288909,8655942,Lima,Km_13_Carretera_Central
+9/14/2025 13:45:15,tromero.valvulas@hotmail.com,VALVULAS ROMERO S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,284764,8651463,Lima,Km_6_Carretera_Central
+9/14/2025 13:45:15,tromero.valvulas@hotmail.com,VALVULAS ROMERO S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,289915,8657124,Lima,Km_22_Carretera_Central
+9/15/2025 11:12:38,usaavedra.compresores@yahoo.com,COMPRESORES SAAVEDRA S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,282019,8655027,Lima,Km_20_Carretera_Central
+9/15/2025 11:12:38,usaavedra.compresores@yahoo.com,COMPRESORES SAAVEDRA S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,282289,8653393,Lima,Km_1_Carretera_Central
+9/15/2025 11:12:38,usaavedra.compresores@yahoo.com,COMPRESORES SAAVEDRA S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,283844,8657642,Lima,Km_37_Carretera_Central
+9/15/2025 11:12:38,usaavedra.compresores@yahoo.com,COMPRESORES SAAVEDRA S.A,20789123456,Establecimiento_4_3456,P-004,Zona_Industrial,288032,8655519,Lima,Km_19_Carretera_Central
+9/16/2025 15:38:51,vsalinas.generadores@gmail.com,GENERADORES SALINAS S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,282635,8655191,Lima,Km_27_Carretera_Central
+9/16/2025 15:38:51,vsalinas.generadores@gmail.com,GENERADORES SALINAS S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,287427,8652471,Lima,Km_46_Carretera_Central
+9/16/2025 15:38:51,vsalinas.generadores@gmail.com,GENERADORES SALINAS S.R.L,20891234567,Establecimiento_3_4567,P-003,Zona_Industrial,284296,8651294,Lima,Km_32_Carretera_Central
+9/17/2025 8:05:24,wsilva.transformadores@outlook.com,TRANSFORMADORES SILVA S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,289166,8655315,Lima,Km_32_Carretera_Central
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,287755,8654165,Lima,Km_43_Carretera_Central
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,280817,8656966,Lima,Km_25_Carretera_Central
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_3_6789,P-003,Zona_Industrial,282012,8652258,Lima,Km_13_Carretera_Central
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_4_6789,P-004,Zona_Industrial,284361,8651092,Lima,Km_43_Carretera_Central
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_5_6789,P-005,Zona_Industrial,285440,8650987,Lima,Km_46_Carretera_Central
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_6_6789,P-006,Zona_Industrial,287446,8653496,Lima,Km_19_Carretera_Central
+9/19/2025 17:58:12,ytorres.baterias@gmail.com,BATERIAS TORRES S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,285354,8652149,Lima,Km_10_Carretera_Central
+9/19/2025 17:58:12,ytorres.baterias@gmail.com,BATERIAS TORRES S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,284804,8650233,Lima,Km_45_Carretera_Central
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,281605,8655644,Lima,Km_44_Carretera_Central
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,281323,8655826,Lima,Km_42_Carretera_Central
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,284374,8652682,Lima,Km_46_Carretera_Central
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_4_8912,P-004,Zona_Industrial,289112,8657677,Lima,Km_41_Carretera_Central
+9/21/2025 10:51:58,avera.iluminacion@outlook.com,ILUMINACION VERA S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,286117,8651894,Lima,Km_18_Carretera_Central
+9/22/2025 16:17:21,bvargas.antenas@gmail.com,ANTENAS VARGAS S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,286418,8655087,Lima,Km_23_Carretera_Central
+9/22/2025 16:17:21,bvargas.antenas@gmail.com,ANTENAS VARGAS S.R.L,20567891234,Establecimiento_2_1234,P-002,Zona_Industrial,281235,8650641,Lima,Km_50_Carretera_Central
+9/22/2025 16:17:21,bvargas.antenas@gmail.com,ANTENAS VARGAS S.R.L,20567891234,Establecimiento_3_1234,P-003,Zona_Industrial,287270,8656845,Lima,Km_31_Carretera_Central
+9/23/2025 9:44:46,cweber.audio@hotmail.com,AUDIO WEBER S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,289819,8658304,Lima,Km_9_Carretera_Central
+9/23/2025 9:44:46,cweber.audio@hotmail.com,AUDIO WEBER S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,286682,8653274,Lima,Km_34_Carretera_Central
+9/24/2025 13:11:09,dvidal.video@yahoo.com,VIDEO VIDAL S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,288912,8654098,Lima,Km_38_Carretera_Central
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,280013,8650525,Lima,Km_17_Carretera_Central
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,286558,8650149,Lima,Km_18_Carretera_Central
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_3_4567,P-003,Zona_Industrial,288989,8658611,Lima,Km_35_Carretera_Central
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_4_4567,P-004,Zona_Industrial,288248,8656964,Lima,Km_39_Carretera_Central
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_5_4567,P-005,Zona_Industrial,287442,8657320,Lima,Km_43_Carretera_Central
+9/26/2025 15:04:55,fxavier.software@outlook.com,SOFTWARE XAVIER S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,282107,8654864,Lima,Km_11_Carretera_Central
+9/27/2025 8:31:18,gyañez.redes@hotmail.com,REDES YAÑEZ S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,281854,8659097,Lima,Km_49_Carretera_Central
+9/27/2025 8:31:18,gyañez.redes@hotmail.com,REDES YAÑEZ S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,287664,8652088,Lima,Km_33_Carretera_Central
+9/28/2025 12:58:43,hzarate.telefonia@gmail.com,TELEFONIA ZARATE S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,287109,8650250,Lima,Km_13_Carretera_Central
+9/28/2025 12:58:43,hzarate.telefonia@gmail.com,TELEFONIA ZARATE S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,284647,8659124,Lima,Km_3_Carretera_Central
+9/28/2025 12:58:43,hzarate.telefonia@gmail.com,TELEFONIA ZARATE S.R.L,20234567891,Establecimiento_3_7891,P-003,Zona_Industrial,282230,8652608,Lima,Km_23_Carretera_Central
+9/28/2025 12:58:43,hzarate.telefonia@gmail.com,TELEFONIA ZARATE S.R.L,20234567891,Establecimiento_4_7891,P-004,Zona_Industrial,289380,8657004,Lima,Km_18_Carretera_Central
+9/29/2025 17:25:16,iabad.internet@yahoo.com,INTERNET ABAD S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,284590,8659399,Lima,Km_50_Carretera_Central
+9/29/2025 17:25:16,iabad.internet@yahoo.com,INTERNET ABAD S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,285246,8650367,Lima,Km_32_Carretera_Central
+9/29/2025 17:25:16,iabad.internet@yahoo.com,INTERNET ABAD S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,282331,8657486,Lima,Km_2_Carretera_Central
+9/30/2025 14:52:39,jabreu.hosting@outlook.com,HOSTING ABREU S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,288610,8652257,Lima,Km_21_Carretera_Central
+10/1/2025 10:19:52,kacosta.web@gmail.com,WEB ACOSTA S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,288789,8653372,Lima,Km_20_Carretera_Central
+10/1/2025 10:19:52,kacosta.web@gmail.com,WEB ACOSTA S.R.L,20567891234,Establecimiento_2_1234,P-002,Zona_Industrial,283146,8654398,Lima,Km_13_Carretera_Central
+10/2/2025 16:46:17,laguilar.marketing@hotmail.com,MARKETING AGUILAR S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,286862,8650117,Lima,Km_26_Carretera_Central
+10/2/2025 16:46:17,laguilar.marketing@hotmail.com,MARKETING AGUILAR S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,283905,8650703,Lima,Km_17_Carretera_Central
+10/2/2025 16:46:17,laguilar.marketing@hotmail.com,MARKETING AGUILAR S.A.C,20678912345,Establecimiento_3_2345,P-003,Zona_Industrial,289128,8651504,Lima,Km_17_Carretera_Central
+10/3/2025 9:13:42,malarcón.eventos@yahoo.com,EVENTOS ALARCON S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,284703,8651770,Lima,Km_20_Carretera_Central
+10/4/2025 13:39:05,naldana.catering@gmail.com,CATERING ALDANA S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,289802,8655101,Lima,Km_21_Carretera_Central
+10/4/2025 13:39:05,naldana.catering@gmail.com,CATERING ALDANA S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,280340,8658380,Lima,Km_26_Carretera_Central
+10/4/2025 13:39:05,naldana.catering@gmail.com,CATERING ALDANA S.R.L,20891234567,Establecimiento_3_4567,P-003,Zona_Industrial,281565,8658334,Lima,Km_28_Carretera_Central
+10/4/2025 13:39:05,naldana.catering@gmail.com,CATERING ALDANA S.R.L,20891234567,Establecimiento_4_4567,P-004,Zona_Industrial,282975,8652432,Lima,Km_6_Carretera_Central
+10/5/2025 11:06:28,oalmonte.floreria@outlook.com,FLORERIA ALMONTE S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,284015,8652416,Lima,Km_5_Carretera_Central
+10/5/2025 11:06:28,oalmonte.floreria@outlook.com,FLORERIA ALMONTE S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,288923,8650718,Lima,Km_48_Carretera_Central
+10/6/2025 15:32:51,palvarez.joyeria@hotmail.com,JOYERIA ALVAREZ S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,283779,8652339,Lima,Km_4_Carretera_Central
+10/7/2025 8:59:14,qandrade.relojeria@gmail.com,RELOJERIA ANDRADE S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,285738,8659497,Lima,Km_11_Carretera_Central
+10/8/2025 12:25:37,rangulo.optica@yahoo.com,OPTICA ANGULO S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,282463,8652255,Lima,Km_16_Carretera_Central
+10/8/2025 12:25:37,rangulo.optica@yahoo.com,OPTICA ANGULO S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,289967,8655383,Lima,Km_6_Carretera_Central
+10/8/2025 12:25:37,rangulo.optica@yahoo.com,OPTICA ANGULO S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,287949,8654695,Lima,Km_2_Carretera_Central
+10/9/2025 17:52:12,saparicio.fotografia@outlook.com,FOTOGRAFIA APARICIO S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,281379,8650153,Lima,Km_40_Carretera_Central
+10/10/2025 14:18:35,tarana.imprenta@gmail.com,IMPRENTA ARANA S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,285161,8656600,Lima,Km_24_Carretera_Central
+10/10/2025 14:18:35,tarana.imprenta@gmail.com,IMPRENTA ARANA S.R.L,20567891234,Establecimiento_2_1234,P-002,Zona_Industrial,289169,8657738,Lima,Km_11_Carretera_Central
+10/11/2025 10:45:58,uarce.editorial@hotmail.com,EDITORIAL ARCE S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,289286,8651582,Lima,Km_46_Carretera_Central
+10/12/2025 16:12:21,varenas.libreria@yahoo.com,LIBRERIA ARENAS S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,283938,8651278,Lima,Km_12_Carretera_Central
+10/12/2025 16:12:21,varenas.libreria@yahoo.com,LIBRERIA ARENAS S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,283068,8651597,Lima,Km_38_Carretera_Central
+10/12/2025 16:12:21,varenas.libreria@yahoo.com,LIBRERIA ARENAS S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,283361,8658427,Lima,Km_19_Carretera_Central
+10/12/2025 16:12:21,varenas.libreria@yahoo.com,LIBRERIA ARENAS S.A,20789123456,Establecimiento_4_3456,P-004,Zona_Industrial,288049,8650426,Lima,Km_2_Carretera_Central
+10/13/2025 9:38:46,warias.papeleria@gmail.com,PAPELERIA ARIAS S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,286773,8655706,Lima,Km_4_Carretera_Central
+10/13/2025 9:38:46,warias.papeleria@gmail.com,PAPELERIA ARIAS S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,287378,8655131,Lima,Km_46_Carretera_Central
+10/14/2025 13:05:19,xarmstrong.deportes@outlook.com,DEPORTES ARMSTRONG S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,280876,8655997,Lima,Km_39_Carretera_Central
+10/14/2025 13:05:19,xarmstrong.deportes@outlook.com,DEPORTES ARMSTRONG S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,282128,8654582,Lima,Km_34_Carretera_Central
+10/14/2025 13:05:19,xarmstrong.deportes@outlook.com,DEPORTES ARMSTRONG S.A.C,20912345678,Establecimiento_3_5678,P-003,Zona_Industrial,280468,8658574,Lima,Km_14_Carretera_Central
+10/15/2025 11:31:42,yarruda.gimnasio@hotmail.com,GIMNASIO ARRUDA S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,289502,8659385,Lima,Km_10_Carretera_Central
+10/16/2025 15:58:05,zascencio.piscina@gmail.com,PISCINAS ASCENCIO S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,284970,8657106,Lima,Km_44_Carretera_Central
+10/16/2025 15:58:05,zascencio.piscina@gmail.com,PISCINAS ASCENCIO S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,283414,8652277,Lima,Km_12_Carretera_Central
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,285943,8651580,Lima,Km_5_Carretera_Central
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,281592,8654839,Lima,Km_31_Carretera_Central
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,289903,8651989,Lima,Km_5_Carretera_Central
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_4_8912,P-004,Zona_Industrial,287110,8655632,Lima,Km_28_Carretera_Central
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_5_8912,P-005,Zona_Industrial,285359,8656499,Lima,Km_39_Carretera_Central
+10/18/2025 12:51:53,bbaez.fumigacion@outlook.com,FUMIGACION BAEZ S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,288742,8652089,Lima,Km_35_Carretera_Central
+10/18/2025 12:51:53,bbaez.fumigacion@outlook.com,FUMIGACION BAEZ S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,286360,8659187,Lima,Km_30_Carretera_Central
+10/18/2025 12:51:53,bbaez.fumigacion@outlook.com,FUMIGACION BAEZ S.A,20456789123,Establecimiento_3_9123,P-003,Zona_Industrial,281523,8651864,Lima,Km_36_Carretera_Central
+10/19/2025 17:18:16,cbaldeon.veterinaria@gmail.com,VETERINARIA BALDEON S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,287406,8650138,Lima,Km_29_Carretera_Central
+10/20/2025 14:44:39,dbarrera.mascotas@hotmail.com,MASCOTAS BARRERA S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,286388,8654641,Lima,Km_12_Carretera_Central
+10/20/2025 14:44:39,dbarrera.mascotas@hotmail.com,MASCOTAS BARRERA S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,289533,8650855,Lima,Km_13_Carretera_Central
+10/21/2025 10:11:52,ebarrios.agroveterinaria@yahoo.com,AGROVETERINARIA BARRIOS S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,285992,8654802,Lima,Km_39_Carretera_Central
+10/21/2025 10:11:52,ebarrios.agroveterinaria@yahoo.com,AGROVETERINARIA BARRIOS S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,288035,8656194,Lima,Km_50_Carretera_Central
+10/21/2025 10:11:52,ebarrios.agroveterinaria@yahoo.com,AGROVETERINARIA BARRIOS S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,282349,8655837,Lima,Km_48_Carretera_Central
+10/21/2025 10:11:52,ebarrios.agroveterinaria@yahoo.com,AGROVETERINARIA BARRIOS S.A,20789123456,Establecimiento_4_3456,P-004,Zona_Industrial,283947,8650259,Lima,Km_24_Carretera_Central
+10/22/2025 16:38:17,fbatista.semillas@gmail.com,SEMILLAS BATISTA S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,289072,8650582,Lima,Km_5_Carretera_Central
+10/22/2025 16:38:17,fbatista.semillas@gmail.com,SEMILLAS BATISTA S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,284153,8654969,Lima,Km_19_Carretera_Central
+10/22/2025 16:38:17,fbatista.semillas@gmail.com,SEMILLAS BATISTA S.R.L,20891234567,Establecimiento_3_4567,P-003,Zona_Industrial,288840,8650553,Lima,Km_3_Carretera_Central
+10/23/2025 9:05:42,gbecerra.fertilizantes@outlook.com,FERTILIZANTES BECERRA S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,285433,8659703,Lima,Km_42_Carretera_Central
+10/23/2025 9:05:42,gbecerra.fertilizantes@outlook.com,FERTILIZANTES BECERRA S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,287486,8653611,Lima,Km_32_Carretera_Central
+10/24/2025 13:32:05,hbeltran.pesticidas@hotmail.com,PESTICIDAS BELTRAN S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,285470,8659659,Lima,Km_50_Carretera_Central
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,281336,8657277,Lima,Km_20_Carretera_Central
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,287715,8651498,Lima,Km_5_Carretera_Central
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_3_7891,P-003,Zona_Industrial,281343,8655375,Lima,Km_10_Carretera_Central
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_4_7891,P-004,Zona_Industrial,289289,8650386,Lima,Km_45_Carretera_Central
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_5_7891,P-005,Zona_Industrial,283812,8656048,Lima,Km_25_Carretera_Central
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_6_7891,P-006,Zona_Industrial,280764,8653115,Lima,Km_25_Carretera_Central
+10/26/2025 15:25:51,jblanco.invernaderos@yahoo.com,INVERNADEROS BLANCO S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,289345,8655394,Lima,Km_43_Carretera_Central
+10/26/2025 15:25:51,jblanco.invernaderos@yahoo.com,INVERNADEROS BLANCO S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,284902,8653153,Lima,Km_44_Carretera_Central
+10/26/2025 15:25:51,jblanco.invernaderos@yahoo.com,INVERNADEROS BLANCO S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,285036,8654713,Lima,Km_40_Carretera_Central
+10/27/2025 8:52:14,kbonilla.hidroponicos@outlook.com,HIDROPONICOS BONILLA S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,283077,8651921,Lima,Km_47_Carretera_Central
+10/27/2025 8:52:14,kbonilla.hidroponicos@outlook.com,HIDROPONICOS BONILLA S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,281320,8655547,Lima,Km_50_Carretera_Central
+10/28/2025 12:19:37,lborja.organicos@gmail.com,ORGANICOS BORJA S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,285521,8655396,Lima,Km_37_Carretera_Central
+10/28/2025 12:19:37,lborja.organicos@gmail.com,ORGANICOS BORJA S.R.L,20567891234,Establecimiento_2_1234,P-002,Zona_Industrial,288242,8653428,Lima,Km_11_Carretera_Central
+10/28/2025 12:19:37,lborja.organicos@gmail.com,ORGANICOS BORJA S.R.L,20567891234,Establecimiento_3_1234,P-003,Zona_Industrial,280046,8652331,Lima,Km_44_Carretera_Central
+10/28/2025 12:19:37,lborja.organicos@gmail.com,ORGANICOS BORJA S.R.L,20567891234,Establecimiento_4_1234,P-004,Zona_Industrial,285883,8650084,Lima,Km_40_Carretera_Central
+10/29/2025 17:46:12,mbravo.exportacion@hotmail.com,EXPORTADORA BRAVO S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,288322,8658001,Lima,Km_11_Carretera_Central
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,283611,8654706,Lima,Km_48_Carretera_Central
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,286196,8653917,Lima,Km_43_Carretera_Central
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,285367,8658494,Lima,Km_9_Carretera_Central
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_4_3456,P-004,Zona_Industrial,282977,8655957,Lima,Km_29_Carretera_Central
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_5_3456,P-005,Zona_Industrial,283452,8651572,Lima,Km_38_Carretera_Central
+10/31/2025 10:39:58,oburgos.aduanas@gmail.com,ADUANAS BURGOS S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,285655,8651717,Lima,Km_28_Carretera_Central
+10/31/2025 10:39:58,oburgos.aduanas@gmail.com,ADUANAS BURGOS S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,282822,8659777,Lima,Km_3_Carretera_Central
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,289105,8656399,Lima,Km_11_Carretera_Central
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,282646,8653396,Lima,Km_27_Carretera_Central
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_3_5678,P-003,Zona_Industrial,289486,8655603,Lima,Km_4_Carretera_Central
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_4_5678,P-004,Zona_Industrial,289447,8656103,Lima,Km_40_Carretera_Central
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_5_5678,P-005,Zona_Industrial,282413,8658819,Lima,Km_7_Carretera_Central
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_6_5678,P-006,Zona_Industrial,280764,8653964,Lima,Km_26_Carretera_Central
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_7_5678,P-007,Zona_Industrial,282898,8654276,Lima,Km_49_Carretera_Central
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_8_5678,P-008,Zona_Industrial,281871,8653761,Lima,Km_26_Carretera_Central
+11/2/2025 9:33:46,qcabrera.distribuidora@hotmail.com,DISTRIBUIDORA CABRERA S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,281218,8652025,Lima,Km_11_Carretera_Central
+11/2/2025 9:33:46,qcabrera.distribuidora@hotmail.com,DISTRIBUIDORA CABRERA S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,280873,8655630,Lima,Km_35_Carretera_Central
+11/2/2025 9:33:46,qcabrera.distribuidora@hotmail.com,DISTRIBUIDORA CABRERA S.A,20123456789,Establecimiento_3_6789,P-003,Zona_Industrial,280351,8656119,Lima,Km_1_Carretera_Central
+11/3/2025 13:59:09,rcaldera.mayorista@gmail.com,MAYORISTA CALDERA S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,282930,8659507,Lima,Km_8_Carretera_Central
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,282098,8655562,Lima,Km_32_Carretera_Central
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,281512,8653768,Lima,Km_25_Carretera_Central
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,287299,8656647,Lima,Km_32_Carretera_Central
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_4_8912,P-004,Zona_Industrial,283518,8655178,Lima,Km_10_Carretera_Central
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_5_8912,P-005,Zona_Industrial,282532,8650176,Lima,Km_29_Carretera_Central
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_6_8912,P-006,Zona_Industrial,282401,8656364,Lima,Km_21_Carretera_Central
+11/5/2025 15:52:55,tcampos.supermercado@outlook.com,SUPERMERCADO CAMPOS S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,283396,8653192,Lima,Km_49_Carretera_Central
+11/5/2025 15:52:55,tcampos.supermercado@outlook.com,SUPERMERCADO CAMPOS S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,285206,8650367,Lima,Km_34_Carretera_Central
+11/5/2025 15:52:55,tcampos.supermercado@outlook.com,SUPERMERCADO CAMPOS S.A,20456789123,Establecimiento_3_9123,P-003,Zona_Industrial,288729,8652384,Lima,Km_40_Carretera_Central
+11/5/2025 15:52:55,tcampos.supermercado@outlook.com,SUPERMERCADO CAMPOS S.A,20456789123,Establecimiento_4_9123,P-004,Zona_Industrial,286342,8651458,Lima,Km_38_Carretera_Central
+11/6/2025 8:19:18,ucampusano.minimarket@gmail.com,MINIMARKET CAMPUSANO S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,286367,8651540,Lima,Km_19_Carretera_Central
+11/6/2025 8:19:18,ucampusano.minimarket@gmail.com,MINIMARKET CAMPUSANO S.R.L,20567891234,Establecimiento_2_1234,P-002,Zona_Industrial,285546,8652264,Lima,Km_10_Carretera_Central
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,284684,8653135,Lima,Km_50_Carretera_Central
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,283757,8657830,Lima,Km_42_Carretera_Central
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_3_2345,P-003,Zona_Industrial,289103,8652699,Lima,Km_26_Carretera_Central
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_4_2345,P-004,Zona_Industrial,286775,8651800,Lima,Km_2_Carretera_Central
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_5_2345,P-005,Zona_Industrial,281641,8659388,Lima,Km_41_Carretera_Central
+11/8/2025 17:13:06,wcañas.licoreria@yahoo.com,LICORERIA CAÑAS S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,286128,8654524,Lima,Km_42_Carretera_Central
+11/9/2025 14:40:29,xcarbajal.tabaqueria@gmail.com,TABAQUERIA CARBAJAL S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,281951,8655819,Lima,Km_45_Carretera_Central
+11/9/2025 14:40:29,xcarbajal.tabaqueria@gmail.com,TABAQUERIA CARBAJAL S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,282208,8655263,Lima,Km_14_Carretera_Central
+11/10/2025 10:07:52,ycardenas.farmacia@outlook.com,FARMACIA CARDENAS S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,288836,8653575,Lima,Km_7_Carretera_Central
+11/10/2025 10:07:52,ycardenas.farmacia@outlook.com,FARMACIA CARDENAS S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,282089,8653745,Lima,Km_21_Carretera_Central
+11/10/2025 10:07:52,ycardenas.farmacia@outlook.com,FARMACIA CARDENAS S.A.C,20912345678,Establecimiento_3_5678,P-003,Zona_Industrial,286251,8654347,Lima,Km_5_Carretera_Central
+11/11/2025 16:34:15,zcarrillo.drogueria@hotmail.com,DROGUERIA CARRILLO S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,289909,8652657,Lima,Km_49_Carretera_Central
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,280410,8653167,Lima,Km_31_Carretera_Central
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,285465,8653088,Lima,Km_34_Carretera_Central
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_3_7891,P-003,Zona_Industrial,287878,8653902,Lima,Km_47_Carretera_Central
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_4_7891,P-004,Zona_Industrial,284917,8654686,Lima,Km_45_Carretera_Central
+11/13/2025 13:28:01,bcastro.perfumeria@yahoo.com,PERFUMERIA CASTRO S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,287733,8650726,Lima,Km_9_Carretera_Central
+11/13/2025 13:28:01,bcastro.perfumeria@yahoo.com,PERFUMERIA CASTRO S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,286425,8656348,Lima,Km_29_Carretera_Central
+11/14/2025 11:54:24,ccervantes.peluqueria@outlook.com,PELUQUERIA CERVANTES S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,280368,8651668,Lima,Km_29_Carretera_Central
+11/14/2025 11:54:24,ccervantes.peluqueria@outlook.com,PELUQUERIA CERVANTES S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,286502,8654257,Lima,Km_22_Carretera_Central
+11/14/2025 11:54:24,ccervantes.peluqueria@outlook.com,PELUQUERIA CERVANTES S.A,20456789123,Establecimiento_3_9123,P-003,Zona_Industrial,284651,8653560,Lima,Km_43_Carretera_Central
+11/15/2025 15:21:47,dchacon.spa@gmail.com,SPA CHACON S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,288924,8659207,Lima,Km_4_Carretera_Central
+11/16/2025 8:48:12,echavez.gimnasio@hotmail.com,GIMNASIO CHAVEZ S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,284998,8653311,Lima,Km_11_Carretera_Central
+11/16/2025 8:48:12,echavez.gimnasio@hotmail.com,GIMNASIO CHAVEZ S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,286231,8655932,Lima,Km_36_Carretera_Central
+11/17/2025 12:15:35,fchiara.danza@yahoo.com,ACADEMIA DANZA CHIARA S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,281390,8654760,Lima,Km_44_Carretera_Central
+11/18/2025 17:42:58,gcifuentes.musica@gmail.com,ESCUELA MUSICA CIFUENTES S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,285654,8651531,Lima,Km_31_Carretera_Central
+11/18/2025 17:42:58,gcifuentes.musica@gmail.com,ESCUELA MUSICA CIFUENTES S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,281183,8651893,Lima,Km_13_Carretera_Central
+11/18/2025 17:42:58,gcifuentes.musica@gmail.com,ESCUELA MUSICA CIFUENTES S.R.L,20891234567,Establecimiento_3_4567,P-003,Zona_Industrial,286595,8653566,Lima,Km_18_Carretera_Central
+11/18/2025 17:42:58,gcifuentes.musica@gmail.com,ESCUELA MUSICA CIFUENTES S.R.L,20891234567,Establecimiento_4_4567,P-004,Zona_Industrial,288921,8652328,Lima,Km_1_Carretera_Central
+11/19/2025 14:09:21,hcoello.arte@outlook.com,TALLER ARTE COELLO S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,288660,8652631,Lima,Km_13_Carretera_Central
+11/20/2025 10:36:46,icolmenares.fotografia@hotmail.com,ESTUDIO FOTOGRAFIA COLMENARES S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,288156,8651758,Lima,Km_11_Carretera_Central
+11/20/2025 10:36:46,icolmenares.fotografia@hotmail.com,ESTUDIO FOTOGRAFIA COLMENARES S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,280257,8659356,Lima,Km_12_Carretera_Central
+11/21/2025 16:03:09,jcordero.video@gmail.com,PRODUCTORA VIDEO CORDERO S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,289987,8659157,Lima,Km_11_Carretera_Central
+11/21/2025 16:03:09,jcordero.video@gmail.com,PRODUCTORA VIDEO CORDERO S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,282985,8650427,Lima,Km_36_Carretera_Central
+11/21/2025 16:03:09,jcordero.video@gmail.com,PRODUCTORA VIDEO CORDERO S.R.L,20234567891,Establecimiento_3_7891,P-003,Zona_Industrial,287789,8653114,Lima,Km_18_Carretera_Central
+11/22/2025 9:29:32,kcorrea.radio@yahoo.com,RADIO CORREA S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,287968,8655444,Lima,Km_47_Carretera_Central
+11/23/2025 13:56:57,lcortez.television@outlook.com,TELEVISION CORTEZ S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,286571,8650495,Lima,Km_45_Carretera_Central
+11/23/2025 13:56:57,lcortez.television@outlook.com,TELEVISION CORTEZ S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,287619,8650874,Lima,Km_28_Carretera_Central
+11/24/2025 11:23:20,mcristobal.periodico@gmail.com,PERIODICO CRISTOBAL S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,287109,8653815,Lima,Km_35_Carretera_Central
+11/25/2025 15:49:43,ncruz.revista@hotmail.com,REVISTA CRUZ S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,283711,8650093,Lima,Km_15_Carretera_Central
+11/25/2025 15:49:43,ncruz.revista@hotmail.com,REVISTA CRUZ S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,289997,8657801,Lima,Km_37_Carretera_Central
+11/25/2025 15:49:43,ncruz.revista@hotmail.com,REVISTA CRUZ S.A.C,20678912345,Establecimiento_3_2345,P-003,Zona_Industrial,283141,8659289,Lima,Km_28_Carretera_Central
+11/26/2025 8:16:08,ocuadros.publicidad@yahoo.com,AGENCIA PUBLICIDAD CUADROS S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,289939,8651004,Lima,Km_40_Carretera_Central
+11/26/2025 8:16:08,ocuadros.publicidad@yahoo.com,AGENCIA PUBLICIDAD CUADROS S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,283337,8650411,Lima,Km_50_Carretera_Central
+11/26/2025 8:16:08,ocuadros.publicidad@yahoo.com,AGENCIA PUBLICIDAD CUADROS S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,282098,8657155,Lima,Km_35_Carretera_Central
+11/26/2025 8:16:08,ocuadros.publicidad@yahoo.com,AGENCIA PUBLICIDAD CUADROS S.A,20789123456,Establecimiento_4_3456,P-004,Zona_Industrial,282370,8656729,Lima,Km_49_Carretera_Central
+11/27/2025 12:43:31,pcuellar.diseño@gmail.com,DISEÑO CUELLAR S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,281610,8658700,Lima,Km_34_Carretera_Central
+11/27/2025 12:43:31,pcuellar.diseño@gmail.com,DISEÑO CUELLAR S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,289378,8652349,Lima,Km_14_Carretera_Central
+11/28/2025 17:09:54,qcuesta.arquitectura@outlook.com,ARQUITECTURA CUESTA S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,284897,8652888,Lima,Km_35_Carretera_Central
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,284989,8651583,Lima,Km_31_Carretera_Central
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,282178,8655907,Lima,Km_8_Carretera_Central
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_3_6789,P-003,Zona_Industrial,281268,8653736,Lima,Km_46_Carretera_Central
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_4_6789,P-004,Zona_Industrial,284341,8659871,Lima,Km_6_Carretera_Central
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_5_6789,P-005,Zona_Industrial,283272,8655141,Lima,Km_28_Carretera_Central
+11/30/2025 10:04:42,sdelgado.demolicion@gmail.com,DEMOLICIONES DELGADO S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,289811,8650770,Lima,Km_11_Carretera_Central
+11/30/2025 10:04:42,sdelgado.demolicion@gmail.com,DEMOLICIONES DELGADO S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,289411,8659863,Lima,Km_17_Carretera_Central
+11/30/2025 10:04:42,sdelgado.demolicion@gmail.com,DEMOLICIONES DELGADO S.R.L,20234567891,Establecimiento_3_7891,P-003,Zona_Industrial,280522,8655012,Lima,Km_3_Carretera_Central
+12/1/2025 16:31:05,tdiaz.excavacion@yahoo.com,EXCAVACIONES DIAZ S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,283644,8653998,Lima,Km_36_Carretera_Central
+12/1/2025 16:31:05,tdiaz.excavacion@yahoo.com,EXCAVACIONES DIAZ S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,285583,8655957,Lima,Km_22_Carretera_Central
+12/2/2025 9:57:28,udominguez.asfalto@outlook.com,ASFALTOS DOMINGUEZ S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,282640,8657972,Lima,Km_20_Carretera_Central
+12/2/2025 9:57:28,udominguez.asfalto@outlook.com,ASFALTOS DOMINGUEZ S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,281229,8653305,Lima,Km_11_Carretera_Central
+12/2/2025 9:57:28,udominguez.asfalto@outlook.com,ASFALTOS DOMINGUEZ S.A,20456789123,Establecimiento_3_9123,P-003,Zona_Industrial,288140,8650231,Lima,Km_12_Carretera_Central
+12/2/2025 9:57:28,udominguez.asfalto@outlook.com,ASFALTOS DOMINGUEZ S.A,20456789123,Establecimiento_4_9123,P-004,Zona_Industrial,285763,8658579,Lima,Km_46_Carretera_Central
+12/3/2025 13:24:53,vduarte.concreto@gmail.com,CONCRETOS DUARTE S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,280681,8655675,Lima,Km_29_Carretera_Central
+12/4/2025 11:51:16,wduran.acero@hotmail.com,ESTRUCTURAS ACERO DURAN S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,289638,8650973,Lima,Km_14_Carretera_Central
+12/4/2025 11:51:16,wduran.acero@hotmail.com,ESTRUCTURAS ACERO DURAN S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,287186,8652177,Lima,Km_17_Carretera_Central
+12/4/2025 11:51:16,wduran.acero@hotmail.com,ESTRUCTURAS ACERO DURAN S.A.C,20678912345,Establecimiento_3_2345,P-003,Zona_Industrial,288780,8656389,Lima,Km_49_Carretera_Central
+12/5/2025 15:18:39,xespinoza.vidrio@yahoo.com,VIDRIOS ESPINOZA S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,287833,8655274,Lima,Km_16_Carretera_Central
+12/5/2025 15:18:39,xespinoza.vidrio@yahoo.com,VIDRIOS ESPINOZA S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,285877,8655597,Lima,Km_38_Carretera_Central
+12/6/2025 8:45:04,yesquivel.aluminio@gmail.com,ALUMINIOS ESQUIVEL S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,286088,8651108,Lima,Km_9_Carretera_Central
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,287186,8655538,Lima,Km_10_Carretera_Central
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,285670,8656111,Lima,Km_46_Carretera_Central
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_3_5678,P-003,Zona_Industrial,286302,8654863,Lima,Km_14_Carretera_Central
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_4_5678,P-004,Zona_Industrial,286463,8656636,Lima,Km_18_Carretera_Central
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_5_5678,P-005,Zona_Industrial,283532,8658278,Lima,Km_36_Carretera_Central
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_6_5678,P-006,Zona_Industrial,280004,8651007,Lima,Km_29_Carretera_Central
+12/8/2025 17:38:52,afigueroa.muebles@hotmail.com,MUEBLES FIGUEROA S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,289344,8653147,Lima,Km_27_Carretera_Central
+12/8/2025 17:38:52,afigueroa.muebles@hotmail.com,MUEBLES FIGUEROA S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,285418,8654117,Lima,Km_45_Carretera_Central
+12/8/2025 17:38:52,afigueroa.muebles@hotmail.com,MUEBLES FIGUEROA S.A,20123456789,Establecimiento_3_6789,P-003,Zona_Industrial,287798,8659163,Lima,Km_46_Carretera_Central
+12/8/2025 17:38:52,afigueroa.muebles@hotmail.com,MUEBLES FIGUEROA S.A,20123456789,Establecimiento_4_6789,P-004,Zona_Industrial,285323,8659025,Lima,Km_20_Carretera_Central
+12/9/2025 14:06:15,bflores.tapiceria@gmail.com,TAPICERIA FLORES S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,285255,8653240,Lima,Km_2_Carretera_Central
+12/9/2025 14:06:15,bflores.tapiceria@gmail.com,TAPICERIA FLORES S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,283982,8659325,Lima,Km_33_Carretera_Central
+12/10/2025 10:32:38,cfonseca.cortinas@yahoo.com,CORTINAS FONSECA S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,287239,8651987,Lima,Km_15_Carretera_Central
+12/11/2025 16:59:13,dfuentes.alfombras@outlook.com,ALFOMBRAS FUENTES S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,288392,8656510,Lima,Km_35_Carretera_Central
+12/11/2025 16:59:13,dfuentes.alfombras@outlook.com,ALFOMBRAS FUENTES S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,280725,8654828,Lima,Km_14_Carretera_Central
+12/11/2025 16:59:13,dfuentes.alfombras@outlook.com,ALFOMBRAS FUENTES S.A,20456789123,Establecimiento_3_9123,P-003,Zona_Industrial,284994,8658419,Lima,Km_20_Carretera_Central
+12/12/2025 9:25:36,egallardo.colchones@gmail.com,COLCHONES GALLARDO S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,280776,8653481,Lima,Km_10_Carretera_Central
+12/12/2025 9:25:36,egallardo.colchones@gmail.com,COLCHONES GALLARDO S.R.L,20567891234,Establecimiento_2_1234,P-002,Zona_Industrial,281176,8655214,Lima,Km_34_Carretera_Central
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,281527,8659411,Lima,Km_32_Carretera_Central
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,283705,8658916,Lima,Km_20_Carretera_Central
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_3_2345,P-003,Zona_Industrial,280660,8659488,Lima,Km_46_Carretera_Central
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_4_2345,P-004,Zona_Industrial,281691,8650777,Lima,Km_15_Carretera_Central
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_5_2345,P-005,Zona_Industrial,284902,8659096,Lima,Km_41_Carretera_Central
+12/14/2025 11:19:24,ggil.ferreteria@yahoo.com,FERRETERIA GIL S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,281723,8650853,Lima,Km_9_Carretera_Central
+12/14/2025 11:19:24,ggil.ferreteria@yahoo.com,FERRETERIA GIL S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,287185,8651045,Lima,Km_30_Carretera_Central
+12/14/2025 11:19:24,ggil.ferreteria@yahoo.com,FERRETERIA GIL S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,283092,8655763,Lima,Km_40_Carretera_Central
+12/15/2025 15:45:47,hgomez.pinturas@gmail.com,PINTURAS GOMEZ S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,288804,8655091,Lima,Km_2_Carretera_Central
+12/16/2025 8:12:12,igonzalez.plomeria@outlook.com,PLOMERIA GONZALEZ S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,288723,8654606,Lima,Km_3_Carretera_Central
+12/16/2025 8:12:12,igonzalez.plomeria@outlook.com,PLOMERIA GONZALEZ S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,286320,8658494,Lima,Km_14_Carretera_Central
+12/16/2025 8:12:12,igonzalez.plomeria@outlook.com,PLOMERIA GONZALEZ S.A.C,20912345678,Establecimiento_3_5678,P-003,Zona_Industrial,281426,8658908,Lima,Km_45_Carretera_Central
+12/16/2025 8:12:12,igonzalez.plomeria@outlook.com,PLOMERIA GONZALEZ S.A.C,20912345678,Establecimiento_4_5678,P-004,Zona_Industrial,283744,8653316,Lima,Km_3_Carretera_Central
+12/17/2025 12:39:35,jgranados.electricidad@hotmail.com,ELECTRICIDAD GRANADOS S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,283871,8656269,Lima,Km_6_Carretera_Central
+12/17/2025 12:39:35,jgranados.electricidad@hotmail.com,ELECTRICIDAD GRANADOS S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,280797,8655092,Lima,Km_13_Carretera_Central
+12/18/2025 17:05:58,kguerrero.aire@gmail.com,AIRE ACONDICIONADO GUERRERO S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,280504,8659677,Lima,Km_38_Carretera_Central
+12/18/2025 17:05:58,kguerrero.aire@gmail.com,AIRE ACONDICIONADO GUERRERO S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,284104,8657153,Lima,Km_49_Carretera_Central
+12/18/2025 17:05:58,kguerrero.aire@gmail.com,AIRE ACONDICIONADO GUERRERO S.R.L,20234567891,Establecimiento_3_7891,P-003,Zona_Industrial,285960,8654559,Lima,Km_10_Carretera_Central
+12/19/2025 14:33:21,lgutierrez.cerrajeria@yahoo.com,CERRAJERIA GUTIERREZ S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,286633,8657474,Lima,Km_13_Carretera_Central
+12/20/2025 10:59:44,mhernandez.alarmas@outlook.com,ALARMAS HERNANDEZ S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,285671,8652400,Lima,Km_12_Carretera_Central
+12/20/2025 10:59:44,mhernandez.alarmas@outlook.com,ALARMAS HERNANDEZ S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,289444,8653971,Lima,Km_29_Carretera_Central
+12/21/2025 16:26:09,nhidalgo.camaras@gmail.com,CAMARAS HIDALGO S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,284146,8657555,Lima,Km_12_Carretera_Central
+12/21/2025 16:26:09,nhidalgo.camaras@gmail.com,CAMARAS HIDALGO S.R.L,20567891234,Establecimiento_2_1234,P-002,Zona_Industrial,287832,8651407,Lima,Km_35_Carretera_Central
+12/21/2025 16:26:09,nhidalgo.camaras@gmail.com,CAMARAS HIDALGO S.R.L,20567891234,Establecimiento_3_1234,P-003,Zona_Industrial,282651,8658385,Lima,Km_19_Carretera_Central
+12/21/2025 16:26:09,nhidalgo.camaras@gmail.com,CAMARAS HIDALGO S.R.L,20567891234,Establecimiento_4_1234,P-004,Zona_Industrial,288080,8657449,Lima,Km_46_Carretera_Central
+12/22/2025 9:52:32,ohuaman.comunicaciones@hotmail.com,COMUNICACIONES HUAMAN S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,289538,8650425,Lima,Km_48_Carretera_Central
+12/23/2025 13:19:55,pibañez.internet@yahoo.com,INTERNET IBAÑEZ S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,283672,8652856,Lima,Km_35_Carretera_Central
+12/23/2025 13:19:55,pibañez.internet@yahoo.com,INTERNET IBAÑEZ S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,286942,8652251,Lima,Km_39_Carretera_Central
+12/23/2025 13:19:55,pibañez.internet@yahoo.com,INTERNET IBAÑEZ S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,288296,8653390,Lima,Km_26_Carretera_Central
+12/24/2025 11:46:18,qiglesias.computadoras@gmail.com,COMPUTADORAS IGLESIAS S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,282700,8651014,Lima,Km_47_Carretera_Central
+12/24/2025 11:46:18,qiglesias.computadoras@gmail.com,COMPUTADORAS IGLESIAS S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,287119,8653401,Lima,Km_11_Carretera_Central
+12/25/2025 15:13:43,riturbe.software@outlook.com,SOFTWARE ITURBE S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,289852,8655757,Lima,Km_33_Carretera_Central
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,280504,8659477,Lima,Km_14_Carretera_Central
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,283707,8651115,Lima,Km_46_Carretera_Central
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_3_6789,P-003,Zona_Industrial,287105,8659835,Lima,Km_39_Carretera_Central
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_4_6789,P-004,Zona_Industrial,280446,8656907,Lima,Km_24_Carretera_Central
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_5_6789,P-005,Zona_Industrial,280045,8656406,Lima,Km_31_Carretera_Central
+12/27/2025 12:07:29,tjimenez.dominios@gmail.com,DOMINIOS JIMENEZ S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,280009,8654096,Lima,Km_44_Carretera_Central
+12/28/2025 17:33:54,ujuarez.paginas@yahoo.com,PAGINAS WEB JUAREZ S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,289192,8650891,Lima,Km_9_Carretera_Central
+12/28/2025 17:33:54,ujuarez.paginas@yahoo.com,PAGINAS WEB JUAREZ S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,283162,8652798,Lima,Km_31_Carretera_Central
+12/29/2025 14:01:17,vlarrea.marketing@outlook.com,MARKETING DIGITAL LARREA S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,280662,8659084,Lima,Km_5_Carretera_Central
+12/29/2025 14:01:17,vlarrea.marketing@outlook.com,MARKETING DIGITAL LARREA S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,283519,8651329,Lima,Km_36_Carretera_Central
+12/29/2025 14:01:17,vlarrea.marketing@outlook.com,MARKETING DIGITAL LARREA S.A,20456789123,Establecimiento_3_9123,P-003,Zona_Industrial,287462,8655036,Lima,Km_25_Carretera_Central
+12/30/2025 10:27:42,wleon.redes@gmail.com,REDES SOCIALES LEON S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,287400,8652228,Lima,Km_7_Carretera_Central
+12/31/2025 16:54:05,xlima.ecommerce@hotmail.com,ECOMMERCE LIMA S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,288179,8657820,Lima,Km_14_Carretera_Central
+12/31/2025 16:54:05,xlima.ecommerce@hotmail.com,ECOMMERCE LIMA S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,283224,8655031,Lima,Km_44_Carretera_Central
+12/31/2025 16:54:05,xlima.ecommerce@hotmail.com,ECOMMERCE LIMA S.A.C,20678912345,Establecimiento_3_2345,P-003,Zona_Industrial,281827,8654579,Lima,Km_3_Carretera_Central
+12/31/2025 16:54:05,xlima.ecommerce@hotmail.com,ECOMMERCE LIMA S.A.C,20678912345,Establecimiento_4_2345,P-004,Zona_Industrial,287932,8650786,Lima,Km_16_Carretera_Central
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,283661,8655018,Lima,Km_28_Carretera_Central
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_2_3456,P-002,Zona_Industrial,280716,8651221,Lima,Km_17_Carretera_Central
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_3_3456,P-003,Zona_Industrial,285923,8650646,Lima,Km_1_Carretera_Central
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_4_3456,P-004,Zona_Industrial,289660,8650386,Lima,Km_7_Carretera_Central
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_5_3456,P-005,Zona_Industrial,286609,8654746,Lima,Km_46_Carretera_Central
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_6_3456,P-006,Zona_Industrial,284988,8653346,Lima,Km_40_Carretera_Central
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,289734,8657291,Lima,Km_18_Carretera_Central
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,289880,8652423,Lima,Km_49_Carretera_Central
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_3_4567,P-003,Zona_Industrial,285987,8657908,Lima,Km_34_Carretera_Central
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_4_4567,P-004,Zona_Industrial,287851,8650543,Lima,Km_12_Carretera_Central
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_5_4567,P-005,Zona_Industrial,282027,8652017,Lima,Km_36_Carretera_Central
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_6_4567,P-006,Zona_Industrial,285927,8652614,Lima,Km_20_Carretera_Central
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_7_4567,P-007,Zona_Industrial,285455,8657143,Lima,Km_23_Carretera_Central
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_8_4567,P-008,Zona_Industrial,283648,8657429,Lima,Km_25_Carretera_Central
+1/3/2026 11:14:16,amantilla.carga@outlook.com,CARGA MANTILLA S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,282793,8652738,Lima,Km_34_Carretera_Central
+1/3/2026 11:14:16,amantilla.carga@outlook.com,CARGA MANTILLA S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,281553,8659067,Lima,Km_36_Carretera_Central
+1/3/2026 11:14:16,amantilla.carga@outlook.com,CARGA MANTILLA S.A.C,20912345678,Establecimiento_3_5678,P-003,Zona_Industrial,280470,8659162,Lima,Km_41_Carretera_Central
+1/4/2026 15:40:39,bmartinez.mudanzas@hotmail.com,MUDANZAS MARTINEZ S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,285453,8655218,Lima,Km_46_Carretera_Central
+1/4/2026 15:40:39,bmartinez.mudanzas@hotmail.com,MUDANZAS MARTINEZ S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,284909,8651314,Lima,Km_30_Carretera_Central
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_1_7891,P-001,Zona_Industrial,280618,8657653,Lima,Km_17_Carretera_Central
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_2_7891,P-002,Zona_Industrial,280035,8652673,Lima,Km_20_Carretera_Central
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_3_7891,P-003,Zona_Industrial,281143,8658655,Lima,Km_1_Carretera_Central
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_4_7891,P-004,Zona_Industrial,284107,8651724,Lima,Km_35_Carretera_Central
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_5_7891,P-005,Zona_Industrial,287338,8651890,Lima,Km_44_Carretera_Central
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_1_8912,P-001,Zona_Industrial,281598,8657100,Lima,Km_1_Carretera_Central
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_2_8912,P-002,Zona_Industrial,281375,8653230,Lima,Km_7_Carretera_Central
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_3_8912,P-003,Zona_Industrial,289608,8650308,Lima,Km_2_Carretera_Central
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_4_8912,P-004,Zona_Industrial,281669,8658247,Lima,Km_24_Carretera_Central
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_5_8912,P-005,Zona_Industrial,287512,8650918,Lima,Km_17_Carretera_Central
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_6_8912,P-006,Zona_Industrial,284121,8655425,Lima,Km_44_Carretera_Central
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_7_8912,P-007,Zona_Industrial,280231,8654904,Lima,Km_21_Carretera_Central
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_8_8912,P-008,Zona_Industrial,282585,8657786,Lima,Km_41_Carretera_Central
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_9_8912,P-009,Zona_Industrial,285946,8651973,Lima,Km_36_Carretera_Central
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_10_8912,P-010,Zona_Industrial,284418,8650508,Lima,Km_38_Carretera_Central
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_11_8912,P-011,Zona_Industrial,283831,8653790,Lima,Km_37_Carretera_Central
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_12_8912,P-012,Zona_Industrial,280848,8653696,Lima,Km_14_Carretera_Central
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_1_9123,P-001,Zona_Industrial,284421,8655197,Lima,Km_1_Carretera_Central
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_2_9123,P-002,Zona_Industrial,285858,8650922,Lima,Km_49_Carretera_Central
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_3_9123,P-003,Zona_Industrial,284700,8659946,Lima,Km_27_Carretera_Central
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_4_9123,P-004,Zona_Industrial,286752,8651977,Lima,Km_18_Carretera_Central
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_5_9123,P-005,Zona_Industrial,284960,8656260,Lima,Km_33_Carretera_Central
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_6_9123,P-006,Zona_Industrial,281929,8650949,Lima,Km_28_Carretera_Central
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_7_9123,P-007,Zona_Industrial,283554,8657285,Lima,Km_21_Carretera_Central
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_8_9123,P-008,Zona_Industrial,286396,8654466,Lima,Km_21_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_1_1234,P-001,Zona_Industrial,280309,8654812,Lima,Km_45_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_2_1234,P-002,Zona_Industrial,289679,8650459,Lima,Km_9_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_3_1234,P-003,Zona_Industrial,285956,8650945,Lima,Km_47_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_4_1234,P-004,Zona_Industrial,287827,8655502,Lima,Km_45_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_5_1234,P-005,Zona_Industrial,284180,8658093,Lima,Km_43_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_6_1234,P-006,Zona_Industrial,288829,8651850,Lima,Km_30_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_7_1234,P-007,Zona_Industrial,285183,8659442,Lima,Km_33_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_8_1234,P-008,Zona_Industrial,285082,8654948,Lima,Km_41_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_9_1234,P-009,Zona_Industrial,283422,8659105,Lima,Km_33_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_10_1234,P-010,Zona_Industrial,286865,8652492,Lima,Km_8_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_11_1234,P-011,Zona_Industrial,281753,8651234,Lima,Km_21_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_12_1234,P-012,Zona_Industrial,282030,8655893,Lima,Km_32_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_13_1234,P-013,Zona_Industrial,282334,8657943,Lima,Km_32_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_14_1234,P-014,Zona_Industrial,287402,8659283,Lima,Km_27_Carretera_Central
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_15_1234,P-015,Zona_Industrial,284430,8650074,Lima,Km_29_Carretera_Central
+1/9/2026 10:54:38,gmiranda.turismo@hotmail.com,TURISMO MIRANDA S.A.C,20678912345,Establecimiento_1_2345,P-001,Zona_Industrial,284340,8659077,Lima,Km_43_Carretera_Central
+1/9/2026 10:54:38,gmiranda.turismo@hotmail.com,TURISMO MIRANDA S.A.C,20678912345,Establecimiento_2_2345,P-002,Zona_Industrial,280881,8655201,Lima,Km_36_Carretera_Central
+1/10/2026 16:21:13,hmolina.hotel@yahoo.com,HOTEL MOLINA S.A,20789123456,Establecimiento_1_3456,P-001,Zona_Industrial,287123,8653600,Lima,Km_12_Carretera_Central
+1/11/2026 9:47:36,imontalvo.hostal@gmail.com,HOSTAL MONTALVO S.R.L,20891234567,Establecimiento_1_4567,P-001,Zona_Industrial,281426,8657230,Lima,Km_31_Carretera_Central
+1/11/2026 9:47:36,imontalvo.hostal@gmail.com,HOSTAL MONTALVO S.R.L,20891234567,Establecimiento_2_4567,P-002,Zona_Industrial,282408,8653712,Lima,Km_18_Carretera_Central
+1/11/2026 9:47:36,imontalvo.hostal@gmail.com,HOSTAL MONTALVO S.R.L,20891234567,Establecimiento_3_4567,P-003,Zona_Industrial,281735,8659953,Lima,Km_29_Carretera_Central
+1/12/2026 13:14:01,jmontero.restaurant@outlook.com,RESTAURANT MONTERO S.A.C,20912345678,Establecimiento_1_5678,P-001,Zona_Industrial,283704,8651390,Lima,Km_48_Carretera_Central
+1/12/2026 13:14:01,jmontero.restaurant@outlook.com,RESTAURANT MONTERO S.A.C,20912345678,Establecimiento_2_5678,P-002,Zona_Industrial,286880,8650974,Lima,Km_47_Carretera_Central
+1/13/2026 11:41:24,kmontoya.pizzeria@hotmail.com,PIZZERIA MONTOYA S.A,20123456789,Establecimiento_1_6789,P-001,Zona_Industrial,285993,8659879,Lima,Km_50_Carretera_Central
+1/13/2026 11:41:24,kmontoya.pizzeria@hotmail.com,PIZZERIA MONTOYA S.A,20123456789,Establecimiento_2_6789,P-002,Zona_Industrial,282384,8650742,Lima,Km_9_Carretera_Central
+1/13/2026 11:41:24,kmontoya.pizzeria@hotmail.com,PIZZERIA MONTOYA S.A,20123456789,Establecimiento_3_6789,P-003,Zona_Industrial,282283,8654488,Lima,Km_29_Carretera_Central
+1/13/2026 11:41:24,kmontoya.pizzeria@hotmail.com,PIZZERIA MONTOYA S.A,20123456789,Establecimiento_4_6789,P-004,Zona_Industrial,285013,8656559,Lima,Km_7_Carretera_Central

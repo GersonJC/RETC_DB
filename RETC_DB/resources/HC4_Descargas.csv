@@ -1,0 +1,1201 @@
+FECHA,CORREO,RAZON_SOCIAL,NUMERO_RUC,NOMBRE_ESTABLECIMIENTO,HC4-Ducto,HC4-Caudal_Ls,HC4-Horas_ano,HC4-Tipo,HC4-Fluido,HC4-Presion_bar
+6/10/2025 11:15:54,ramosklembert.07@gmail.com,EMPRESA METAL MECANICA S.A,20100276322,Establecimiento_1_6322,D-01,32.1,8578,Liquido proceso,Metal fundido,5.0
+6/10/2025 11:15:54,ramosklembert.07@gmail.com,EMPRESA METAL MECANICA S.A,20100276322,Establecimiento_1_6322,D-02,21.6,6211,Agua residual,Agua,4.9
+6/10/2025 11:15:54,ramosklembert.07@gmail.com,EMPRESA METAL MECANICA S.A,20100276322,Establecimiento_1_6322,D-03,16.8,6421,Emision gaseosa,Aceite industrial,2.2
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_1_3372,D-01,18.9,7684,Emision gaseosa,Agua,2.7
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_2_3372,D-01,25.4,6871,Emision gaseosa,Aire comprimido,2.6
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_2_3372,D-02,8.0,6385,Emision gaseosa,Aire comprimido,3.3
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_3_3372,D-01,11.8,7746,Emision gaseosa,Aire comprimido,2.8
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_4_3372,D-01,43.9,6988,Liquido proceso,Aire comprimido,5.0
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_4_3372,D-02,40.0,8092,Liquido proceso,Agua,3.1
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_5_3372,D-01,22.8,6230,Agua residual,Aire comprimido,4.6
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_6_3372,D-01,30.6,6785,Emision gaseosa,Aire comprimido,2.2
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_6_3372,D-02,17.0,8227,Emision gaseosa,Agua,2.0
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_6_3372,D-03,15.0,6324,Liquido proceso,Agua,3.3
+6/14/2025 8:10:16,aalvarado1512@gmail.com,Otass,20565423372,Establecimiento_7_3372,D-01,13.4,8321,Emision gaseosa,Agua,4.8
+6/18/2025 9:53:20,cruzllacsahuanga@gmail.com,Pesquera Hayduk SA,20136165667,Establecimiento_1_5667,D-01,49.2,7073,Liquido proceso,Aceite vegetal,4.7
+6/18/2025 9:53:20,cruzllacsahuanga@gmail.com,Pesquera Hayduk SA,20136165667,Establecimiento_1_5667,D-02,35.2,7739,Emision gaseosa,Agua,4.3
+6/18/2025 9:53:20,cruzllacsahuanga@gmail.com,Pesquera Hayduk SA,20136165667,Establecimiento_2_5667,D-01,34.0,8213,Emision gaseosa,Agua,2.5
+6/18/2025 9:53:20,cruzllacsahuanga@gmail.com,Pesquera Hayduk SA,20136165667,Establecimiento_2_5667,D-02,12.0,7094,Emision gaseosa,Aceite vegetal,3.6
+6/18/2025 9:53:20,cruzllacsahuanga@gmail.com,Pesquera Hayduk SA,20136165667,Establecimiento_3_5667,D-01,48.0,6026,Emision gaseosa,Agua,1.0
+6/18/2025 9:53:20,cruzllacsahuanga@gmail.com,Pesquera Hayduk SA,20136165667,Establecimiento_3_5667,D-02,45.0,6331,Liquido proceso,Agua,3.3
+6/23/2025 9:35:52,raysareyesv@gmail.com,Energia Renovable del Sur ,20392847406,Establecimiento_1_7406,D-01,6.2,6129,Liquido proceso,Agua,1.3
+6/23/2025 9:35:52,raysareyesv@gmail.com,Energia Renovable del Sur ,20392847406,Establecimiento_1_7406,D-02,13.8,6176,Liquido proceso,Vapor,2.3
+6/23/2025 9:35:52,raysareyesv@gmail.com,Energia Renovable del Sur ,20392847406,Establecimiento_1_7406,D-03,13.3,6493,Agua residual,Vapor,3.1
+7/1/2025 14:22:18,jgarcia.industrial@gmail.com,INDUSTRIAS GARCIA HERMANOS S.R.L,20456789123,Establecimiento_1_9123,D-01,22.0,7854,Liquido proceso,Agua,1.7
+7/1/2025 14:22:18,jgarcia.industrial@gmail.com,INDUSTRIAS GARCIA HERMANOS S.R.L,20456789123,Establecimiento_1_9123,D-02,23.8,6416,Liquido proceso,Agua,4.6
+7/1/2025 14:22:18,jgarcia.industrial@gmail.com,INDUSTRIAS GARCIA HERMANOS S.R.L,20456789123,Establecimiento_2_9123,D-01,42.6,6515,Agua residual,Aire comprimido,3.5
+7/1/2025 14:22:18,jgarcia.industrial@gmail.com,INDUSTRIAS GARCIA HERMANOS S.R.L,20456789123,Establecimiento_2_9123,D-02,42.6,7700,Liquido proceso,Agua,1.6
+7/1/2025 14:22:18,jgarcia.industrial@gmail.com,INDUSTRIAS GARCIA HERMANOS S.R.L,20456789123,Establecimiento_2_9123,D-03,28.3,7182,Agua residual,Aire comprimido,3.4
+7/2/2025 10:15:33,mperez.textil@hotmail.com,TEXTIL PERU NORTE S.A.C,20567891234,Establecimiento_1_1234,D-01,19.9,7224,Agua residual,Agua,2.7
+7/2/2025 10:15:33,mperez.textil@hotmail.com,TEXTIL PERU NORTE S.A.C,20567891234,Establecimiento_1_1234,D-02,25.0,6108,Liquido proceso,Agua,2.3
+7/2/2025 10:15:33,mperez.textil@hotmail.com,TEXTIL PERU NORTE S.A.C,20567891234,Establecimiento_2_1234,D-01,32.1,8372,Agua residual,Agua,1.5
+7/2/2025 10:15:33,mperez.textil@hotmail.com,TEXTIL PERU NORTE S.A.C,20567891234,Establecimiento_3_1234,D-01,31.7,8347,Agua residual,Agua,4.4
+7/3/2025 16:45:12,rlopez.quimica@yahoo.com,QUIMICA INDUSTRIAL LIMA S.A,20678912345,Establecimiento_1_2345,D-01,17.5,8404,Agua residual,Agua,2.8
+7/3/2025 16:45:12,rlopez.quimica@yahoo.com,QUIMICA INDUSTRIAL LIMA S.A,20678912345,Establecimiento_1_2345,D-02,9.4,8472,Emision gaseosa,Agua,1.3
+7/3/2025 16:45:12,rlopez.quimica@yahoo.com,QUIMICA INDUSTRIAL LIMA S.A,20678912345,Establecimiento_1_2345,D-03,20.1,7876,Agua residual,Solventes,4.5
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_1_3456,D-01,35.4,6778,Emision gaseosa,Suspensiones minerales,3.7
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_2_3456,D-01,5.3,6182,Emision gaseosa,Suspensiones minerales,4.5
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_2_3456,D-02,29.2,8649,Agua residual,Agua,4.2
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_2_3456,D-03,12.4,7783,Emision gaseosa,Suspensiones minerales,1.6
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_3_3456,D-01,27.6,7072,Liquido proceso,Suspensiones minerales,4.4
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_3_3456,D-02,13.6,8551,Emision gaseosa,Suspensiones minerales,4.3
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_3_3456,D-03,32.1,6890,Liquido proceso,Agua,2.6
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_4_3456,D-01,25.1,6752,Emision gaseosa,Agua,2.7
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_4_3456,D-02,21.2,6662,Liquido proceso,Agua,5.0
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_4_3456,D-03,8.5,6274,Emision gaseosa,Suspensiones minerales,1.7
+7/4/2025 9:30:25,crodriguez.minera@gmail.com,MINERA SAN MARTIN S.A.C,20789123456,Establecimiento_5_3456,D-01,26.6,6590,Emision gaseosa,Agua,2.7
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_1_4567,D-01,41.0,8549,Liquido proceso,Agua,3.7
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_1_4567,D-02,14.4,8545,Emision gaseosa,Aire comprimido,3.5
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_1_4567,D-03,11.5,6035,Emision gaseosa,Agua,3.2
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_2_4567,D-01,29.8,8039,Emision gaseosa,Aire comprimido,3.3
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_2_4567,D-02,45.5,7877,Agua residual,Aire comprimido,2.5
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_2_4567,D-03,33.2,7474,Emision gaseosa,Agua,3.7
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_3_4567,D-01,8.8,7760,Agua residual,Agua,3.3
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_3_4567,D-02,11.1,7197,Liquido proceso,Agua,1.7
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_3_4567,D-03,49.0,6512,Emision gaseosa,Aire comprimido,3.1
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_4_4567,D-01,48.3,6216,Liquido proceso,Agua,3.7
+7/5/2025 13:20:41,lsanchez.alimentaria@outlook.com,ALIMENTOS DEL PACIFICO S.A,20891234567,Establecimiento_4_4567,D-02,41.6,6141,Liquido proceso,Aire comprimido,3.8
+7/6/2025 11:55:17,aprojas.construccion@gmail.com,CONSTRUCTORA ROJAS E HIJOS S.R.L,20912345678,Establecimiento_1_5678,D-01,25.0,6353,Liquido proceso,Aire comprimido,4.0
+7/6/2025 11:55:17,aprojas.construccion@gmail.com,CONSTRUCTORA ROJAS E HIJOS S.R.L,20912345678,Establecimiento_1_5678,D-02,15.7,6529,Agua residual,Aire comprimido,4.0
+7/6/2025 11:55:17,aprojas.construccion@gmail.com,CONSTRUCTORA ROJAS E HIJOS S.R.L,20912345678,Establecimiento_1_5678,D-03,34.7,7760,Agua residual,Agua,4.8
+7/6/2025 11:55:17,aprojas.construccion@gmail.com,CONSTRUCTORA ROJAS E HIJOS S.R.L,20912345678,Establecimiento_2_5678,D-01,21.4,6575,Agua residual,Aire comprimido,2.0
+7/6/2025 11:55:17,aprojas.construccion@gmail.com,CONSTRUCTORA ROJAS E HIJOS S.R.L,20912345678,Establecimiento_2_5678,D-02,32.4,6847,Liquido proceso,Aire comprimido,2.5
+7/6/2025 11:55:17,aprojas.construccion@gmail.com,CONSTRUCTORA ROJAS E HIJOS S.R.L,20912345678,Establecimiento_2_5678,D-03,9.2,6967,Liquido proceso,Agua,2.1
+7/7/2025 15:10:29,bcastillo.farmaceutica@hotmail.com,FARMACEUTICA CASTILLO S.A.C,20123456789,Establecimiento_1_6789,D-01,14.4,7238,Agua residual,Aire comprimido,2.8
+7/8/2025 8:25:36,dmendoza.energia@yahoo.com,ENERGIA SOLAR MENDOZA S.A,20234567891,Establecimiento_1_7891,D-01,38.6,6589,Emision gaseosa,Agua,2.3
+7/8/2025 8:25:36,dmendoza.energia@yahoo.com,ENERGIA SOLAR MENDOZA S.A,20234567891,Establecimiento_1_7891,D-02,49.9,7726,Emision gaseosa,Vapor,4.5
+7/8/2025 8:25:36,dmendoza.energia@yahoo.com,ENERGIA SOLAR MENDOZA S.A,20234567891,Establecimiento_1_7891,D-03,32.8,6634,Emision gaseosa,Vapor,4.5
+7/8/2025 8:25:36,dmendoza.energia@yahoo.com,ENERGIA SOLAR MENDOZA S.A,20234567891,Establecimiento_2_7891,D-01,48.6,8709,Liquido proceso,Vapor,3.2
+7/8/2025 8:25:36,dmendoza.energia@yahoo.com,ENERGIA SOLAR MENDOZA S.A,20234567891,Establecimiento_2_7891,D-02,30.7,7555,Agua residual,Agua,1.6
+7/8/2025 8:25:36,dmendoza.energia@yahoo.com,ENERGIA SOLAR MENDOZA S.A,20234567891,Establecimiento_3_7891,D-01,22.1,6733,Liquido proceso,Agua,3.2
+7/8/2025 8:25:36,dmendoza.energia@yahoo.com,ENERGIA SOLAR MENDOZA S.A,20234567891,Establecimiento_3_7891,D-02,48.8,6601,Agua residual,Agua,1.3
+7/8/2025 8:25:36,dmendoza.energia@yahoo.com,ENERGIA SOLAR MENDOZA S.A,20234567891,Establecimiento_3_7891,D-03,38.1,6403,Agua residual,Vapor,4.4
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_1_8912,D-01,24.4,7302,Emision gaseosa,Agua,4.5
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_2_8912,D-01,37.9,6066,Liquido proceso,Aire comprimido,4.3
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_3_8912,D-01,43.2,7293,Emision gaseosa,Aire comprimido,4.9
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_3_8912,D-02,23.3,7774,Emision gaseosa,Aire comprimido,1.6
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_4_8912,D-01,39.5,8327,Emision gaseosa,Agua,2.4
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_5_8912,D-01,5.7,8646,Agua residual,Aire comprimido,1.8
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_5_8912,D-02,24.9,6495,Emision gaseosa,Agua,5.0
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_5_8912,D-03,11.2,6398,Agua residual,Aire comprimido,2.8
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_6_8912,D-01,10.6,7912,Emision gaseosa,Aire comprimido,4.3
+7/9/2025 12:40:58,egutierrez.petroleo@gmail.com,PETROLERA GUTIERREZ S.A.C,20345678912,Establecimiento_6_8912,D-02,28.9,6910,Emision gaseosa,Agua,1.8
+7/10/2025 17:18:14,fherrera.papel@outlook.com,PAPELERA HERRERA S.A,20456789123,Establecimiento_1_9123,D-01,20.7,8748,Agua residual,Agua,2.6
+7/10/2025 17:18:14,fherrera.papel@outlook.com,PAPELERA HERRERA S.A,20456789123,Establecimiento_1_9123,D-02,8.4,6105,Liquido proceso,Pulpa,3.8
+7/10/2025 17:18:14,fherrera.papel@outlook.com,PAPELERA HERRERA S.A,20456789123,Establecimiento_2_9123,D-01,44.2,6397,Emision gaseosa,Agua,1.9
+7/11/2025 14:35:22,gmorales.cemento@gmail.com,CEMENTOS MORALES S.R.L,20567891234,Establecimiento_1_1234,D-01,17.8,8034,Agua residual,Lodos,2.8
+7/11/2025 14:35:22,gmorales.cemento@gmail.com,CEMENTOS MORALES S.R.L,20567891234,Establecimiento_1_1234,D-02,25.9,6149,Liquido proceso,Agua,1.1
+7/12/2025 10:50:47,hvargas.plasticos@hotmail.com,PLASTICOS VARGAS S.A.C,20678912345,Establecimiento_1_2345,D-01,20.2,8592,Agua residual,Agua,2.2
+7/12/2025 10:50:47,hvargas.plasticos@hotmail.com,PLASTICOS VARGAS S.A.C,20678912345,Establecimiento_2_2345,D-01,42.3,7535,Emision gaseosa,Agua,3.8
+7/12/2025 10:50:47,hvargas.plasticos@hotmail.com,PLASTICOS VARGAS S.A.C,20678912345,Establecimiento_2_2345,D-02,46.7,7006,Liquido proceso,Aire comprimido,4.6
+7/12/2025 10:50:47,hvargas.plasticos@hotmail.com,PLASTICOS VARGAS S.A.C,20678912345,Establecimiento_3_2345,D-01,15.3,8518,Liquido proceso,Agua,2.7
+7/13/2025 16:12:33,itorres.siderurgica@yahoo.com,SIDERURGICA TORRES S.A,20789123456,Establecimiento_1_3456,D-01,34.5,7013,Liquido proceso,Aceite industrial,2.3
+7/13/2025 16:12:33,itorres.siderurgica@yahoo.com,SIDERURGICA TORRES S.A,20789123456,Establecimiento_1_3456,D-02,25.2,6806,Emision gaseosa,Metal fundido,3.5
+7/13/2025 16:12:33,itorres.siderurgica@yahoo.com,SIDERURGICA TORRES S.A,20789123456,Establecimiento_1_3456,D-03,39.4,7339,Agua residual,Agua,3.2
+7/13/2025 16:12:33,itorres.siderurgica@yahoo.com,SIDERURGICA TORRES S.A,20789123456,Establecimiento_2_3456,D-01,6.0,6403,Liquido proceso,Agua,1.0
+7/13/2025 16:12:33,itorres.siderurgica@yahoo.com,SIDERURGICA TORRES S.A,20789123456,Establecimiento_3_3456,D-01,36.0,6398,Liquido proceso,Aceite industrial,1.1
+7/13/2025 16:12:33,itorres.siderurgica@yahoo.com,SIDERURGICA TORRES S.A,20789123456,Establecimiento_3_3456,D-02,35.3,8739,Liquido proceso,Metal fundido,1.4
+7/13/2025 16:12:33,itorres.siderurgica@yahoo.com,SIDERURGICA TORRES S.A,20789123456,Establecimiento_4_3456,D-01,47.1,7264,Liquido proceso,Metal fundido,2.4
+7/13/2025 16:12:33,itorres.siderurgica@yahoo.com,SIDERURGICA TORRES S.A,20789123456,Establecimiento_4_3456,D-02,28.4,8697,Emision gaseosa,Agua,3.4
+7/13/2025 16:12:33,itorres.siderurgica@yahoo.com,SIDERURGICA TORRES S.A,20789123456,Establecimiento_4_3456,D-03,23.9,6008,Agua residual,Metal fundido,2.0
+7/14/2025 9:28:11,jflores.textil@gmail.com,TEXTILES FLORES S.R.L,20891234567,Establecimiento_1_4567,D-01,13.2,8749,Liquido proceso,Agua,3.5
+7/14/2025 9:28:11,jflores.textil@gmail.com,TEXTILES FLORES S.R.L,20891234567,Establecimiento_1_4567,D-02,47.6,7731,Liquido proceso,Solventes,4.4
+7/14/2025 9:28:11,jflores.textil@gmail.com,TEXTILES FLORES S.R.L,20891234567,Establecimiento_1_4567,D-03,7.6,8674,Liquido proceso,Solventes,2.7
+7/14/2025 9:28:11,jflores.textil@gmail.com,TEXTILES FLORES S.R.L,20891234567,Establecimiento_2_4567,D-01,36.1,7790,Agua residual,Agua,1.4
+7/14/2025 9:28:11,jflores.textil@gmail.com,TEXTILES FLORES S.R.L,20891234567,Establecimiento_2_4567,D-02,12.2,6272,Liquido proceso,Solventes,4.5
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_1_5678,D-01,11.4,7013,Liquido proceso,Agua,2.6
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_2_5678,D-01,25.2,7340,Emision gaseosa,Agua,1.6
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_2_5678,D-02,8.2,6669,Liquido proceso,Agua,1.3
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_3_5678,D-01,31.2,6013,Agua residual,Agua,3.2
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_3_5678,D-02,48.6,8307,Agua residual,Aceite vegetal,2.9
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_4_5678,D-01,28.7,7865,Agua residual,Aceite vegetal,4.4
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_4_5678,D-02,37.4,6770,Emision gaseosa,Aceite vegetal,2.3
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_4_5678,D-03,35.1,6828,Emision gaseosa,Agua,2.0
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_5_5678,D-01,17.6,8365,Liquido proceso,Aceite vegetal,2.4
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_5_5678,D-02,16.0,8211,Liquido proceso,Agua,3.5
+7/15/2025 13:45:26,kruiz.agroind@outlook.com,AGROINDUSTRIAL RUIZ S.A.C,20912345678,Establecimiento_5_5678,D-03,26.9,7766,Agua residual,Aceite vegetal,1.6
+7/16/2025 11:22:39,ldiaz.ceramica@hotmail.com,CERAMICA DIAZ S.A,20123456789,Establecimiento_1_6789,D-01,24.2,7877,Agua residual,Agua,1.4
+7/16/2025 11:22:39,ldiaz.ceramica@hotmail.com,CERAMICA DIAZ S.A,20123456789,Establecimiento_1_6789,D-02,22.0,8245,Emision gaseosa,Agua,1.9
+7/17/2025 15:38:52,mcastro.bebidas@gmail.com,BEBIDAS CASTRO S.R.L,20234567891,Establecimiento_1_7891,D-01,45.5,6508,Agua residual,Aire comprimido,2.9
+7/17/2025 15:38:52,mcastro.bebidas@gmail.com,BEBIDAS CASTRO S.R.L,20234567891,Establecimiento_1_7891,D-02,44.9,6315,Agua residual,Aire comprimido,4.2
+7/17/2025 15:38:52,mcastro.bebidas@gmail.com,BEBIDAS CASTRO S.R.L,20234567891,Establecimiento_1_7891,D-03,37.9,6869,Liquido proceso,Aire comprimido,1.1
+7/17/2025 15:38:52,mcastro.bebidas@gmail.com,BEBIDAS CASTRO S.R.L,20234567891,Establecimiento_2_7891,D-01,13.4,7413,Liquido proceso,Agua,3.2
+7/17/2025 15:38:52,mcastro.bebidas@gmail.com,BEBIDAS CASTRO S.R.L,20234567891,Establecimiento_2_7891,D-02,17.1,6547,Liquido proceso,Agua,1.5
+7/17/2025 15:38:52,mcastro.bebidas@gmail.com,BEBIDAS CASTRO S.R.L,20234567891,Establecimiento_2_7891,D-03,29.7,7650,Emision gaseosa,Agua,1.2
+7/17/2025 15:38:52,mcastro.bebidas@gmail.com,BEBIDAS CASTRO S.R.L,20234567891,Establecimiento_3_7891,D-01,14.9,7492,Agua residual,Aire comprimido,1.9
+7/18/2025 8:15:17,njimenez.cuero@yahoo.com,CURTIEMBRE JIMENEZ S.A.C,20345678912,Establecimiento_1_8912,D-01,47.7,6834,Agua residual,Aire comprimido,1.5
+7/18/2025 8:15:17,njimenez.cuero@yahoo.com,CURTIEMBRE JIMENEZ S.A.C,20345678912,Establecimiento_1_8912,D-02,9.7,7975,Emision gaseosa,Agua,3.1
+7/18/2025 8:15:17,njimenez.cuero@yahoo.com,CURTIEMBRE JIMENEZ S.A.C,20345678912,Establecimiento_1_8912,D-03,14.8,7137,Liquido proceso,Aire comprimido,4.7
+7/18/2025 8:15:17,njimenez.cuero@yahoo.com,CURTIEMBRE JIMENEZ S.A.C,20345678912,Establecimiento_2_8912,D-01,28.0,8388,Liquido proceso,Agua,4.8
+7/18/2025 8:15:17,njimenez.cuero@yahoo.com,CURTIEMBRE JIMENEZ S.A.C,20345678912,Establecimiento_2_8912,D-02,18.6,7007,Agua residual,Aire comprimido,1.0
+7/18/2025 8:15:17,njimenez.cuero@yahoo.com,CURTIEMBRE JIMENEZ S.A.C,20345678912,Establecimiento_2_8912,D-03,32.0,7423,Emision gaseosa,Aire comprimido,1.0
+7/19/2025 12:52:44,oramos.madera@outlook.com,MADERERA RAMOS S.A,20456789123,Establecimiento_1_9123,D-01,48.8,6880,Emision gaseosa,Aire comprimido,4.5
+7/19/2025 12:52:44,oramos.madera@outlook.com,MADERERA RAMOS S.A,20456789123,Establecimiento_2_9123,D-01,34.9,7424,Liquido proceso,Agua,4.8
+7/19/2025 12:52:44,oramos.madera@outlook.com,MADERERA RAMOS S.A,20456789123,Establecimiento_2_9123,D-02,38.7,7970,Agua residual,Agua,2.2
+7/19/2025 12:52:44,oramos.madera@outlook.com,MADERERA RAMOS S.A,20456789123,Establecimiento_3_9123,D-01,37.0,7193,Emision gaseosa,Aire comprimido,3.0
+7/19/2025 12:52:44,oramos.madera@outlook.com,MADERERA RAMOS S.A,20456789123,Establecimiento_3_9123,D-02,30.3,7909,Agua residual,Agua,1.6
+7/19/2025 12:52:44,oramos.madera@outlook.com,MADERERA RAMOS S.A,20456789123,Establecimiento_3_9123,D-03,27.1,6337,Agua residual,Aire comprimido,4.2
+7/19/2025 12:52:44,oramos.madera@outlook.com,MADERERA RAMOS S.A,20456789123,Establecimiento_4_9123,D-01,35.9,6412,Emision gaseosa,Aire comprimido,3.1
+7/19/2025 12:52:44,oramos.madera@outlook.com,MADERERA RAMOS S.A,20456789123,Establecimiento_4_9123,D-02,13.1,6369,Agua residual,Agua,3.8
+7/20/2025 17:19:31,pvaldes.vidrio@gmail.com,VIDRIOS VALDES S.R.L,20567891234,Establecimiento_1_1234,D-01,5.7,7105,Emision gaseosa,Agua,1.0
+7/20/2025 17:19:31,pvaldes.vidrio@gmail.com,VIDRIOS VALDES S.R.L,20567891234,Establecimiento_1_1234,D-02,30.9,6288,Emision gaseosa,Agua,3.2
+7/21/2025 14:07:16,qortega.detergente@hotmail.com,DETERGENTES ORTEGA S.A.C,20678912345,Establecimiento_1_2345,D-01,9.5,8143,Liquido proceso,Agua,1.8
+7/21/2025 14:07:16,qortega.detergente@hotmail.com,DETERGENTES ORTEGA S.A.C,20678912345,Establecimiento_2_2345,D-01,26.1,8355,Liquido proceso,Acidos,4.5
+7/21/2025 14:07:16,qortega.detergente@hotmail.com,DETERGENTES ORTEGA S.A.C,20678912345,Establecimiento_2_2345,D-02,44.4,7967,Emision gaseosa,Solventes,1.0
+7/22/2025 10:33:58,rmiranda.caucho@yahoo.com,CAUCHO MIRANDA S.A,20789123456,Establecimiento_1_3456,D-01,32.0,7919,Emision gaseosa,Agua,1.5
+7/22/2025 10:33:58,rmiranda.caucho@yahoo.com,CAUCHO MIRANDA S.A,20789123456,Establecimiento_1_3456,D-02,30.9,6746,Emision gaseosa,Agua,4.8
+7/22/2025 10:33:58,rmiranda.caucho@yahoo.com,CAUCHO MIRANDA S.A,20789123456,Establecimiento_1_3456,D-03,42.9,7353,Liquido proceso,Aire comprimido,3.5
+7/22/2025 10:33:58,rmiranda.caucho@yahoo.com,CAUCHO MIRANDA S.A,20789123456,Establecimiento_2_3456,D-01,49.6,7056,Liquido proceso,Agua,1.3
+7/22/2025 10:33:58,rmiranda.caucho@yahoo.com,CAUCHO MIRANDA S.A,20789123456,Establecimiento_3_3456,D-01,26.7,6080,Liquido proceso,Aire comprimido,4.2
+7/23/2025 16:21:42,snavarro.fertilizante@gmail.com,FERTILIZANTES NAVARRO S.R.L,20891234567,Establecimiento_1_4567,D-01,36.9,7426,Liquido proceso,Acidos,3.7
+7/23/2025 16:21:42,snavarro.fertilizante@gmail.com,FERTILIZANTES NAVARRO S.R.L,20891234567,Establecimiento_1_4567,D-02,19.3,6144,Liquido proceso,Solventes,3.2
+7/24/2025 9:48:29,tguzman.pintura@outlook.com,PINTURAS GUZMAN S.A.C,20912345678,Establecimiento_1_5678,D-01,45.1,7064,Agua residual,Solventes,1.2
+7/24/2025 9:48:29,tguzman.pintura@outlook.com,PINTURAS GUZMAN S.A.C,20912345678,Establecimiento_2_5678,D-01,23.6,8063,Emision gaseosa,Acidos,4.2
+7/24/2025 9:48:29,tguzman.pintura@outlook.com,PINTURAS GUZMAN S.A.C,20912345678,Establecimiento_2_5678,D-02,6.3,7077,Liquido proceso,Acidos,1.4
+7/25/2025 13:14:55,uheredia.acero@hotmail.com,ACEROS HEREDIA S.A,20123456789,Establecimiento_1_6789,D-01,6.7,7535,Agua residual,Aceite industrial,3.5
+7/25/2025 13:14:55,uheredia.acero@hotmail.com,ACEROS HEREDIA S.A,20123456789,Establecimiento_1_6789,D-02,42.2,6393,Agua residual,Metal fundido,3.9
+7/25/2025 13:14:55,uheredia.acero@hotmail.com,ACEROS HEREDIA S.A,20123456789,Establecimiento_1_6789,D-03,42.0,8530,Liquido proceso,Agua,5.0
+7/25/2025 13:14:55,uheredia.acero@hotmail.com,ACEROS HEREDIA S.A,20123456789,Establecimiento_2_6789,D-01,40.9,7614,Emision gaseosa,Aceite industrial,3.4
+7/25/2025 13:14:55,uheredia.acero@hotmail.com,ACEROS HEREDIA S.A,20123456789,Establecimiento_2_6789,D-02,46.6,7789,Liquido proceso,Agua,3.3
+7/25/2025 13:14:55,uheredia.acero@hotmail.com,ACEROS HEREDIA S.A,20123456789,Establecimiento_3_6789,D-01,27.7,6104,Emision gaseosa,Metal fundido,2.5
+7/25/2025 13:14:55,uheredia.acero@hotmail.com,ACEROS HEREDIA S.A,20123456789,Establecimiento_3_6789,D-02,41.3,8701,Emision gaseosa,Agua,4.6
+7/25/2025 13:14:55,uheredia.acero@hotmail.com,ACEROS HEREDIA S.A,20123456789,Establecimiento_4_6789,D-01,10.7,8644,Emision gaseosa,Aceite industrial,2.6
+7/25/2025 13:14:55,uheredia.acero@hotmail.com,ACEROS HEREDIA S.A,20123456789,Establecimiento_4_6789,D-02,46.0,8439,Liquido proceso,Aceite industrial,3.3
+7/26/2025 11:41:18,vmendez.electronica@gmail.com,ELECTRONICA MENDEZ S.R.L,20234567891,Establecimiento_1_7891,D-01,8.2,7628,Emision gaseosa,Agua,4.9
+7/26/2025 11:41:18,vmendez.electronica@gmail.com,ELECTRONICA MENDEZ S.R.L,20234567891,Establecimiento_1_7891,D-02,13.4,6557,Emision gaseosa,Aire comprimido,2.2
+7/26/2025 11:41:18,vmendez.electronica@gmail.com,ELECTRONICA MENDEZ S.R.L,20234567891,Establecimiento_1_7891,D-03,6.1,6115,Agua residual,Aire comprimido,1.1
+7/27/2025 15:26:33,wparedes.confeccion@yahoo.com,CONFECCIONES PAREDES S.A.C,20345678912,Establecimiento_1_8912,D-01,5.9,7676,Agua residual,Agua,3.3
+7/27/2025 15:26:33,wparedes.confeccion@yahoo.com,CONFECCIONES PAREDES S.A.C,20345678912,Establecimiento_2_8912,D-01,43.9,7804,Liquido proceso,Agua,4.9
+7/27/2025 15:26:33,wparedes.confeccion@yahoo.com,CONFECCIONES PAREDES S.A.C,20345678912,Establecimiento_3_8912,D-01,19.7,6457,Emision gaseosa,Agua,1.9
+7/27/2025 15:26:33,wparedes.confeccion@yahoo.com,CONFECCIONES PAREDES S.A.C,20345678912,Establecimiento_3_8912,D-02,35.9,8466,Liquido proceso,Aire comprimido,1.5
+7/28/2025 8:53:47,xsalazar.joyeria@outlook.com,JOYERIA SALAZAR S.A,20456789123,Establecimiento_1_9123,D-01,40.3,7813,Liquido proceso,Aire comprimido,3.0
+7/28/2025 8:53:47,xsalazar.joyeria@outlook.com,JOYERIA SALAZAR S.A,20456789123,Establecimiento_1_9123,D-02,42.8,6319,Emision gaseosa,Aire comprimido,3.7
+7/29/2025 12:18:21,yvega.calzado@gmail.com,CALZADOS VEGA S.R.L,20567891234,Establecimiento_1_1234,D-01,38.0,8681,Agua residual,Agua,2.5
+7/29/2025 12:18:21,yvega.calzado@gmail.com,CALZADOS VEGA S.R.L,20567891234,Establecimiento_1_1234,D-02,23.7,6138,Emision gaseosa,Agua,3.1
+7/29/2025 12:18:21,yvega.calzado@gmail.com,CALZADOS VEGA S.R.L,20567891234,Establecimiento_1_1234,D-03,25.6,6279,Liquido proceso,Agua,3.6
+7/29/2025 12:18:21,yvega.calzado@gmail.com,CALZADOS VEGA S.R.L,20567891234,Establecimiento_2_1234,D-01,40.3,7531,Agua residual,Aire comprimido,2.1
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_1_2345,D-01,30.5,7364,Liquido proceso,Aceite vegetal,4.7
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_1_2345,D-02,40.6,8331,Emision gaseosa,Aceite vegetal,3.9
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_1_2345,D-03,7.3,8362,Liquido proceso,Agua,1.2
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_2_2345,D-01,43.5,7772,Liquido proceso,Agua,2.2
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_2_2345,D-02,22.5,7384,Emision gaseosa,Agua,2.4
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_2_2345,D-03,27.3,6283,Liquido proceso,Aceite vegetal,2.9
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_3_2345,D-01,35.3,8020,Liquido proceso,Agua,1.5
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_4_2345,D-01,5.5,6381,Agua residual,Agua,2.1
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_5_2345,D-01,37.4,7160,Agua residual,Agua,2.9
+7/30/2025 17:45:36,zrios.lacteos@hotmail.com,LACTEOS RIOS S.A.C,20678912345,Establecimiento_5_2345,D-02,46.3,7545,Liquido proceso,Agua,2.3
+8/1/2025 14:12:49,acoronel.farmacia@yahoo.com,FARMACIA CORONEL S.A,20789123456,Establecimiento_1_3456,D-01,46.4,6735,Emision gaseosa,Agua,4.8
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_1_4567,D-01,45.7,7298,Liquido proceso,Agua,2.6
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_1_4567,D-02,33.1,6056,Agua residual,Aire comprimido,1.8
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_1_4567,D-03,7.9,6533,Emision gaseosa,Aire comprimido,3.9
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_2_4567,D-01,22.0,6581,Agua residual,Agua,3.2
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_2_4567,D-02,5.9,6688,Liquido proceso,Aire comprimido,3.4
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_2_4567,D-03,27.5,6435,Agua residual,Agua,4.2
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_3_4567,D-01,8.2,7494,Liquido proceso,Agua,2.7
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_3_4567,D-02,26.7,7921,Emision gaseosa,Aire comprimido,1.8
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_3_4567,D-03,35.9,6726,Liquido proceso,Aire comprimido,1.4
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_4_4567,D-01,5.0,8300,Liquido proceso,Agua,1.8
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_4_4567,D-02,48.8,7105,Liquido proceso,Agua,3.1
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_5_4567,D-01,39.6,6665,Liquido proceso,Agua,2.0
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_5_4567,D-02,37.8,6347,Liquido proceso,Agua,1.9
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_5_4567,D-03,46.8,8101,Agua residual,Aire comprimido,3.6
+8/2/2025 10:38:14,bcabrera.logistica@gmail.com,LOGISTICA CABRERA S.R.L,20891234567,Establecimiento_6_4567,D-01,23.9,6336,Liquido proceso,Aire comprimido,2.9
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_1_5678,D-01,15.3,6131,Emision gaseosa,Aire comprimido,1.7
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_2_5678,D-01,42.3,7963,Liquido proceso,Aire comprimido,2.5
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_2_5678,D-02,11.1,7315,Emision gaseosa,Agua,2.0
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_3_5678,D-01,44.6,8620,Emision gaseosa,Aire comprimido,1.5
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_3_5678,D-02,30.8,8367,Agua residual,Aire comprimido,2.3
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_3_5678,D-03,12.0,7829,Agua residual,Agua,4.2
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_4_5678,D-01,34.7,7139,Liquido proceso,Agua,2.2
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_4_5678,D-02,34.1,6922,Emision gaseosa,Aire comprimido,3.0
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_4_5678,D-03,30.9,6199,Emision gaseosa,Aire comprimido,2.2
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_5_5678,D-01,7.6,7774,Agua residual,Aire comprimido,1.0
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_5_5678,D-02,20.0,8704,Liquido proceso,Agua,4.8
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_6_5678,D-01,47.3,7454,Agua residual,Agua,2.0
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_6_5678,D-02,38.2,7261,Liquido proceso,Agua,3.8
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_6_5678,D-03,38.4,6161,Liquido proceso,Aire comprimido,3.5
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_7_5678,D-01,46.5,7785,Agua residual,Agua,1.3
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_7_5678,D-02,35.7,6614,Agua residual,Aire comprimido,1.8
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_7_5678,D-03,10.6,7193,Agua residual,Agua,2.2
+8/3/2025 16:25:27,ccordova.transporte@outlook.com,TRANSPORTES CORDOVA S.A.C,20912345678,Establecimiento_8_5678,D-01,18.0,7895,Agua residual,Agua,2.7
+8/4/2025 9:51:52,daguirre.hotel@hotmail.com,HOTELES AGUIRRE S.A,20123456789,Establecimiento_1_6789,D-01,22.4,8536,Agua residual,Agua,4.4
+8/4/2025 9:51:52,daguirre.hotel@hotmail.com,HOTELES AGUIRRE S.A,20123456789,Establecimiento_2_6789,D-01,7.7,8082,Emision gaseosa,Aire comprimido,1.9
+8/5/2025 13:17:35,emolina.restaurant@gmail.com,RESTAURANTE MOLINA S.R.L,20234567891,Establecimiento_1_7891,D-01,47.5,6309,Emision gaseosa,Aire comprimido,4.9
+8/5/2025 13:17:35,emolina.restaurant@gmail.com,RESTAURANTE MOLINA S.R.L,20234567891,Establecimiento_1_7891,D-02,10.2,6188,Liquido proceso,Agua,4.8
+8/5/2025 13:17:35,emolina.restaurant@gmail.com,RESTAURANTE MOLINA S.R.L,20234567891,Establecimiento_2_7891,D-01,21.4,6897,Liquido proceso,Agua,4.6
+8/5/2025 13:17:35,emolina.restaurant@gmail.com,RESTAURANTE MOLINA S.R.L,20234567891,Establecimiento_3_7891,D-01,46.1,6829,Agua residual,Aire comprimido,3.6
+8/6/2025 11:44:08,fcastañeda.seguridad@yahoo.com,SEGURIDAD CASTAÑEDA S.A.C,20345678912,Establecimiento_1_8912,D-01,37.6,7677,Agua residual,Aire comprimido,1.6
+8/6/2025 11:44:08,fcastañeda.seguridad@yahoo.com,SEGURIDAD CASTAÑEDA S.A.C,20345678912,Establecimiento_2_8912,D-01,42.4,7128,Emision gaseosa,Agua,3.1
+8/6/2025 11:44:08,fcastañeda.seguridad@yahoo.com,SEGURIDAD CASTAÑEDA S.A.C,20345678912,Establecimiento_2_8912,D-02,28.8,6570,Liquido proceso,Agua,1.2
+8/6/2025 11:44:08,fcastañeda.seguridad@yahoo.com,SEGURIDAD CASTAÑEDA S.A.C,20345678912,Establecimiento_3_8912,D-01,38.2,6939,Agua residual,Agua,1.4
+8/6/2025 11:44:08,fcastañeda.seguridad@yahoo.com,SEGURIDAD CASTAÑEDA S.A.C,20345678912,Establecimiento_3_8912,D-02,40.5,8445,Agua residual,Agua,4.2
+8/6/2025 11:44:08,fcastañeda.seguridad@yahoo.com,SEGURIDAD CASTAÑEDA S.A.C,20345678912,Establecimiento_4_8912,D-01,47.6,8227,Emision gaseosa,Agua,2.7
+8/6/2025 11:44:08,fcastañeda.seguridad@yahoo.com,SEGURIDAD CASTAÑEDA S.A.C,20345678912,Establecimiento_4_8912,D-02,26.0,7523,Liquido proceso,Agua,2.7
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_1_9123,D-01,26.5,7208,Agua residual,Aire comprimido,3.7
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_1_9123,D-02,16.7,6695,Liquido proceso,Agua,4.2
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_2_9123,D-01,22.5,6268,Agua residual,Agua,3.5
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_2_9123,D-02,10.9,8641,Liquido proceso,Agua,4.8
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_3_9123,D-01,46.9,7124,Agua residual,Agua,2.0
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_4_9123,D-01,17.0,7000,Emision gaseosa,Agua,3.5
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_4_9123,D-02,26.5,7103,Liquido proceso,Agua,2.7
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_5_9123,D-01,16.9,8240,Agua residual,Aire comprimido,2.4
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_5_9123,D-02,5.7,8104,Liquido proceso,Aire comprimido,3.2
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_6_9123,D-01,37.4,8655,Liquido proceso,Agua,3.5
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_6_9123,D-02,15.4,7957,Agua residual,Aire comprimido,2.5
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_7_9123,D-01,43.1,6887,Emision gaseosa,Aire comprimido,3.4
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_7_9123,D-02,28.0,8344,Liquido proceso,Agua,4.9
+8/7/2025 15:59:41,gpalomino.limpieza@outlook.com,LIMPIEZA PALOMINO S.A,20456789123,Establecimiento_7_9123,D-03,42.6,7233,Emision gaseosa,Aire comprimido,1.6
+8/8/2025 8:26:16,hmoreno.consultoria@gmail.com,CONSULTORA MORENO S.R.L,20567891234,Establecimiento_1_1234,D-01,25.7,6672,Agua residual,Agua,1.8
+8/8/2025 8:26:16,hmoreno.consultoria@gmail.com,CONSULTORA MORENO S.R.L,20567891234,Establecimiento_1_1234,D-02,11.5,8657,Liquido proceso,Agua,2.0
+8/8/2025 8:26:16,hmoreno.consultoria@gmail.com,CONSULTORA MORENO S.R.L,20567891234,Establecimiento_1_1234,D-03,45.4,6123,Agua residual,Aire comprimido,3.6
+8/9/2025 12:43:29,ivasquez.laboratorio@hotmail.com,LABORATORIOS VASQUEZ S.A.C,20678912345,Establecimiento_1_2345,D-01,38.8,8131,Liquido proceso,Aire comprimido,4.0
+8/9/2025 12:43:29,ivasquez.laboratorio@hotmail.com,LABORATORIOS VASQUEZ S.A.C,20678912345,Establecimiento_2_2345,D-01,16.5,8643,Agua residual,Aire comprimido,2.9
+8/9/2025 12:43:29,ivasquez.laboratorio@hotmail.com,LABORATORIOS VASQUEZ S.A.C,20678912345,Establecimiento_2_2345,D-02,35.4,6048,Agua residual,Aire comprimido,1.8
+8/10/2025 17:08:54,jestrada.ingenieria@yahoo.com,INGENIERIA ESTRADA S.A,20789123456,Establecimiento_1_3456,D-01,28.6,8119,Liquido proceso,Aire comprimido,2.7
+8/10/2025 17:08:54,jestrada.ingenieria@yahoo.com,INGENIERIA ESTRADA S.A,20789123456,Establecimiento_2_3456,D-01,34.5,6032,Liquido proceso,Aire comprimido,3.6
+8/10/2025 17:08:54,jestrada.ingenieria@yahoo.com,INGENIERIA ESTRADA S.A,20789123456,Establecimiento_2_3456,D-02,24.1,8391,Liquido proceso,Aire comprimido,1.9
+8/10/2025 17:08:54,jestrada.ingenieria@yahoo.com,INGENIERIA ESTRADA S.A,20789123456,Establecimiento_2_3456,D-03,29.9,7088,Emision gaseosa,Agua,2.9
+8/10/2025 17:08:54,jestrada.ingenieria@yahoo.com,INGENIERIA ESTRADA S.A,20789123456,Establecimiento_3_3456,D-01,40.8,7823,Emision gaseosa,Agua,2.5
+8/10/2025 17:08:54,jestrada.ingenieria@yahoo.com,INGENIERIA ESTRADA S.A,20789123456,Establecimiento_3_3456,D-02,35.7,7638,Liquido proceso,Aire comprimido,3.6
+8/11/2025 14:35:17,krueda.tecnologia@gmail.com,TECNOLOGIA RUEDA S.R.L,20891234567,Establecimiento_1_4567,D-01,37.8,7810,Agua residual,Aire comprimido,4.5
+8/12/2025 10:12:42,lbustamante.publicidad@outlook.com,PUBLICIDAD BUSTAMANTE S.A.C,20912345678,Establecimiento_1_5678,D-01,26.7,8347,Agua residual,Agua,3.4
+8/12/2025 10:12:42,lbustamante.publicidad@outlook.com,PUBLICIDAD BUSTAMANTE S.A.C,20912345678,Establecimiento_2_5678,D-01,13.8,8060,Agua residual,Aire comprimido,3.4
+8/12/2025 10:12:42,lbustamante.publicidad@outlook.com,PUBLICIDAD BUSTAMANTE S.A.C,20912345678,Establecimiento_2_5678,D-02,44.8,7283,Liquido proceso,Agua,2.1
+8/13/2025 16:48:15,mvaldez.educacion@hotmail.com,EDUCACION VALDEZ S.A,20123456789,Establecimiento_1_6789,D-01,16.6,7318,Agua residual,Aire comprimido,4.5
+8/13/2025 16:48:15,mvaldez.educacion@hotmail.com,EDUCACION VALDEZ S.A,20123456789,Establecimiento_1_6789,D-02,40.7,6594,Agua residual,Agua,2.3
+8/13/2025 16:48:15,mvaldez.educacion@hotmail.com,EDUCACION VALDEZ S.A,20123456789,Establecimiento_1_6789,D-03,21.5,8014,Liquido proceso,Agua,4.8
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_1_7891,D-01,6.4,7425,Emision gaseosa,Agua,3.7
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_1_7891,D-02,48.2,8074,Liquido proceso,Agua,2.9
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_1_7891,D-03,15.9,7358,Liquido proceso,Aire comprimido,4.0
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_2_7891,D-01,24.2,8562,Agua residual,Agua,1.3
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_2_7891,D-02,20.8,7882,Liquido proceso,Aire comprimido,1.6
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_3_7891,D-01,47.7,7655,Liquido proceso,Agua,3.1
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_3_7891,D-02,40.3,8482,Agua residual,Agua,2.3
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_3_7891,D-03,11.9,7055,Agua residual,Agua,4.3
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_4_7891,D-01,8.4,8444,Agua residual,Aire comprimido,1.8
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_4_7891,D-02,8.3,8325,Liquido proceso,Aire comprimido,3.0
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_5_7891,D-01,24.7,6332,Liquido proceso,Aire comprimido,3.1
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_5_7891,D-02,7.2,7827,Liquido proceso,Aire comprimido,4.3
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_5_7891,D-03,11.5,7526,Emision gaseosa,Aire comprimido,3.6
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_6_7891,D-01,41.8,6024,Agua residual,Agua,4.0
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_6_7891,D-02,16.7,7345,Emision gaseosa,Aire comprimido,4.2
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_6_7891,D-03,37.8,8730,Liquido proceso,Aire comprimido,4.8
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_7_7891,D-01,17.0,8356,Agua residual,Aire comprimido,1.9
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_8_7891,D-01,39.2,7862,Agua residual,Agua,1.5
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_8_7891,D-02,47.5,7273,Agua residual,Aire comprimido,2.7
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_8_7891,D-03,33.4,7930,Emision gaseosa,Agua,3.6
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_9_7891,D-01,36.0,7264,Emision gaseosa,Agua,3.0
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_9_7891,D-02,7.1,7310,Liquido proceso,Agua,4.7
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_9_7891,D-03,10.8,7796,Liquido proceso,Agua,1.6
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_10_7891,D-01,19.0,7062,Emision gaseosa,Aire comprimido,4.8
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_10_7891,D-02,45.3,6007,Liquido proceso,Agua,2.0
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_10_7891,D-03,42.7,6321,Emision gaseosa,Aire comprimido,3.7
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_11_7891,D-01,14.6,6062,Liquido proceso,Aire comprimido,4.9
+8/14/2025 9:25:38,nquispe.agricultura@gmail.com,AGRICOLA QUISPE S.R.L,20234567891,Establecimiento_12_7891,D-01,7.6,7039,Liquido proceso,Agua,3.1
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_1_8912,D-01,31.7,7958,Liquido proceso,Aire comprimido,4.5
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_2_8912,D-01,17.6,8304,Agua residual,Agua,1.1
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_2_8912,D-02,38.8,6505,Agua residual,Agua,3.8
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_3_8912,D-01,23.1,7603,Liquido proceso,Aire comprimido,4.6
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_3_8912,D-02,40.8,8275,Liquido proceso,Aire comprimido,2.4
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_4_8912,D-01,14.8,6694,Agua residual,Agua,2.5
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_5_8912,D-01,34.0,6098,Liquido proceso,Agua,2.3
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_6_8912,D-01,16.7,8565,Liquido proceso,Agua,4.9
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_6_8912,D-02,14.3,6223,Agua residual,Aire comprimido,2.0
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_6_8912,D-03,37.6,7062,Emision gaseosa,Aire comprimido,2.5
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_7_8912,D-01,14.4,7464,Agua residual,Agua,4.9
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_7_8912,D-02,27.4,7693,Agua residual,Aire comprimido,2.4
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_7_8912,D-03,29.6,7339,Emision gaseosa,Agua,3.0
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_8_8912,D-01,25.4,8319,Emision gaseosa,Agua,4.5
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_8_8912,D-02,14.9,8438,Liquido proceso,Aire comprimido,1.4
+8/15/2025 13:51:23,ohuanca.ganaderia@yahoo.com,GANADERA HUANCA S.A.C,20345678912,Establecimiento_8_8912,D-03,42.1,7035,Liquido proceso,Agua,2.0
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_1_9123,D-01,47.2,8530,Emision gaseosa,Agua,2.5
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_1_9123,D-02,36.4,6679,Liquido proceso,Agua,4.1
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_2_9123,D-01,18.6,6514,Emision gaseosa,Agua,2.7
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_3_9123,D-01,33.7,7949,Liquido proceso,Agua,2.2
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_3_9123,D-02,29.4,7780,Liquido proceso,Agua,4.6
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_4_9123,D-01,46.7,8313,Agua residual,Agua,1.3
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_4_9123,D-02,49.7,8711,Liquido proceso,Agua,2.7
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_4_9123,D-03,43.4,8607,Agua residual,Agua,2.1
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_5_9123,D-01,39.1,6206,Agua residual,Agua,1.0
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_5_9123,D-02,34.2,6681,Emision gaseosa,Aire comprimido,2.0
+8/16/2025 11:18:46,pcarrasco.avicultura@outlook.com,AVICOLA CARRASCO S.A,20456789123,Establecimiento_5_9123,D-03,49.9,7341,Emision gaseosa,Aire comprimido,4.0
+8/17/2025 15:34:11,qdelgado.pesca@gmail.com,PESQUERA DELGADO S.R.L,20567891234,Establecimiento_1_1234,D-01,11.4,6928,Liquido proceso,Agua,1.2
+8/17/2025 15:34:11,qdelgado.pesca@gmail.com,PESQUERA DELGADO S.R.L,20567891234,Establecimiento_2_1234,D-01,38.6,7188,Agua residual,Aire comprimido,4.1
+8/17/2025 15:34:11,qdelgado.pesca@gmail.com,PESQUERA DELGADO S.R.L,20567891234,Establecimiento_2_1234,D-02,39.6,7327,Agua residual,Aire comprimido,1.3
+8/17/2025 15:34:11,qdelgado.pesca@gmail.com,PESQUERA DELGADO S.R.L,20567891234,Establecimiento_2_1234,D-03,47.2,7187,Emision gaseosa,Agua,3.0
+8/17/2025 15:34:11,qdelgado.pesca@gmail.com,PESQUERA DELGADO S.R.L,20567891234,Establecimiento_3_1234,D-01,29.4,6801,Agua residual,Aire comprimido,2.9
+8/17/2025 15:34:11,qdelgado.pesca@gmail.com,PESQUERA DELGADO S.R.L,20567891234,Establecimiento_3_1234,D-02,46.3,7351,Liquido proceso,Agua,4.5
+8/18/2025 8:59:27,rrubio.acuicultura@hotmail.com,ACUICULTURA RUBIO S.A.C,20678912345,Establecimiento_1_2345,D-01,29.0,6377,Liquido proceso,Agua,1.5
+8/18/2025 8:59:27,rrubio.acuicultura@hotmail.com,ACUICULTURA RUBIO S.A.C,20678912345,Establecimiento_1_2345,D-02,34.7,6920,Liquido proceso,Agua,3.3
+8/18/2025 8:59:27,rrubio.acuicultura@hotmail.com,ACUICULTURA RUBIO S.A.C,20678912345,Establecimiento_1_2345,D-03,27.7,8538,Emision gaseosa,Aire comprimido,2.8
+8/18/2025 8:59:27,rrubio.acuicultura@hotmail.com,ACUICULTURA RUBIO S.A.C,20678912345,Establecimiento_2_2345,D-01,5.4,8046,Emision gaseosa,Agua,1.5
+8/18/2025 8:59:27,rrubio.acuicultura@hotmail.com,ACUICULTURA RUBIO S.A.C,20678912345,Establecimiento_2_2345,D-02,9.5,7664,Agua residual,Agua,3.8
+8/18/2025 8:59:27,rrubio.acuicultura@hotmail.com,ACUICULTURA RUBIO S.A.C,20678912345,Establecimiento_3_2345,D-01,30.4,8008,Emision gaseosa,Aire comprimido,3.1
+8/18/2025 8:59:27,rrubio.acuicultura@hotmail.com,ACUICULTURA RUBIO S.A.C,20678912345,Establecimiento_3_2345,D-02,24.8,6232,Agua residual,Aire comprimido,3.7
+8/18/2025 8:59:27,rrubio.acuicultura@hotmail.com,ACUICULTURA RUBIO S.A.C,20678912345,Establecimiento_3_2345,D-03,5.0,8680,Liquido proceso,Aire comprimido,1.5
+8/18/2025 8:59:27,rrubio.acuicultura@hotmail.com,ACUICULTURA RUBIO S.A.C,20678912345,Establecimiento_4_2345,D-01,40.1,8490,Agua residual,Agua,4.4
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_1_3456,D-01,43.0,8240,Emision gaseosa,Agua,4.1
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_1_3456,D-02,22.2,6848,Agua residual,Aire comprimido,2.5
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_2_3456,D-01,14.0,6115,Agua residual,Aire comprimido,4.9
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_2_3456,D-02,29.6,7959,Emision gaseosa,Agua,4.6
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_3_3456,D-01,15.9,8341,Agua residual,Aire comprimido,1.5
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_3_3456,D-02,40.1,7830,Emision gaseosa,Aire comprimido,3.1
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_3_3456,D-03,22.2,7977,Liquido proceso,Aire comprimido,3.1
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_4_3456,D-01,34.3,7546,Liquido proceso,Agua,2.6
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_4_3456,D-02,37.7,6260,Liquido proceso,Agua,5.0
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_4_3456,D-03,21.6,6057,Agua residual,Aire comprimido,4.9
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_5_3456,D-01,13.7,7943,Agua residual,Aire comprimido,3.1
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_6_3456,D-01,27.9,7048,Liquido proceso,Aire comprimido,4.9
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_6_3456,D-02,43.4,8006,Agua residual,Agua,3.7
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_7_3456,D-01,16.1,6830,Emision gaseosa,Aire comprimido,4.9
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_8_3456,D-01,45.4,7718,Liquido proceso,Agua,2.6
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_9_3456,D-01,12.7,8479,Agua residual,Aire comprimido,4.3
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_9_3456,D-02,37.3,6050,Emision gaseosa,Agua,1.6
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_9_3456,D-03,45.6,7065,Emision gaseosa,Agua,4.8
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_10_3456,D-01,49.0,7028,Agua residual,Agua,5.0
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_10_3456,D-02,34.3,6157,Agua residual,Aire comprimido,4.2
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_11_3456,D-01,27.7,6849,Agua residual,Aire comprimido,4.4
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_12_3456,D-01,24.1,6480,Emision gaseosa,Agua,3.8
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_12_3456,D-02,39.4,6140,Liquido proceso,Aire comprimido,4.5
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_13_3456,D-01,41.8,8221,Agua residual,Agua,1.0
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_14_3456,D-01,40.3,6266,Emision gaseosa,Agua,3.5
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_14_3456,D-02,38.4,6158,Liquido proceso,Aire comprimido,2.3
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_15_3456,D-01,8.6,6339,Emision gaseosa,Agua,2.0
+8/19/2025 12:26:54,ssaldaña.forestal@yahoo.com,FORESTAL SALDAÑA S.A,20789123456,Establecimiento_15_3456,D-02,7.8,7695,Agua residual,Aire comprimido,4.0
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_1_4567,D-01,25.3,6229,Emision gaseosa,Aire comprimido,4.6
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_1_4567,D-02,43.4,8745,Emision gaseosa,Agua,1.5
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_1_4567,D-03,31.7,6974,Liquido proceso,Aire comprimido,1.7
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_2_4567,D-01,37.7,7524,Liquido proceso,Aire comprimido,4.0
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_3_4567,D-01,15.6,7251,Agua residual,Agua,3.5
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_4_4567,D-01,25.2,7393,Emision gaseosa,Aire comprimido,3.5
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_4_4567,D-02,31.7,6322,Liquido proceso,Agua,1.0
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_5_4567,D-01,14.9,6357,Emision gaseosa,Aire comprimido,4.2
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_6_4567,D-01,19.1,7006,Emision gaseosa,Aire comprimido,4.1
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_6_4567,D-02,16.2,7756,Liquido proceso,Aire comprimido,3.3
+8/20/2025 17:43:19,ttorres.miel@gmail.com,APICOLA TORRES S.R.L,20891234567,Establecimiento_6_4567,D-03,21.0,8298,Agua residual,Aire comprimido,1.8
+8/21/2025 14:09:32,uzamora.flores@outlook.com,FLORICULTURA ZAMORA S.A.C,20912345678,Establecimiento_1_5678,D-01,12.0,8546,Emision gaseosa,Aire comprimido,4.5
+8/21/2025 14:09:32,uzamora.flores@outlook.com,FLORICULTURA ZAMORA S.A.C,20912345678,Establecimiento_1_5678,D-02,27.0,8492,Agua residual,Agua,1.9
+8/21/2025 14:09:32,uzamora.flores@outlook.com,FLORICULTURA ZAMORA S.A.C,20912345678,Establecimiento_2_5678,D-01,12.3,7928,Liquido proceso,Aire comprimido,3.2
+8/21/2025 14:09:32,uzamora.flores@outlook.com,FLORICULTURA ZAMORA S.A.C,20912345678,Establecimiento_2_5678,D-02,46.6,8213,Emision gaseosa,Agua,3.4
+8/22/2025 10:37:48,vpacheco.vivero@hotmail.com,VIVEROS PACHECO S.A,20123456789,Establecimiento_1_6789,D-01,27.1,6708,Agua residual,Aire comprimido,1.5
+8/22/2025 10:37:48,vpacheco.vivero@hotmail.com,VIVEROS PACHECO S.A,20123456789,Establecimiento_1_6789,D-02,48.9,6708,Agua residual,Agua,4.9
+8/22/2025 10:37:48,vpacheco.vivero@hotmail.com,VIVEROS PACHECO S.A,20123456789,Establecimiento_2_6789,D-01,11.3,8653,Liquido proceso,Agua,3.7
+8/22/2025 10:37:48,vpacheco.vivero@hotmail.com,VIVEROS PACHECO S.A,20123456789,Establecimiento_3_6789,D-01,8.0,8450,Liquido proceso,Aire comprimido,3.3
+8/22/2025 10:37:48,vpacheco.vivero@hotmail.com,VIVEROS PACHECO S.A,20123456789,Establecimiento_3_6789,D-02,44.0,7760,Liquido proceso,Agua,3.9
+8/22/2025 10:37:48,vpacheco.vivero@hotmail.com,VIVEROS PACHECO S.A,20123456789,Establecimiento_3_6789,D-03,41.5,6668,Liquido proceso,Agua,2.4
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_1_7891,D-01,24.7,8751,Emision gaseosa,Aire comprimido,2.3
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_1_7891,D-02,22.1,6125,Liquido proceso,Aire comprimido,4.0
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_2_7891,D-01,42.2,7312,Agua residual,Agua,4.5
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_2_7891,D-02,18.9,6422,Emision gaseosa,Agua,2.1
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_3_7891,D-01,9.2,6385,Agua residual,Aire comprimido,2.1
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_4_7891,D-01,40.2,8388,Liquido proceso,Aire comprimido,1.3
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_4_7891,D-02,32.6,8376,Emision gaseosa,Agua,3.9
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_4_7891,D-03,6.5,8580,Liquido proceso,Aire comprimido,4.8
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_5_7891,D-01,35.5,6404,Agua residual,Aire comprimido,4.3
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_6_7891,D-01,39.1,6509,Agua residual,Agua,2.3
+8/23/2025 16:14:25,wramirez.carbon@gmail.com,CARBONERA RAMIREZ S.R.L,20234567891,Establecimiento_7_7891,D-01,6.7,7424,Agua residual,Agua,2.0
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_1_8912,D-01,18.4,6433,Agua residual,Aire comprimido,3.2
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_1_8912,D-02,13.2,6132,Emision gaseosa,Aire comprimido,3.1
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_2_8912,D-01,15.5,8068,Liquido proceso,Agua,4.4
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_2_8912,D-02,11.6,8753,Emision gaseosa,Aire comprimido,2.0
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_2_8912,D-03,18.7,7976,Liquido proceso,Aire comprimido,4.8
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_3_8912,D-01,9.8,7494,Emision gaseosa,Agua,5.0
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_3_8912,D-02,46.8,7674,Agua residual,Aire comprimido,1.4
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_3_8912,D-03,12.0,6080,Agua residual,Aire comprimido,1.1
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_4_8912,D-01,24.1,6807,Emision gaseosa,Agua,2.3
+8/24/2025 9:41:51,xvillareal.arena@yahoo.com,ARENERA VILLAREAL S.A.C,20345678912,Establecimiento_4_8912,D-02,49.3,7595,Liquido proceso,Agua,3.0
+8/25/2025 13:16:14,ychavez.grava@outlook.com,GRAVERA CHAVEZ S.A,20456789123,Establecimiento_1_9123,D-01,33.9,8141,Agua residual,Aire comprimido,2.6
+8/25/2025 13:16:14,ychavez.grava@outlook.com,GRAVERA CHAVEZ S.A,20456789123,Establecimiento_1_9123,D-02,19.1,7379,Liquido proceso,Agua,2.5
+8/25/2025 13:16:14,ychavez.grava@outlook.com,GRAVERA CHAVEZ S.A,20456789123,Establecimiento_2_9123,D-01,12.5,7960,Liquido proceso,Agua,5.0
+8/25/2025 13:16:14,ychavez.grava@outlook.com,GRAVERA CHAVEZ S.A,20456789123,Establecimiento_2_9123,D-02,43.4,7542,Emision gaseosa,Agua,2.5
+8/25/2025 13:16:14,ychavez.grava@outlook.com,GRAVERA CHAVEZ S.A,20456789123,Establecimiento_2_9123,D-03,47.0,7851,Liquido proceso,Agua,3.3
+8/26/2025 11:52:37,zsoto.granito@gmail.com,GRANITERIA SOTO S.R.L,20567891234,Establecimiento_1_1234,D-01,28.6,7136,Agua residual,Agua,3.1
+8/26/2025 11:52:37,zsoto.granito@gmail.com,GRANITERIA SOTO S.R.L,20567891234,Establecimiento_1_1234,D-02,44.4,8157,Emision gaseosa,Aire comprimido,2.7
+8/26/2025 11:52:37,zsoto.granito@gmail.com,GRANITERIA SOTO S.R.L,20567891234,Establecimiento_1_1234,D-03,34.3,7675,Agua residual,Agua,1.1
+8/27/2025 15:29:58,abravo.ceramica@hotmail.com,CERAMICA ARTESANAL BRAVO S.A.C,20678912345,Establecimiento_1_2345,D-01,26.1,8755,Emision gaseosa,Lodos,4.5
+8/27/2025 15:29:58,abravo.ceramica@hotmail.com,CERAMICA ARTESANAL BRAVO S.A.C,20678912345,Establecimiento_1_2345,D-02,30.4,7265,Liquido proceso,Agua,4.4
+8/27/2025 15:29:58,abravo.ceramica@hotmail.com,CERAMICA ARTESANAL BRAVO S.A.C,20678912345,Establecimiento_1_2345,D-03,18.9,8182,Liquido proceso,Agua,3.7
+8/28/2025 8:56:13,bcampos.ladrillos@yahoo.com,LADRILLERA CAMPOS S.A,20789123456,Establecimiento_1_3456,D-01,18.4,8687,Liquido proceso,Lodos,2.6
+8/28/2025 8:56:13,bcampos.ladrillos@yahoo.com,LADRILLERA CAMPOS S.A,20789123456,Establecimiento_1_3456,D-02,20.7,8051,Agua residual,Lodos,4.4
+8/28/2025 8:56:13,bcampos.ladrillos@yahoo.com,LADRILLERA CAMPOS S.A,20789123456,Establecimiento_1_3456,D-03,38.6,6832,Agua residual,Lodos,3.8
+8/28/2025 8:56:13,bcampos.ladrillos@yahoo.com,LADRILLERA CAMPOS S.A,20789123456,Establecimiento_2_3456,D-01,8.1,6023,Liquido proceso,Agua,2.0
+8/28/2025 8:56:13,bcampos.ladrillos@yahoo.com,LADRILLERA CAMPOS S.A,20789123456,Establecimiento_2_3456,D-02,35.8,6184,Liquido proceso,Lodos,3.1
+8/28/2025 8:56:13,bcampos.ladrillos@yahoo.com,LADRILLERA CAMPOS S.A,20789123456,Establecimiento_3_3456,D-01,19.7,7928,Emision gaseosa,Agua,1.2
+8/29/2025 12:23:46,cguerrero.tejas@gmail.com,TEJERA GUERRERO S.R.L,20891234567,Establecimiento_1_4567,D-01,31.8,8588,Emision gaseosa,Agua,4.8
+8/29/2025 12:23:46,cguerrero.tejas@gmail.com,TEJERA GUERRERO S.R.L,20891234567,Establecimiento_1_4567,D-02,18.9,8434,Agua residual,Lodos,2.4
+8/29/2025 12:23:46,cguerrero.tejas@gmail.com,TEJERA GUERRERO S.R.L,20891234567,Establecimiento_2_4567,D-01,34.1,6178,Agua residual,Agua,2.9
+8/30/2025 17:48:21,dhidalgo.yeso@outlook.com,YESERIA HIDALGO S.A.C,20912345678,Establecimiento_1_5678,D-01,44.6,6905,Liquido proceso,Agua,1.4
+8/30/2025 17:48:21,dhidalgo.yeso@outlook.com,YESERIA HIDALGO S.A.C,20912345678,Establecimiento_1_5678,D-02,15.2,7073,Liquido proceso,Agua,3.8
+8/30/2025 17:48:21,dhidalgo.yeso@outlook.com,YESERIA HIDALGO S.A.C,20912345678,Establecimiento_1_5678,D-03,40.6,8704,Liquido proceso,Agua,1.6
+8/31/2025 14:15:39,efernandez.cal@hotmail.com,CALERA FERNANDEZ S.A,20123456789,Establecimiento_1_6789,D-01,44.6,7354,Emision gaseosa,Agua,1.0
+8/31/2025 14:15:39,efernandez.cal@hotmail.com,CALERA FERNANDEZ S.A,20123456789,Establecimiento_1_6789,D-02,22.0,7136,Liquido proceso,Agua,3.4
+8/31/2025 14:15:39,efernandez.cal@hotmail.com,CALERA FERNANDEZ S.A,20123456789,Establecimiento_1_6789,D-03,42.6,6645,Emision gaseosa,Lodos,2.4
+8/31/2025 14:15:39,efernandez.cal@hotmail.com,CALERA FERNANDEZ S.A,20123456789,Establecimiento_2_6789,D-01,6.2,7493,Liquido proceso,Agua,3.2
+8/31/2025 14:15:39,efernandez.cal@hotmail.com,CALERA FERNANDEZ S.A,20123456789,Establecimiento_2_6789,D-02,38.7,8419,Liquido proceso,Lodos,1.5
+8/31/2025 14:15:39,efernandez.cal@hotmail.com,CALERA FERNANDEZ S.A,20123456789,Establecimiento_3_6789,D-01,37.0,6746,Liquido proceso,Lodos,2.4
+8/31/2025 14:15:39,efernandez.cal@hotmail.com,CALERA FERNANDEZ S.A,20123456789,Establecimiento_4_6789,D-01,31.6,6104,Liquido proceso,Lodos,4.8
+9/1/2025 10:42:54,fgonzalez.marmol@gmail.com,MARMOLERIA GONZALEZ S.R.L,20234567891,Establecimiento_1_7891,D-01,10.9,6803,Liquido proceso,Lodos,3.6
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_1_8912,D-01,12.6,6512,Emision gaseosa,Aire comprimido,4.0
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_1_8912,D-02,40.2,7921,Liquido proceso,Agua,2.6
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_2_8912,D-01,23.1,6668,Emision gaseosa,Agua,3.5
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_2_8912,D-02,9.9,6670,Emision gaseosa,Aire comprimido,2.1
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_3_8912,D-01,22.7,7687,Emision gaseosa,Aire comprimido,3.1
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_4_8912,D-01,14.2,6216,Agua residual,Aire comprimido,1.5
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_5_8912,D-01,34.1,7662,Agua residual,Agua,4.5
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_5_8912,D-02,45.7,6139,Liquido proceso,Aire comprimido,3.1
+9/2/2025 16:18:27,ghernandez.cantera@yahoo.com,CANTERA HERNANDEZ S.A.C,20345678912,Establecimiento_5_8912,D-03,39.8,6834,Emision gaseosa,Aire comprimido,4.8
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_1_9123,D-01,22.0,8314,Liquido proceso,Agua,1.1
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_1_9123,D-02,45.0,8215,Agua residual,Suspensiones minerales,4.5
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_2_9123,D-01,9.2,7487,Agua residual,Suspensiones minerales,1.5
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_3_9123,D-01,33.3,8662,Liquido proceso,Suspensiones minerales,1.9
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_3_9123,D-02,39.4,8613,Agua residual,Agua,5.0
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_4_9123,D-01,39.3,8526,Liquido proceso,Agua,4.8
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_5_9123,D-01,18.5,6489,Emision gaseosa,Agua,2.9
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_5_9123,D-02,12.0,6372,Emision gaseosa,Agua,4.5
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_5_9123,D-03,37.8,8616,Liquido proceso,Suspensiones minerales,4.5
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_6_9123,D-01,48.5,7810,Agua residual,Suspensiones minerales,4.7
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_6_9123,D-02,26.5,6047,Agua residual,Agua,3.1
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_6_9123,D-03,9.7,8531,Liquido proceso,Suspensiones minerales,2.0
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_7_9123,D-01,5.7,8050,Agua residual,Agua,2.8
+9/3/2025 9:45:12,ilopez.minerales@outlook.com,MINERALES LOPEZ S.A,20456789123,Establecimiento_8_9123,D-01,5.6,7424,Liquido proceso,Suspensiones minerales,3.3
+9/4/2025 13:21:35,jmartinez.fundicion@gmail.com,FUNDICION MARTINEZ S.R.L,20567891234,Establecimiento_1_1234,D-01,11.0,7067,Emision gaseosa,Agua,4.9
+9/4/2025 13:21:35,jmartinez.fundicion@gmail.com,FUNDICION MARTINEZ S.R.L,20567891234,Establecimiento_1_1234,D-02,45.0,8363,Liquido proceso,Agua,3.2
+9/4/2025 13:21:35,jmartinez.fundicion@gmail.com,FUNDICION MARTINEZ S.R.L,20567891234,Establecimiento_2_1234,D-01,32.5,8632,Agua residual,Aceite industrial,2.6
+9/4/2025 13:21:35,jmartinez.fundicion@gmail.com,FUNDICION MARTINEZ S.R.L,20567891234,Establecimiento_2_1234,D-02,17.8,6813,Agua residual,Agua,2.9
+9/4/2025 13:21:35,jmartinez.fundicion@gmail.com,FUNDICION MARTINEZ S.R.L,20567891234,Establecimiento_2_1234,D-03,39.9,6271,Agua residual,Aceite industrial,4.7
+9/5/2025 11:48:58,kmedina.forja@hotmail.com,FORJA MEDINA S.A.C,20678912345,Establecimiento_1_2345,D-01,16.1,7697,Agua residual,Aire comprimido,1.6
+9/5/2025 11:48:58,kmedina.forja@hotmail.com,FORJA MEDINA S.A.C,20678912345,Establecimiento_1_2345,D-02,42.9,8515,Emision gaseosa,Aire comprimido,2.1
+9/6/2025 15:14:11,lnuñez.soldadura@yahoo.com,SOLDADURAS NUÑEZ S.A,20789123456,Establecimiento_1_3456,D-01,21.6,8719,Liquido proceso,Agua,4.9
+9/6/2025 15:14:11,lnuñez.soldadura@yahoo.com,SOLDADURAS NUÑEZ S.A,20789123456,Establecimiento_1_3456,D-02,9.1,6415,Emision gaseosa,Agua,1.7
+9/6/2025 15:14:11,lnuñez.soldadura@yahoo.com,SOLDADURAS NUÑEZ S.A,20789123456,Establecimiento_2_3456,D-01,35.7,8227,Agua residual,Agua,4.6
+9/6/2025 15:14:11,lnuñez.soldadura@yahoo.com,SOLDADURAS NUÑEZ S.A,20789123456,Establecimiento_3_3456,D-01,12.4,8585,Agua residual,Aire comprimido,4.1
+9/6/2025 15:14:11,lnuñez.soldadura@yahoo.com,SOLDADURAS NUÑEZ S.A,20789123456,Establecimiento_3_3456,D-02,24.1,7545,Liquido proceso,Agua,1.5
+9/7/2025 8:39:36,mmoya.tuberia@gmail.com,TUBERIA MOYA S.R.L,20891234567,Establecimiento_1_4567,D-01,36.1,7938,Agua residual,Metal fundido,4.4
+9/7/2025 8:39:36,mmoya.tuberia@gmail.com,TUBERIA MOYA S.R.L,20891234567,Establecimiento_1_4567,D-02,30.3,6800,Agua residual,Aceite industrial,2.9
+9/7/2025 8:39:36,mmoya.tuberia@gmail.com,TUBERIA MOYA S.R.L,20891234567,Establecimiento_2_4567,D-01,14.5,6233,Emision gaseosa,Agua,3.9
+9/8/2025 12:56:49,nnava.alambre@outlook.com,ALAMBRES NAVA S.A.C,20912345678,Establecimiento_1_5678,D-01,15.8,6189,Agua residual,Aceite industrial,3.8
+9/8/2025 12:56:49,nnava.alambre@outlook.com,ALAMBRES NAVA S.A.C,20912345678,Establecimiento_1_5678,D-02,30.2,7717,Agua residual,Agua,1.9
+9/8/2025 12:56:49,nnava.alambre@outlook.com,ALAMBRES NAVA S.A.C,20912345678,Establecimiento_1_5678,D-03,38.9,7957,Emision gaseosa,Aceite industrial,1.5
+9/8/2025 12:56:49,nnava.alambre@outlook.com,ALAMBRES NAVA S.A.C,20912345678,Establecimiento_2_5678,D-01,34.0,8723,Emision gaseosa,Metal fundido,2.7
+9/8/2025 12:56:49,nnava.alambre@outlook.com,ALAMBRES NAVA S.A.C,20912345678,Establecimiento_2_5678,D-02,10.7,8188,Agua residual,Agua,3.5
+9/8/2025 12:56:49,nnava.alambre@outlook.com,ALAMBRES NAVA S.A.C,20912345678,Establecimiento_2_5678,D-03,7.2,8167,Emision gaseosa,Metal fundido,2.2
+9/8/2025 12:56:49,nnava.alambre@outlook.com,ALAMBRES NAVA S.A.C,20912345678,Establecimiento_3_5678,D-01,11.9,6248,Emision gaseosa,Aceite industrial,3.3
+9/8/2025 12:56:49,nnava.alambre@outlook.com,ALAMBRES NAVA S.A.C,20912345678,Establecimiento_4_5678,D-01,49.3,7387,Agua residual,Metal fundido,4.8
+9/8/2025 12:56:49,nnava.alambre@outlook.com,ALAMBRES NAVA S.A.C,20912345678,Establecimiento_4_5678,D-02,45.3,7052,Emision gaseosa,Agua,2.5
+9/9/2025 17:23:14,oortiz.tornillos@hotmail.com,TORNILLERIA ORTIZ S.A,20123456789,Establecimiento_1_6789,D-01,28.3,6710,Liquido proceso,Agua,3.4
+9/9/2025 17:23:14,oortiz.tornillos@hotmail.com,TORNILLERIA ORTIZ S.A,20123456789,Establecimiento_1_6789,D-02,46.9,8301,Emision gaseosa,Aire comprimido,2.8
+9/10/2025 14:49:27,ppalacios.herramientas@gmail.com,HERRAMIENTAS PALACIOS S.R.L,20234567891,Establecimiento_1_7891,D-01,7.3,6908,Emision gaseosa,Aire comprimido,1.7
+9/10/2025 14:49:27,ppalacios.herramientas@gmail.com,HERRAMIENTAS PALACIOS S.R.L,20234567891,Establecimiento_1_7891,D-02,46.1,7352,Agua residual,Agua,3.5
+9/10/2025 14:49:27,ppalacios.herramientas@gmail.com,HERRAMIENTAS PALACIOS S.R.L,20234567891,Establecimiento_2_7891,D-01,32.6,7047,Emision gaseosa,Aire comprimido,2.9
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_1_8912,D-01,11.0,6939,Liquido proceso,Aire comprimido,4.1
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_1_8912,D-02,38.0,7115,Emision gaseosa,Agua,1.2
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_1_8912,D-03,19.0,6404,Emision gaseosa,Agua,2.1
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_2_8912,D-01,20.6,6722,Liquido proceso,Agua,4.6
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_2_8912,D-02,10.1,8689,Emision gaseosa,Agua,2.2
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_3_8912,D-01,40.9,6961,Liquido proceso,Agua,2.1
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_3_8912,D-02,29.2,7262,Emision gaseosa,Aire comprimido,1.3
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_3_8912,D-03,42.3,6270,Liquido proceso,Aire comprimido,4.8
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_4_8912,D-01,23.7,6157,Emision gaseosa,Aire comprimido,1.5
+9/11/2025 10:16:42,qpeña.maquinaria@yahoo.com,MAQUINARIA PEÑA S.A.C,20345678912,Establecimiento_5_8912,D-01,41.6,6950,Agua residual,Agua,3.4
+9/12/2025 16:43:17,rquiroz.motores@outlook.com,MOTORES QUIROZ S.A,20456789123,Establecimiento_1_9123,D-01,10.4,6995,Agua residual,Aire comprimido,2.7
+9/12/2025 16:43:17,rquiroz.motores@outlook.com,MOTORES QUIROZ S.A,20456789123,Establecimiento_1_9123,D-02,43.8,8618,Liquido proceso,Aire comprimido,3.8
+9/12/2025 16:43:17,rquiroz.motores@outlook.com,MOTORES QUIROZ S.A,20456789123,Establecimiento_2_9123,D-01,18.1,6593,Liquido proceso,Agua,4.4
+9/12/2025 16:43:17,rquiroz.motores@outlook.com,MOTORES QUIROZ S.A,20456789123,Establecimiento_2_9123,D-02,21.8,7561,Emision gaseosa,Aire comprimido,2.8
+9/12/2025 16:43:17,rquiroz.motores@outlook.com,MOTORES QUIROZ S.A,20456789123,Establecimiento_3_9123,D-01,18.5,6307,Liquido proceso,Agua,1.4
+9/12/2025 16:43:17,rquiroz.motores@outlook.com,MOTORES QUIROZ S.A,20456789123,Establecimiento_3_9123,D-02,24.7,6416,Liquido proceso,Aire comprimido,1.9
+9/12/2025 16:43:17,rquiroz.motores@outlook.com,MOTORES QUIROZ S.A,20456789123,Establecimiento_3_9123,D-03,43.4,7756,Liquido proceso,Agua,1.7
+9/13/2025 9:18:52,sramirez.bombas@gmail.com,BOMBAS RAMIREZ S.R.L,20567891234,Establecimiento_1_1234,D-01,40.8,6555,Agua residual,Agua,4.8
+9/14/2025 13:45:15,tromero.valvulas@hotmail.com,VALVULAS ROMERO S.A.C,20678912345,Establecimiento_1_2345,D-01,36.3,6992,Agua residual,Agua,3.2
+9/14/2025 13:45:15,tromero.valvulas@hotmail.com,VALVULAS ROMERO S.A.C,20678912345,Establecimiento_1_2345,D-02,33.4,7108,Liquido proceso,Agua,3.0
+9/14/2025 13:45:15,tromero.valvulas@hotmail.com,VALVULAS ROMERO S.A.C,20678912345,Establecimiento_1_2345,D-03,38.6,6222,Liquido proceso,Agua,4.8
+9/14/2025 13:45:15,tromero.valvulas@hotmail.com,VALVULAS ROMERO S.A.C,20678912345,Establecimiento_2_2345,D-01,39.7,6637,Agua residual,Agua,3.0
+9/14/2025 13:45:15,tromero.valvulas@hotmail.com,VALVULAS ROMERO S.A.C,20678912345,Establecimiento_2_2345,D-02,23.9,7886,Liquido proceso,Agua,4.0
+9/14/2025 13:45:15,tromero.valvulas@hotmail.com,VALVULAS ROMERO S.A.C,20678912345,Establecimiento_2_2345,D-03,32.2,6137,Liquido proceso,Aire comprimido,3.4
+9/15/2025 11:12:38,usaavedra.compresores@yahoo.com,COMPRESORES SAAVEDRA S.A,20789123456,Establecimiento_1_3456,D-01,20.4,7020,Emision gaseosa,Aire comprimido,3.0
+9/15/2025 11:12:38,usaavedra.compresores@yahoo.com,COMPRESORES SAAVEDRA S.A,20789123456,Establecimiento_1_3456,D-02,18.5,7221,Emision gaseosa,Agua,2.9
+9/15/2025 11:12:38,usaavedra.compresores@yahoo.com,COMPRESORES SAAVEDRA S.A,20789123456,Establecimiento_2_3456,D-01,28.7,6952,Agua residual,Agua,2.7
+9/15/2025 11:12:38,usaavedra.compresores@yahoo.com,COMPRESORES SAAVEDRA S.A,20789123456,Establecimiento_2_3456,D-02,33.9,6421,Agua residual,Aire comprimido,2.7
+9/15/2025 11:12:38,usaavedra.compresores@yahoo.com,COMPRESORES SAAVEDRA S.A,20789123456,Establecimiento_2_3456,D-03,18.3,6539,Emision gaseosa,Agua,2.9
+9/15/2025 11:12:38,usaavedra.compresores@yahoo.com,COMPRESORES SAAVEDRA S.A,20789123456,Establecimiento_3_3456,D-01,21.5,7691,Emision gaseosa,Agua,2.2
+9/15/2025 11:12:38,usaavedra.compresores@yahoo.com,COMPRESORES SAAVEDRA S.A,20789123456,Establecimiento_4_3456,D-01,22.1,8713,Agua residual,Agua,3.7
+9/15/2025 11:12:38,usaavedra.compresores@yahoo.com,COMPRESORES SAAVEDRA S.A,20789123456,Establecimiento_4_3456,D-02,6.9,7250,Agua residual,Aire comprimido,1.5
+9/15/2025 11:12:38,usaavedra.compresores@yahoo.com,COMPRESORES SAAVEDRA S.A,20789123456,Establecimiento_4_3456,D-03,34.8,6826,Agua residual,Agua,3.3
+9/16/2025 15:38:51,vsalinas.generadores@gmail.com,GENERADORES SALINAS S.R.L,20891234567,Establecimiento_1_4567,D-01,39.7,8271,Agua residual,Agua,2.6
+9/16/2025 15:38:51,vsalinas.generadores@gmail.com,GENERADORES SALINAS S.R.L,20891234567,Establecimiento_1_4567,D-02,21.8,8573,Emision gaseosa,Aire comprimido,1.7
+9/16/2025 15:38:51,vsalinas.generadores@gmail.com,GENERADORES SALINAS S.R.L,20891234567,Establecimiento_1_4567,D-03,22.1,8630,Emision gaseosa,Agua,3.6
+9/16/2025 15:38:51,vsalinas.generadores@gmail.com,GENERADORES SALINAS S.R.L,20891234567,Establecimiento_2_4567,D-01,15.6,7979,Liquido proceso,Agua,3.0
+9/16/2025 15:38:51,vsalinas.generadores@gmail.com,GENERADORES SALINAS S.R.L,20891234567,Establecimiento_3_4567,D-01,16.3,8242,Liquido proceso,Agua,1.0
+9/16/2025 15:38:51,vsalinas.generadores@gmail.com,GENERADORES SALINAS S.R.L,20891234567,Establecimiento_3_4567,D-02,19.5,7928,Agua residual,Agua,2.1
+9/16/2025 15:38:51,vsalinas.generadores@gmail.com,GENERADORES SALINAS S.R.L,20891234567,Establecimiento_3_4567,D-03,34.9,7899,Agua residual,Agua,1.6
+9/17/2025 8:05:24,wsilva.transformadores@outlook.com,TRANSFORMADORES SILVA S.A.C,20912345678,Establecimiento_1_5678,D-01,8.1,8170,Agua residual,Agua,1.9
+9/17/2025 8:05:24,wsilva.transformadores@outlook.com,TRANSFORMADORES SILVA S.A.C,20912345678,Establecimiento_1_5678,D-02,48.0,6097,Emision gaseosa,Agua,4.0
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_1_6789,D-01,31.3,6383,Liquido proceso,Agua,1.3
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_2_6789,D-01,46.8,6767,Liquido proceso,Agua,5.0
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_2_6789,D-02,30.4,6675,Emision gaseosa,Aire comprimido,1.8
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_3_6789,D-01,16.1,6697,Liquido proceso,Agua,4.8
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_3_6789,D-02,36.7,8282,Emision gaseosa,Agua,1.5
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_3_6789,D-03,20.9,8441,Agua residual,Agua,4.2
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_4_6789,D-01,42.2,8083,Liquido proceso,Agua,3.4
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_4_6789,D-02,17.0,8698,Agua residual,Agua,2.8
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_4_6789,D-03,15.5,7433,Liquido proceso,Agua,1.6
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_5_6789,D-01,28.2,6106,Agua residual,Aire comprimido,4.1
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_6_6789,D-01,48.9,8578,Agua residual,Aire comprimido,3.6
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_6_6789,D-02,44.8,7152,Emision gaseosa,Aire comprimido,3.4
+9/18/2025 12:31:47,xsolis.cables@hotmail.com,CABLES SOLIS S.A,20123456789,Establecimiento_6_6789,D-03,5.3,6728,Agua residual,Agua,4.7
+9/19/2025 17:58:12,ytorres.baterias@gmail.com,BATERIAS TORRES S.R.L,20234567891,Establecimiento_1_7891,D-01,48.1,6862,Liquido proceso,Agua,4.8
+9/19/2025 17:58:12,ytorres.baterias@gmail.com,BATERIAS TORRES S.R.L,20234567891,Establecimiento_1_7891,D-02,34.4,8413,Emision gaseosa,Aire comprimido,4.3
+9/19/2025 17:58:12,ytorres.baterias@gmail.com,BATERIAS TORRES S.R.L,20234567891,Establecimiento_2_7891,D-01,18.4,6578,Liquido proceso,Agua,3.4
+9/19/2025 17:58:12,ytorres.baterias@gmail.com,BATERIAS TORRES S.R.L,20234567891,Establecimiento_2_7891,D-02,30.0,6533,Agua residual,Agua,4.8
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_1_8912,D-01,31.1,7466,Agua residual,Agua,4.1
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_1_8912,D-02,25.8,7688,Emision gaseosa,Agua,3.2
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_1_8912,D-03,24.0,8413,Emision gaseosa,Agua,3.8
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_2_8912,D-01,30.2,6382,Agua residual,Aire comprimido,2.3
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_2_8912,D-02,39.5,7740,Agua residual,Agua,2.4
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_2_8912,D-03,44.8,7790,Liquido proceso,Agua,3.3
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_3_8912,D-01,20.9,7564,Agua residual,Agua,1.2
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_3_8912,D-02,9.3,8092,Emision gaseosa,Agua,3.1
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_4_8912,D-01,13.3,7356,Liquido proceso,Agua,2.4
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_4_8912,D-02,32.5,7233,Emision gaseosa,Aire comprimido,4.2
+9/20/2025 14:24:35,zuribe.electrodomesticos@yahoo.com,ELECTRODOMESTICOS URIBE S.A.C,20345678912,Establecimiento_4_8912,D-03,18.0,6216,Agua residual,Agua,4.1
+9/21/2025 10:51:58,avera.iluminacion@outlook.com,ILUMINACION VERA S.A,20456789123,Establecimiento_1_9123,D-01,23.8,7923,Agua residual,Aire comprimido,2.5
+9/22/2025 16:17:21,bvargas.antenas@gmail.com,ANTENAS VARGAS S.R.L,20567891234,Establecimiento_1_1234,D-01,37.3,8678,Agua residual,Agua,1.3
+9/22/2025 16:17:21,bvargas.antenas@gmail.com,ANTENAS VARGAS S.R.L,20567891234,Establecimiento_2_1234,D-01,15.3,6150,Liquido proceso,Aire comprimido,1.4
+9/22/2025 16:17:21,bvargas.antenas@gmail.com,ANTENAS VARGAS S.R.L,20567891234,Establecimiento_3_1234,D-01,37.0,8713,Agua residual,Agua,1.9
+9/22/2025 16:17:21,bvargas.antenas@gmail.com,ANTENAS VARGAS S.R.L,20567891234,Establecimiento_3_1234,D-02,15.7,7799,Agua residual,Agua,1.4
+9/23/2025 9:44:46,cweber.audio@hotmail.com,AUDIO WEBER S.A.C,20678912345,Establecimiento_1_2345,D-01,11.8,8193,Emision gaseosa,Aire comprimido,1.3
+9/23/2025 9:44:46,cweber.audio@hotmail.com,AUDIO WEBER S.A.C,20678912345,Establecimiento_2_2345,D-01,39.5,7721,Agua residual,Agua,2.5
+9/23/2025 9:44:46,cweber.audio@hotmail.com,AUDIO WEBER S.A.C,20678912345,Establecimiento_2_2345,D-02,38.5,7806,Emision gaseosa,Aire comprimido,1.5
+9/24/2025 13:11:09,dvidal.video@yahoo.com,VIDEO VIDAL S.A,20789123456,Establecimiento_1_3456,D-01,23.7,8448,Agua residual,Aire comprimido,1.6
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_1_4567,D-01,18.3,8542,Liquido proceso,Aire comprimido,4.3
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_1_4567,D-02,17.8,6060,Liquido proceso,Agua,3.3
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_1_4567,D-03,37.9,7400,Agua residual,Aire comprimido,1.4
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_2_4567,D-01,16.3,6141,Agua residual,Aire comprimido,2.2
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_2_4567,D-02,45.0,8633,Emision gaseosa,Aire comprimido,4.6
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_3_4567,D-01,37.3,7430,Liquido proceso,Aire comprimido,4.6
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_4_4567,D-01,39.3,6242,Emision gaseosa,Aire comprimido,2.6
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_4_4567,D-02,13.5,8152,Emision gaseosa,Aire comprimido,1.2
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_5_4567,D-01,39.1,6260,Emision gaseosa,Agua,2.7
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_5_4567,D-02,35.1,6292,Liquido proceso,Agua,4.3
+9/25/2025 11:37:32,ewagner.computadoras@gmail.com,COMPUTADORAS WAGNER S.R.L,20891234567,Establecimiento_5_4567,D-03,28.4,6359,Agua residual,Aire comprimido,1.4
+9/26/2025 15:04:55,fxavier.software@outlook.com,SOFTWARE XAVIER S.A.C,20912345678,Establecimiento_1_5678,D-01,47.6,8680,Liquido proceso,Agua,1.6
+9/26/2025 15:04:55,fxavier.software@outlook.com,SOFTWARE XAVIER S.A.C,20912345678,Establecimiento_1_5678,D-02,7.9,7654,Emision gaseosa,Aire comprimido,2.6
+9/26/2025 15:04:55,fxavier.software@outlook.com,SOFTWARE XAVIER S.A.C,20912345678,Establecimiento_1_5678,D-03,17.1,7454,Agua residual,Agua,2.5
+9/27/2025 8:31:18,gyañez.redes@hotmail.com,REDES YAÑEZ S.A,20123456789,Establecimiento_1_6789,D-01,45.6,6940,Agua residual,Agua,3.7
+9/27/2025 8:31:18,gyañez.redes@hotmail.com,REDES YAÑEZ S.A,20123456789,Establecimiento_1_6789,D-02,5.8,7863,Emision gaseosa,Agua,2.7
+9/27/2025 8:31:18,gyañez.redes@hotmail.com,REDES YAÑEZ S.A,20123456789,Establecimiento_1_6789,D-03,35.0,7692,Liquido proceso,Agua,1.5
+9/27/2025 8:31:18,gyañez.redes@hotmail.com,REDES YAÑEZ S.A,20123456789,Establecimiento_2_6789,D-01,16.7,6513,Emision gaseosa,Agua,1.6
+9/27/2025 8:31:18,gyañez.redes@hotmail.com,REDES YAÑEZ S.A,20123456789,Establecimiento_2_6789,D-02,30.5,7545,Emision gaseosa,Aire comprimido,3.3
+9/28/2025 12:58:43,hzarate.telefonia@gmail.com,TELEFONIA ZARATE S.R.L,20234567891,Establecimiento_1_7891,D-01,31.2,8462,Agua residual,Agua,4.1
+9/28/2025 12:58:43,hzarate.telefonia@gmail.com,TELEFONIA ZARATE S.R.L,20234567891,Establecimiento_2_7891,D-01,13.4,6766,Agua residual,Agua,4.0
+9/28/2025 12:58:43,hzarate.telefonia@gmail.com,TELEFONIA ZARATE S.R.L,20234567891,Establecimiento_2_7891,D-02,44.8,8492,Emision gaseosa,Agua,1.2
+9/28/2025 12:58:43,hzarate.telefonia@gmail.com,TELEFONIA ZARATE S.R.L,20234567891,Establecimiento_3_7891,D-01,49.7,8709,Liquido proceso,Aire comprimido,4.9
+9/28/2025 12:58:43,hzarate.telefonia@gmail.com,TELEFONIA ZARATE S.R.L,20234567891,Establecimiento_3_7891,D-02,40.5,7267,Agua residual,Agua,4.6
+9/28/2025 12:58:43,hzarate.telefonia@gmail.com,TELEFONIA ZARATE S.R.L,20234567891,Establecimiento_4_7891,D-01,19.5,6763,Emision gaseosa,Aire comprimido,2.1
+9/29/2025 17:25:16,iabad.internet@yahoo.com,INTERNET ABAD S.A.C,20345678912,Establecimiento_1_8912,D-01,15.9,6824,Agua residual,Agua,3.3
+9/29/2025 17:25:16,iabad.internet@yahoo.com,INTERNET ABAD S.A.C,20345678912,Establecimiento_1_8912,D-02,10.5,7075,Liquido proceso,Agua,4.2
+9/29/2025 17:25:16,iabad.internet@yahoo.com,INTERNET ABAD S.A.C,20345678912,Establecimiento_2_8912,D-01,19.0,8466,Emision gaseosa,Aire comprimido,3.6
+9/29/2025 17:25:16,iabad.internet@yahoo.com,INTERNET ABAD S.A.C,20345678912,Establecimiento_2_8912,D-02,12.2,6821,Liquido proceso,Agua,1.4
+9/29/2025 17:25:16,iabad.internet@yahoo.com,INTERNET ABAD S.A.C,20345678912,Establecimiento_2_8912,D-03,40.4,8009,Liquido proceso,Agua,3.9
+9/29/2025 17:25:16,iabad.internet@yahoo.com,INTERNET ABAD S.A.C,20345678912,Establecimiento_3_8912,D-01,40.4,8236,Emision gaseosa,Aire comprimido,2.7
+9/29/2025 17:25:16,iabad.internet@yahoo.com,INTERNET ABAD S.A.C,20345678912,Establecimiento_3_8912,D-02,35.8,8711,Emision gaseosa,Aire comprimido,3.4
+9/30/2025 14:52:39,jabreu.hosting@outlook.com,HOSTING ABREU S.A,20456789123,Establecimiento_1_9123,D-01,15.4,7158,Liquido proceso,Aire comprimido,5.0
+10/1/2025 10:19:52,kacosta.web@gmail.com,WEB ACOSTA S.R.L,20567891234,Establecimiento_1_1234,D-01,26.5,7887,Emision gaseosa,Aire comprimido,2.0
+10/1/2025 10:19:52,kacosta.web@gmail.com,WEB ACOSTA S.R.L,20567891234,Establecimiento_1_1234,D-02,24.9,6183,Emision gaseosa,Agua,2.0
+10/1/2025 10:19:52,kacosta.web@gmail.com,WEB ACOSTA S.R.L,20567891234,Establecimiento_2_1234,D-01,12.4,7905,Liquido proceso,Agua,2.1
+10/1/2025 10:19:52,kacosta.web@gmail.com,WEB ACOSTA S.R.L,20567891234,Establecimiento_2_1234,D-02,13.6,6506,Liquido proceso,Aire comprimido,2.6
+10/2/2025 16:46:17,laguilar.marketing@hotmail.com,MARKETING AGUILAR S.A.C,20678912345,Establecimiento_1_2345,D-01,29.8,6607,Liquido proceso,Aire comprimido,3.5
+10/2/2025 16:46:17,laguilar.marketing@hotmail.com,MARKETING AGUILAR S.A.C,20678912345,Establecimiento_1_2345,D-02,20.0,6315,Agua residual,Aire comprimido,1.1
+10/2/2025 16:46:17,laguilar.marketing@hotmail.com,MARKETING AGUILAR S.A.C,20678912345,Establecimiento_2_2345,D-01,34.8,7384,Emision gaseosa,Agua,3.7
+10/2/2025 16:46:17,laguilar.marketing@hotmail.com,MARKETING AGUILAR S.A.C,20678912345,Establecimiento_3_2345,D-01,28.4,8179,Liquido proceso,Agua,4.0
+10/2/2025 16:46:17,laguilar.marketing@hotmail.com,MARKETING AGUILAR S.A.C,20678912345,Establecimiento_3_2345,D-02,45.5,6064,Agua residual,Agua,2.9
+10/2/2025 16:46:17,laguilar.marketing@hotmail.com,MARKETING AGUILAR S.A.C,20678912345,Establecimiento_3_2345,D-03,30.4,8220,Agua residual,Agua,4.5
+10/3/2025 9:13:42,malarcón.eventos@yahoo.com,EVENTOS ALARCON S.A,20789123456,Establecimiento_1_3456,D-01,13.8,8500,Emision gaseosa,Aire comprimido,3.3
+10/4/2025 13:39:05,naldana.catering@gmail.com,CATERING ALDANA S.R.L,20891234567,Establecimiento_1_4567,D-01,46.3,7973,Emision gaseosa,Aire comprimido,3.1
+10/4/2025 13:39:05,naldana.catering@gmail.com,CATERING ALDANA S.R.L,20891234567,Establecimiento_1_4567,D-02,42.6,8131,Agua residual,Agua,2.3
+10/4/2025 13:39:05,naldana.catering@gmail.com,CATERING ALDANA S.R.L,20891234567,Establecimiento_1_4567,D-03,22.6,8511,Agua residual,Agua,1.5
+10/4/2025 13:39:05,naldana.catering@gmail.com,CATERING ALDANA S.R.L,20891234567,Establecimiento_2_4567,D-01,35.4,6702,Agua residual,Aire comprimido,5.0
+10/4/2025 13:39:05,naldana.catering@gmail.com,CATERING ALDANA S.R.L,20891234567,Establecimiento_3_4567,D-01,27.1,7315,Agua residual,Aire comprimido,4.1
+10/4/2025 13:39:05,naldana.catering@gmail.com,CATERING ALDANA S.R.L,20891234567,Establecimiento_3_4567,D-02,28.6,6819,Emision gaseosa,Aire comprimido,2.3
+10/4/2025 13:39:05,naldana.catering@gmail.com,CATERING ALDANA S.R.L,20891234567,Establecimiento_4_4567,D-01,5.1,6567,Liquido proceso,Agua,2.0
+10/4/2025 13:39:05,naldana.catering@gmail.com,CATERING ALDANA S.R.L,20891234567,Establecimiento_4_4567,D-02,31.8,6040,Agua residual,Aire comprimido,4.5
+10/4/2025 13:39:05,naldana.catering@gmail.com,CATERING ALDANA S.R.L,20891234567,Establecimiento_4_4567,D-03,13.8,6977,Agua residual,Aire comprimido,4.7
+10/5/2025 11:06:28,oalmonte.floreria@outlook.com,FLORERIA ALMONTE S.A.C,20912345678,Establecimiento_1_5678,D-01,48.5,7983,Agua residual,Agua,3.0
+10/5/2025 11:06:28,oalmonte.floreria@outlook.com,FLORERIA ALMONTE S.A.C,20912345678,Establecimiento_1_5678,D-02,35.6,8708,Emision gaseosa,Agua,1.5
+10/5/2025 11:06:28,oalmonte.floreria@outlook.com,FLORERIA ALMONTE S.A.C,20912345678,Establecimiento_2_5678,D-01,5.7,6903,Agua residual,Aire comprimido,3.2
+10/6/2025 15:32:51,palvarez.joyeria@hotmail.com,JOYERIA ALVAREZ S.A,20123456789,Establecimiento_1_6789,D-01,15.9,7368,Liquido proceso,Aire comprimido,3.8
+10/6/2025 15:32:51,palvarez.joyeria@hotmail.com,JOYERIA ALVAREZ S.A,20123456789,Establecimiento_1_6789,D-02,46.1,6172,Liquido proceso,Aire comprimido,3.8
+10/6/2025 15:32:51,palvarez.joyeria@hotmail.com,JOYERIA ALVAREZ S.A,20123456789,Establecimiento_1_6789,D-03,17.3,7814,Agua residual,Aire comprimido,3.6
+10/7/2025 8:59:14,qandrade.relojeria@gmail.com,RELOJERIA ANDRADE S.R.L,20234567891,Establecimiento_1_7891,D-01,20.0,8698,Liquido proceso,Aire comprimido,1.4
+10/8/2025 12:25:37,rangulo.optica@yahoo.com,OPTICA ANGULO S.A.C,20345678912,Establecimiento_1_8912,D-01,18.1,7869,Agua residual,Agua,2.4
+10/8/2025 12:25:37,rangulo.optica@yahoo.com,OPTICA ANGULO S.A.C,20345678912,Establecimiento_1_8912,D-02,45.0,8682,Emision gaseosa,Agua,2.5
+10/8/2025 12:25:37,rangulo.optica@yahoo.com,OPTICA ANGULO S.A.C,20345678912,Establecimiento_2_8912,D-01,39.3,6982,Liquido proceso,Aire comprimido,3.7
+10/8/2025 12:25:37,rangulo.optica@yahoo.com,OPTICA ANGULO S.A.C,20345678912,Establecimiento_3_8912,D-01,30.8,6419,Agua residual,Aire comprimido,3.3
+10/9/2025 17:52:12,saparicio.fotografia@outlook.com,FOTOGRAFIA APARICIO S.A,20456789123,Establecimiento_1_9123,D-01,37.1,8612,Agua residual,Aire comprimido,1.1
+10/10/2025 14:18:35,tarana.imprenta@gmail.com,IMPRENTA ARANA S.R.L,20567891234,Establecimiento_1_1234,D-01,13.4,6615,Agua residual,Agua,4.7
+10/10/2025 14:18:35,tarana.imprenta@gmail.com,IMPRENTA ARANA S.R.L,20567891234,Establecimiento_1_1234,D-02,21.8,8713,Liquido proceso,Agua,3.0
+10/10/2025 14:18:35,tarana.imprenta@gmail.com,IMPRENTA ARANA S.R.L,20567891234,Establecimiento_1_1234,D-03,6.6,6173,Liquido proceso,Aire comprimido,4.1
+10/10/2025 14:18:35,tarana.imprenta@gmail.com,IMPRENTA ARANA S.R.L,20567891234,Establecimiento_2_1234,D-01,26.6,8041,Agua residual,Agua,3.0
+10/10/2025 14:18:35,tarana.imprenta@gmail.com,IMPRENTA ARANA S.R.L,20567891234,Establecimiento_2_1234,D-02,19.4,7319,Liquido proceso,Agua,2.1
+10/10/2025 14:18:35,tarana.imprenta@gmail.com,IMPRENTA ARANA S.R.L,20567891234,Establecimiento_2_1234,D-03,8.0,6099,Liquido proceso,Aire comprimido,2.9
+10/11/2025 10:45:58,uarce.editorial@hotmail.com,EDITORIAL ARCE S.A.C,20678912345,Establecimiento_1_2345,D-01,37.4,8028,Liquido proceso,Agua,4.5
+10/11/2025 10:45:58,uarce.editorial@hotmail.com,EDITORIAL ARCE S.A.C,20678912345,Establecimiento_1_2345,D-02,18.1,6374,Liquido proceso,Aire comprimido,3.0
+10/11/2025 10:45:58,uarce.editorial@hotmail.com,EDITORIAL ARCE S.A.C,20678912345,Establecimiento_1_2345,D-03,32.7,6847,Agua residual,Agua,4.9
+10/12/2025 16:12:21,varenas.libreria@yahoo.com,LIBRERIA ARENAS S.A,20789123456,Establecimiento_1_3456,D-01,8.5,8258,Emision gaseosa,Aire comprimido,2.0
+10/12/2025 16:12:21,varenas.libreria@yahoo.com,LIBRERIA ARENAS S.A,20789123456,Establecimiento_2_3456,D-01,35.2,7840,Liquido proceso,Agua,1.6
+10/12/2025 16:12:21,varenas.libreria@yahoo.com,LIBRERIA ARENAS S.A,20789123456,Establecimiento_3_3456,D-01,44.7,8342,Agua residual,Agua,3.1
+10/12/2025 16:12:21,varenas.libreria@yahoo.com,LIBRERIA ARENAS S.A,20789123456,Establecimiento_4_3456,D-01,13.8,6902,Agua residual,Agua,2.8
+10/12/2025 16:12:21,varenas.libreria@yahoo.com,LIBRERIA ARENAS S.A,20789123456,Establecimiento_4_3456,D-02,19.0,7153,Emision gaseosa,Agua,3.0
+10/12/2025 16:12:21,varenas.libreria@yahoo.com,LIBRERIA ARENAS S.A,20789123456,Establecimiento_4_3456,D-03,11.6,6416,Agua residual,Aire comprimido,1.2
+10/13/2025 9:38:46,warias.papeleria@gmail.com,PAPELERIA ARIAS S.R.L,20891234567,Establecimiento_1_4567,D-01,6.0,6200,Emision gaseosa,Aire comprimido,3.2
+10/13/2025 9:38:46,warias.papeleria@gmail.com,PAPELERIA ARIAS S.R.L,20891234567,Establecimiento_2_4567,D-01,38.2,8010,Agua residual,Agua,1.9
+10/14/2025 13:05:19,xarmstrong.deportes@outlook.com,DEPORTES ARMSTRONG S.A.C,20912345678,Establecimiento_1_5678,D-01,39.6,7301,Liquido proceso,Agua,2.8
+10/14/2025 13:05:19,xarmstrong.deportes@outlook.com,DEPORTES ARMSTRONG S.A.C,20912345678,Establecimiento_1_5678,D-02,38.0,8558,Emision gaseosa,Agua,4.5
+10/14/2025 13:05:19,xarmstrong.deportes@outlook.com,DEPORTES ARMSTRONG S.A.C,20912345678,Establecimiento_2_5678,D-01,19.0,8104,Liquido proceso,Agua,2.7
+10/14/2025 13:05:19,xarmstrong.deportes@outlook.com,DEPORTES ARMSTRONG S.A.C,20912345678,Establecimiento_3_5678,D-01,20.6,6801,Liquido proceso,Aire comprimido,3.5
+10/15/2025 11:31:42,yarruda.gimnasio@hotmail.com,GIMNASIO ARRUDA S.A,20123456789,Establecimiento_1_6789,D-01,47.6,7146,Emision gaseosa,Agua,5.0
+10/15/2025 11:31:42,yarruda.gimnasio@hotmail.com,GIMNASIO ARRUDA S.A,20123456789,Establecimiento_1_6789,D-02,48.6,7444,Emision gaseosa,Agua,2.9
+10/15/2025 11:31:42,yarruda.gimnasio@hotmail.com,GIMNASIO ARRUDA S.A,20123456789,Establecimiento_1_6789,D-03,24.3,8421,Liquido proceso,Aire comprimido,1.3
+10/16/2025 15:58:05,zascencio.piscina@gmail.com,PISCINAS ASCENCIO S.R.L,20234567891,Establecimiento_1_7891,D-01,23.0,8592,Emision gaseosa,Aire comprimido,4.4
+10/16/2025 15:58:05,zascencio.piscina@gmail.com,PISCINAS ASCENCIO S.R.L,20234567891,Establecimiento_1_7891,D-02,30.4,8691,Liquido proceso,Agua,1.8
+10/16/2025 15:58:05,zascencio.piscina@gmail.com,PISCINAS ASCENCIO S.R.L,20234567891,Establecimiento_2_7891,D-01,16.3,8462,Liquido proceso,Aire comprimido,2.8
+10/16/2025 15:58:05,zascencio.piscina@gmail.com,PISCINAS ASCENCIO S.R.L,20234567891,Establecimiento_2_7891,D-02,14.9,8464,Agua residual,Aire comprimido,1.7
+10/16/2025 15:58:05,zascencio.piscina@gmail.com,PISCINAS ASCENCIO S.R.L,20234567891,Establecimiento_2_7891,D-03,32.2,7988,Agua residual,Agua,3.4
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_1_8912,D-01,8.3,7143,Agua residual,Aire comprimido,3.9
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_1_8912,D-02,20.5,6931,Liquido proceso,Agua,4.2
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_2_8912,D-01,17.5,7219,Liquido proceso,Aire comprimido,3.8
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_3_8912,D-01,31.0,7056,Emision gaseosa,Aire comprimido,4.3
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_3_8912,D-02,23.8,6787,Liquido proceso,Agua,5.0
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_3_8912,D-03,47.3,7126,Agua residual,Aire comprimido,2.6
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_4_8912,D-01,48.0,8698,Emision gaseosa,Agua,1.5
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_4_8912,D-02,16.3,6807,Liquido proceso,Aire comprimido,3.8
+10/17/2025 8:24:28,aavila.jardineria@yahoo.com,JARDINERIA AVILA S.A.C,20345678912,Establecimiento_5_8912,D-01,43.6,8587,Liquido proceso,Aire comprimido,2.4
+10/18/2025 12:51:53,bbaez.fumigacion@outlook.com,FUMIGACION BAEZ S.A,20456789123,Establecimiento_1_9123,D-01,31.0,8068,Liquido proceso,Aire comprimido,1.2
+10/18/2025 12:51:53,bbaez.fumigacion@outlook.com,FUMIGACION BAEZ S.A,20456789123,Establecimiento_1_9123,D-02,46.3,8258,Agua residual,Aire comprimido,3.9
+10/18/2025 12:51:53,bbaez.fumigacion@outlook.com,FUMIGACION BAEZ S.A,20456789123,Establecimiento_2_9123,D-01,11.4,6915,Agua residual,Agua,1.0
+10/18/2025 12:51:53,bbaez.fumigacion@outlook.com,FUMIGACION BAEZ S.A,20456789123,Establecimiento_2_9123,D-02,46.1,6995,Liquido proceso,Aire comprimido,3.7
+10/18/2025 12:51:53,bbaez.fumigacion@outlook.com,FUMIGACION BAEZ S.A,20456789123,Establecimiento_2_9123,D-03,27.4,6464,Agua residual,Agua,1.4
+10/18/2025 12:51:53,bbaez.fumigacion@outlook.com,FUMIGACION BAEZ S.A,20456789123,Establecimiento_3_9123,D-01,12.0,7346,Agua residual,Agua,4.0
+10/19/2025 17:18:16,cbaldeon.veterinaria@gmail.com,VETERINARIA BALDEON S.R.L,20567891234,Establecimiento_1_1234,D-01,40.9,7375,Emision gaseosa,Aire comprimido,1.8
+10/19/2025 17:18:16,cbaldeon.veterinaria@gmail.com,VETERINARIA BALDEON S.R.L,20567891234,Establecimiento_1_1234,D-02,39.4,8381,Agua residual,Agua,4.1
+10/19/2025 17:18:16,cbaldeon.veterinaria@gmail.com,VETERINARIA BALDEON S.R.L,20567891234,Establecimiento_1_1234,D-03,36.9,6826,Emision gaseosa,Aire comprimido,4.4
+10/20/2025 14:44:39,dbarrera.mascotas@hotmail.com,MASCOTAS BARRERA S.A.C,20678912345,Establecimiento_1_2345,D-01,28.4,7696,Agua residual,Aire comprimido,2.9
+10/20/2025 14:44:39,dbarrera.mascotas@hotmail.com,MASCOTAS BARRERA S.A.C,20678912345,Establecimiento_2_2345,D-01,30.7,8620,Liquido proceso,Agua,4.8
+10/20/2025 14:44:39,dbarrera.mascotas@hotmail.com,MASCOTAS BARRERA S.A.C,20678912345,Establecimiento_2_2345,D-02,40.0,8404,Agua residual,Agua,4.8
+10/21/2025 10:11:52,ebarrios.agroveterinaria@yahoo.com,AGROVETERINARIA BARRIOS S.A,20789123456,Establecimiento_1_3456,D-01,31.4,8354,Agua residual,Agua,1.5
+10/21/2025 10:11:52,ebarrios.agroveterinaria@yahoo.com,AGROVETERINARIA BARRIOS S.A,20789123456,Establecimiento_1_3456,D-02,14.0,8199,Agua residual,Agua,1.4
+10/21/2025 10:11:52,ebarrios.agroveterinaria@yahoo.com,AGROVETERINARIA BARRIOS S.A,20789123456,Establecimiento_2_3456,D-01,38.3,6115,Liquido proceso,Aire comprimido,1.7
+10/21/2025 10:11:52,ebarrios.agroveterinaria@yahoo.com,AGROVETERINARIA BARRIOS S.A,20789123456,Establecimiento_2_3456,D-02,19.1,8407,Agua residual,Agua,2.9
+10/21/2025 10:11:52,ebarrios.agroveterinaria@yahoo.com,AGROVETERINARIA BARRIOS S.A,20789123456,Establecimiento_3_3456,D-01,30.2,7189,Agua residual,Aire comprimido,1.9
+10/21/2025 10:11:52,ebarrios.agroveterinaria@yahoo.com,AGROVETERINARIA BARRIOS S.A,20789123456,Establecimiento_3_3456,D-02,28.6,7370,Liquido proceso,Aire comprimido,2.7
+10/21/2025 10:11:52,ebarrios.agroveterinaria@yahoo.com,AGROVETERINARIA BARRIOS S.A,20789123456,Establecimiento_3_3456,D-03,45.8,6271,Liquido proceso,Agua,4.6
+10/21/2025 10:11:52,ebarrios.agroveterinaria@yahoo.com,AGROVETERINARIA BARRIOS S.A,20789123456,Establecimiento_4_3456,D-01,29.5,6440,Agua residual,Aire comprimido,3.3
+10/21/2025 10:11:52,ebarrios.agroveterinaria@yahoo.com,AGROVETERINARIA BARRIOS S.A,20789123456,Establecimiento_4_3456,D-02,37.8,7619,Liquido proceso,Agua,4.1
+10/22/2025 16:38:17,fbatista.semillas@gmail.com,SEMILLAS BATISTA S.R.L,20891234567,Establecimiento_1_4567,D-01,49.7,7412,Emision gaseosa,Agua,4.2
+10/22/2025 16:38:17,fbatista.semillas@gmail.com,SEMILLAS BATISTA S.R.L,20891234567,Establecimiento_1_4567,D-02,31.0,6908,Emision gaseosa,Agua,3.5
+10/22/2025 16:38:17,fbatista.semillas@gmail.com,SEMILLAS BATISTA S.R.L,20891234567,Establecimiento_1_4567,D-03,13.5,8376,Emision gaseosa,Aire comprimido,1.9
+10/22/2025 16:38:17,fbatista.semillas@gmail.com,SEMILLAS BATISTA S.R.L,20891234567,Establecimiento_2_4567,D-01,11.2,7441,Emision gaseosa,Aire comprimido,1.5
+10/22/2025 16:38:17,fbatista.semillas@gmail.com,SEMILLAS BATISTA S.R.L,20891234567,Establecimiento_2_4567,D-02,40.4,6354,Agua residual,Agua,2.1
+10/22/2025 16:38:17,fbatista.semillas@gmail.com,SEMILLAS BATISTA S.R.L,20891234567,Establecimiento_2_4567,D-03,20.6,6113,Emision gaseosa,Aire comprimido,2.6
+10/22/2025 16:38:17,fbatista.semillas@gmail.com,SEMILLAS BATISTA S.R.L,20891234567,Establecimiento_3_4567,D-01,38.3,7299,Agua residual,Aire comprimido,2.7
+10/22/2025 16:38:17,fbatista.semillas@gmail.com,SEMILLAS BATISTA S.R.L,20891234567,Establecimiento_3_4567,D-02,33.1,6999,Liquido proceso,Agua,2.3
+10/22/2025 16:38:17,fbatista.semillas@gmail.com,SEMILLAS BATISTA S.R.L,20891234567,Establecimiento_3_4567,D-03,41.9,7814,Emision gaseosa,Aire comprimido,3.2
+10/23/2025 9:05:42,gbecerra.fertilizantes@outlook.com,FERTILIZANTES BECERRA S.A.C,20912345678,Establecimiento_1_5678,D-01,39.1,6855,Emision gaseosa,Acidos,1.9
+10/23/2025 9:05:42,gbecerra.fertilizantes@outlook.com,FERTILIZANTES BECERRA S.A.C,20912345678,Establecimiento_2_5678,D-01,14.8,6769,Emision gaseosa,Acidos,3.6
+10/23/2025 9:05:42,gbecerra.fertilizantes@outlook.com,FERTILIZANTES BECERRA S.A.C,20912345678,Establecimiento_2_5678,D-02,22.8,8276,Liquido proceso,Acidos,2.9
+10/24/2025 13:32:05,hbeltran.pesticidas@hotmail.com,PESTICIDAS BELTRAN S.A,20123456789,Establecimiento_1_6789,D-01,43.7,7204,Liquido proceso,Agua,4.9
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_1_7891,D-01,18.3,7716,Agua residual,Agua,2.4
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_1_7891,D-02,18.4,6668,Agua residual,Agua,2.6
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_1_7891,D-03,37.2,7593,Liquido proceso,Agua,1.3
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_2_7891,D-01,27.3,7896,Agua residual,Aire comprimido,4.2
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_2_7891,D-02,48.4,8647,Agua residual,Agua,4.2
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_2_7891,D-03,27.3,7061,Emision gaseosa,Agua,4.3
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_3_7891,D-01,15.0,7619,Liquido proceso,Aire comprimido,4.2
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_3_7891,D-02,14.8,7217,Agua residual,Agua,2.3
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_3_7891,D-03,38.4,6716,Emision gaseosa,Aire comprimido,4.3
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_4_7891,D-01,45.3,8478,Emision gaseosa,Aire comprimido,1.6
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_4_7891,D-02,11.4,8211,Agua residual,Aire comprimido,4.3
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_5_7891,D-01,14.8,6738,Agua residual,Aire comprimido,3.9
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_5_7891,D-02,9.0,6136,Liquido proceso,Agua,3.1
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_6_7891,D-01,40.0,7979,Emision gaseosa,Agua,3.6
+10/25/2025 11:58:28,ibermudez.riego@gmail.com,SISTEMAS RIEGO BERMUDEZ S.R.L,20234567891,Establecimiento_6_7891,D-02,40.1,8105,Agua residual,Agua,4.6
+10/26/2025 15:25:51,jblanco.invernaderos@yahoo.com,INVERNADEROS BLANCO S.A.C,20345678912,Establecimiento_1_8912,D-01,19.8,6005,Liquido proceso,Agua,2.9
+10/26/2025 15:25:51,jblanco.invernaderos@yahoo.com,INVERNADEROS BLANCO S.A.C,20345678912,Establecimiento_1_8912,D-02,34.1,7760,Liquido proceso,Agua,1.6
+10/26/2025 15:25:51,jblanco.invernaderos@yahoo.com,INVERNADEROS BLANCO S.A.C,20345678912,Establecimiento_2_8912,D-01,26.4,6929,Emision gaseosa,Aire comprimido,4.5
+10/26/2025 15:25:51,jblanco.invernaderos@yahoo.com,INVERNADEROS BLANCO S.A.C,20345678912,Establecimiento_3_8912,D-01,31.6,6288,Agua residual,Aire comprimido,3.4
+10/27/2025 8:52:14,kbonilla.hidroponicos@outlook.com,HIDROPONICOS BONILLA S.A,20456789123,Establecimiento_1_9123,D-01,34.6,6586,Agua residual,Agua,2.6
+10/27/2025 8:52:14,kbonilla.hidroponicos@outlook.com,HIDROPONICOS BONILLA S.A,20456789123,Establecimiento_1_9123,D-02,26.2,7727,Liquido proceso,Aire comprimido,2.7
+10/27/2025 8:52:14,kbonilla.hidroponicos@outlook.com,HIDROPONICOS BONILLA S.A,20456789123,Establecimiento_1_9123,D-03,21.5,6489,Emision gaseosa,Aire comprimido,2.3
+10/27/2025 8:52:14,kbonilla.hidroponicos@outlook.com,HIDROPONICOS BONILLA S.A,20456789123,Establecimiento_2_9123,D-01,23.0,6826,Emision gaseosa,Aire comprimido,2.4
+10/27/2025 8:52:14,kbonilla.hidroponicos@outlook.com,HIDROPONICOS BONILLA S.A,20456789123,Establecimiento_2_9123,D-02,36.3,6918,Liquido proceso,Aire comprimido,4.0
+10/28/2025 12:19:37,lborja.organicos@gmail.com,ORGANICOS BORJA S.R.L,20567891234,Establecimiento_1_1234,D-01,30.4,8198,Emision gaseosa,Aire comprimido,2.2
+10/28/2025 12:19:37,lborja.organicos@gmail.com,ORGANICOS BORJA S.R.L,20567891234,Establecimiento_1_1234,D-02,21.5,7461,Agua residual,Aire comprimido,4.5
+10/28/2025 12:19:37,lborja.organicos@gmail.com,ORGANICOS BORJA S.R.L,20567891234,Establecimiento_1_1234,D-03,31.0,8418,Agua residual,Aire comprimido,1.1
+10/28/2025 12:19:37,lborja.organicos@gmail.com,ORGANICOS BORJA S.R.L,20567891234,Establecimiento_2_1234,D-01,19.0,8124,Liquido proceso,Aire comprimido,3.1
+10/28/2025 12:19:37,lborja.organicos@gmail.com,ORGANICOS BORJA S.R.L,20567891234,Establecimiento_2_1234,D-02,21.1,6404,Emision gaseosa,Agua,4.3
+10/28/2025 12:19:37,lborja.organicos@gmail.com,ORGANICOS BORJA S.R.L,20567891234,Establecimiento_3_1234,D-01,20.2,7545,Liquido proceso,Aire comprimido,2.4
+10/28/2025 12:19:37,lborja.organicos@gmail.com,ORGANICOS BORJA S.R.L,20567891234,Establecimiento_3_1234,D-02,34.8,7542,Emision gaseosa,Agua,3.7
+10/28/2025 12:19:37,lborja.organicos@gmail.com,ORGANICOS BORJA S.R.L,20567891234,Establecimiento_3_1234,D-03,40.7,6442,Liquido proceso,Aire comprimido,2.7
+10/28/2025 12:19:37,lborja.organicos@gmail.com,ORGANICOS BORJA S.R.L,20567891234,Establecimiento_4_1234,D-01,24.7,8483,Emision gaseosa,Agua,1.9
+10/29/2025 17:46:12,mbravo.exportacion@hotmail.com,EXPORTADORA BRAVO S.A.C,20678912345,Establecimiento_1_2345,D-01,49.5,8601,Emision gaseosa,Agua,1.2
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_1_3456,D-01,28.6,7510,Liquido proceso,Aire comprimido,1.0
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_1_3456,D-02,48.0,6297,Emision gaseosa,Agua,1.7
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_1_3456,D-03,39.9,7989,Emision gaseosa,Aire comprimido,3.6
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_2_3456,D-01,24.2,6798,Liquido proceso,Aire comprimido,4.9
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_2_3456,D-02,39.4,7217,Liquido proceso,Agua,4.4
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_3_3456,D-01,40.0,7912,Agua residual,Aire comprimido,1.5
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_3_3456,D-02,44.2,6178,Emision gaseosa,Agua,1.4
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_4_3456,D-01,45.1,7340,Liquido proceso,Aire comprimido,3.7
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_4_3456,D-02,26.2,7410,Agua residual,Aire comprimido,4.4
+10/30/2025 14:13:35,nbriceño.importacion@yahoo.com,IMPORTADORA BRICEÑO S.A,20789123456,Establecimiento_5_3456,D-01,24.0,7799,Agua residual,Agua,1.7
+10/31/2025 10:39:58,oburgos.aduanas@gmail.com,ADUANAS BURGOS S.R.L,20891234567,Establecimiento_1_4567,D-01,46.8,8310,Emision gaseosa,Aire comprimido,2.6
+10/31/2025 10:39:58,oburgos.aduanas@gmail.com,ADUANAS BURGOS S.R.L,20891234567,Establecimiento_1_4567,D-02,38.8,8718,Liquido proceso,Aire comprimido,3.7
+10/31/2025 10:39:58,oburgos.aduanas@gmail.com,ADUANAS BURGOS S.R.L,20891234567,Establecimiento_2_4567,D-01,46.4,6566,Liquido proceso,Agua,3.3
+10/31/2025 10:39:58,oburgos.aduanas@gmail.com,ADUANAS BURGOS S.R.L,20891234567,Establecimiento_2_4567,D-02,21.5,7704,Liquido proceso,Agua,4.0
+10/31/2025 10:39:58,oburgos.aduanas@gmail.com,ADUANAS BURGOS S.R.L,20891234567,Establecimiento_2_4567,D-03,33.0,8101,Liquido proceso,Aire comprimido,3.7
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_1_5678,D-01,32.9,8745,Agua residual,Aire comprimido,2.6
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_1_5678,D-02,25.6,7693,Emision gaseosa,Agua,2.1
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_2_5678,D-01,10.6,6936,Agua residual,Agua,2.7
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_2_5678,D-02,28.4,8114,Emision gaseosa,Aire comprimido,1.9
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_3_5678,D-01,23.6,6288,Liquido proceso,Agua,4.6
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_3_5678,D-02,20.6,7561,Liquido proceso,Agua,3.2
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_3_5678,D-03,41.5,8457,Agua residual,Aire comprimido,4.5
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_4_5678,D-01,32.2,7918,Agua residual,Aire comprimido,3.1
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_4_5678,D-02,15.8,6344,Emision gaseosa,Aire comprimido,1.7
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_5_5678,D-01,30.7,8508,Liquido proceso,Aire comprimido,4.1
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_5_5678,D-02,28.8,6710,Emision gaseosa,Aire comprimido,2.7
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_6_5678,D-01,27.2,8286,Agua residual,Agua,3.2
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_6_5678,D-02,11.4,7926,Liquido proceso,Aire comprimido,3.5
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_7_5678,D-01,42.6,6371,Emision gaseosa,Aire comprimido,3.2
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_7_5678,D-02,48.4,7956,Liquido proceso,Aire comprimido,1.1
+11/1/2025 16:06:21,pcabello.almacenes@outlook.com,ALMACENES CABELLO S.A.C,20912345678,Establecimiento_8_5678,D-01,41.0,8270,Agua residual,Agua,4.5
+11/2/2025 9:33:46,qcabrera.distribuidora@hotmail.com,DISTRIBUIDORA CABRERA S.A,20123456789,Establecimiento_1_6789,D-01,49.5,6502,Emision gaseosa,Agua,1.3
+11/2/2025 9:33:46,qcabrera.distribuidora@hotmail.com,DISTRIBUIDORA CABRERA S.A,20123456789,Establecimiento_2_6789,D-01,41.7,6742,Emision gaseosa,Aire comprimido,4.1
+11/2/2025 9:33:46,qcabrera.distribuidora@hotmail.com,DISTRIBUIDORA CABRERA S.A,20123456789,Establecimiento_2_6789,D-02,29.0,8556,Emision gaseosa,Aire comprimido,2.3
+11/2/2025 9:33:46,qcabrera.distribuidora@hotmail.com,DISTRIBUIDORA CABRERA S.A,20123456789,Establecimiento_2_6789,D-03,34.6,6712,Emision gaseosa,Aire comprimido,1.4
+11/2/2025 9:33:46,qcabrera.distribuidora@hotmail.com,DISTRIBUIDORA CABRERA S.A,20123456789,Establecimiento_3_6789,D-01,21.5,6855,Emision gaseosa,Aire comprimido,1.4
+11/3/2025 13:59:09,rcaldera.mayorista@gmail.com,MAYORISTA CALDERA S.R.L,20234567891,Establecimiento_1_7891,D-01,9.8,8678,Agua residual,Aire comprimido,1.0
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_1_8912,D-01,16.3,8623,Liquido proceso,Aire comprimido,2.2
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_1_8912,D-02,19.4,6269,Emision gaseosa,Aire comprimido,2.6
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_2_8912,D-01,43.6,7799,Emision gaseosa,Aire comprimido,2.2
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_3_8912,D-01,9.5,6188,Agua residual,Aire comprimido,4.4
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_3_8912,D-02,32.5,6307,Agua residual,Aire comprimido,3.6
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_3_8912,D-03,20.3,7544,Emision gaseosa,Agua,4.1
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_4_8912,D-01,35.4,6373,Liquido proceso,Aire comprimido,3.1
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_5_8912,D-01,23.6,8334,Emision gaseosa,Aire comprimido,3.3
+11/4/2025 11:26:32,scalderóN.minorista@yahoo.com,MINORISTA CALDERON S.A.C,20345678912,Establecimiento_6_8912,D-01,5.5,6064,Emision gaseosa,Agua,2.0
+11/5/2025 15:52:55,tcampos.supermercado@outlook.com,SUPERMERCADO CAMPOS S.A,20456789123,Establecimiento_1_9123,D-01,45.7,7854,Agua residual,Agua,4.8
+11/5/2025 15:52:55,tcampos.supermercado@outlook.com,SUPERMERCADO CAMPOS S.A,20456789123,Establecimiento_1_9123,D-02,6.0,8145,Emision gaseosa,Aire comprimido,2.9
+11/5/2025 15:52:55,tcampos.supermercado@outlook.com,SUPERMERCADO CAMPOS S.A,20456789123,Establecimiento_2_9123,D-01,25.1,8228,Emision gaseosa,Agua,4.6
+11/5/2025 15:52:55,tcampos.supermercado@outlook.com,SUPERMERCADO CAMPOS S.A,20456789123,Establecimiento_2_9123,D-02,42.5,7714,Agua residual,Aire comprimido,2.5
+11/5/2025 15:52:55,tcampos.supermercado@outlook.com,SUPERMERCADO CAMPOS S.A,20456789123,Establecimiento_3_9123,D-01,30.5,7879,Emision gaseosa,Agua,1.1
+11/5/2025 15:52:55,tcampos.supermercado@outlook.com,SUPERMERCADO CAMPOS S.A,20456789123,Establecimiento_3_9123,D-02,5.6,7296,Agua residual,Aire comprimido,4.3
+11/5/2025 15:52:55,tcampos.supermercado@outlook.com,SUPERMERCADO CAMPOS S.A,20456789123,Establecimiento_4_9123,D-01,11.3,6313,Liquido proceso,Agua,3.6
+11/5/2025 15:52:55,tcampos.supermercado@outlook.com,SUPERMERCADO CAMPOS S.A,20456789123,Establecimiento_4_9123,D-02,25.6,6919,Emision gaseosa,Aire comprimido,3.8
+11/6/2025 8:19:18,ucampusano.minimarket@gmail.com,MINIMARKET CAMPUSANO S.R.L,20567891234,Establecimiento_1_1234,D-01,18.2,6146,Emision gaseosa,Aire comprimido,3.2
+11/6/2025 8:19:18,ucampusano.minimarket@gmail.com,MINIMARKET CAMPUSANO S.R.L,20567891234,Establecimiento_1_1234,D-02,41.7,6553,Agua residual,Agua,4.5
+11/6/2025 8:19:18,ucampusano.minimarket@gmail.com,MINIMARKET CAMPUSANO S.R.L,20567891234,Establecimiento_2_1234,D-01,14.3,7025,Liquido proceso,Agua,4.7
+11/6/2025 8:19:18,ucampusano.minimarket@gmail.com,MINIMARKET CAMPUSANO S.R.L,20567891234,Establecimiento_2_1234,D-02,38.1,6321,Emision gaseosa,Aire comprimido,3.8
+11/6/2025 8:19:18,ucampusano.minimarket@gmail.com,MINIMARKET CAMPUSANO S.R.L,20567891234,Establecimiento_2_1234,D-03,6.8,6198,Liquido proceso,Aire comprimido,3.2
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_1_2345,D-01,36.7,6382,Emision gaseosa,Aire comprimido,4.6
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_1_2345,D-02,42.0,7666,Agua residual,Agua,1.1
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_2_2345,D-01,38.6,7880,Emision gaseosa,Agua,5.0
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_2_2345,D-02,38.2,7853,Liquido proceso,Agua,3.4
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_2_2345,D-03,36.7,6123,Agua residual,Aire comprimido,1.5
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_3_2345,D-01,28.1,8582,Emision gaseosa,Aire comprimido,3.6
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_3_2345,D-02,20.6,6780,Liquido proceso,Agua,2.6
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_3_2345,D-03,9.2,6341,Emision gaseosa,Agua,4.4
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_4_2345,D-01,15.7,8111,Emision gaseosa,Agua,1.3
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_4_2345,D-02,49.1,7544,Liquido proceso,Aire comprimido,4.2
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_4_2345,D-03,38.8,7568,Emision gaseosa,Agua,3.4
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_5_2345,D-01,21.3,8640,Liquido proceso,Aire comprimido,4.3
+11/7/2025 12:46:43,vcanales.bodega@hotmail.com,BODEGAS CANALES S.A.C,20678912345,Establecimiento_5_2345,D-02,33.6,6345,Emision gaseosa,Aire comprimido,1.7
+11/8/2025 17:13:06,wcañas.licoreria@yahoo.com,LICORERIA CAÑAS S.A,20789123456,Establecimiento_1_3456,D-01,18.7,6252,Liquido proceso,Aire comprimido,1.4
+11/9/2025 14:40:29,xcarbajal.tabaqueria@gmail.com,TABAQUERIA CARBAJAL S.R.L,20891234567,Establecimiento_1_4567,D-01,11.9,7529,Emision gaseosa,Aire comprimido,4.9
+11/9/2025 14:40:29,xcarbajal.tabaqueria@gmail.com,TABAQUERIA CARBAJAL S.R.L,20891234567,Establecimiento_2_4567,D-01,10.3,6954,Liquido proceso,Aire comprimido,1.7
+11/9/2025 14:40:29,xcarbajal.tabaqueria@gmail.com,TABAQUERIA CARBAJAL S.R.L,20891234567,Establecimiento_2_4567,D-02,16.0,8376,Agua residual,Agua,2.6
+11/10/2025 10:07:52,ycardenas.farmacia@outlook.com,FARMACIA CARDENAS S.A.C,20912345678,Establecimiento_1_5678,D-01,27.6,7941,Emision gaseosa,Agua,2.2
+11/10/2025 10:07:52,ycardenas.farmacia@outlook.com,FARMACIA CARDENAS S.A.C,20912345678,Establecimiento_1_5678,D-02,5.5,6135,Liquido proceso,Agua,1.7
+11/10/2025 10:07:52,ycardenas.farmacia@outlook.com,FARMACIA CARDENAS S.A.C,20912345678,Establecimiento_1_5678,D-03,42.5,8199,Liquido proceso,Aire comprimido,2.6
+11/10/2025 10:07:52,ycardenas.farmacia@outlook.com,FARMACIA CARDENAS S.A.C,20912345678,Establecimiento_2_5678,D-01,30.0,7644,Liquido proceso,Agua,1.1
+11/10/2025 10:07:52,ycardenas.farmacia@outlook.com,FARMACIA CARDENAS S.A.C,20912345678,Establecimiento_2_5678,D-02,37.6,7673,Liquido proceso,Agua,4.8
+11/10/2025 10:07:52,ycardenas.farmacia@outlook.com,FARMACIA CARDENAS S.A.C,20912345678,Establecimiento_3_5678,D-01,34.4,6393,Agua residual,Agua,2.7
+11/10/2025 10:07:52,ycardenas.farmacia@outlook.com,FARMACIA CARDENAS S.A.C,20912345678,Establecimiento_3_5678,D-02,28.9,7086,Agua residual,Aire comprimido,2.2
+11/11/2025 16:34:15,zcarrillo.drogueria@hotmail.com,DROGUERIA CARRILLO S.A,20123456789,Establecimiento_1_6789,D-01,21.4,6920,Emision gaseosa,Aire comprimido,4.9
+11/11/2025 16:34:15,zcarrillo.drogueria@hotmail.com,DROGUERIA CARRILLO S.A,20123456789,Establecimiento_1_6789,D-02,40.4,6395,Emision gaseosa,Agua,4.4
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_1_7891,D-01,14.1,7486,Emision gaseosa,Agua,1.7
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_1_7891,D-02,34.5,8530,Liquido proceso,Aire comprimido,1.2
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_1_7891,D-03,15.5,6962,Agua residual,Agua,4.8
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_2_7891,D-01,25.8,8587,Agua residual,Aire comprimido,3.3
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_2_7891,D-02,6.6,7299,Emision gaseosa,Agua,2.7
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_2_7891,D-03,31.4,7568,Agua residual,Aire comprimido,2.3
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_3_7891,D-01,18.2,6524,Emision gaseosa,Aire comprimido,1.5
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_3_7891,D-02,10.1,8367,Emision gaseosa,Agua,1.4
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_3_7891,D-03,32.3,7581,Emision gaseosa,Agua,1.2
+11/12/2025 9:01:38,acastillo.cosmeticos@gmail.com,COSMETICOS CASTILLO S.R.L,20234567891,Establecimiento_4_7891,D-01,33.8,6043,Emision gaseosa,Aire comprimido,4.5
+11/13/2025 13:28:01,bcastro.perfumeria@yahoo.com,PERFUMERIA CASTRO S.A.C,20345678912,Establecimiento_1_8912,D-01,16.2,7240,Emision gaseosa,Agua,4.4
+11/13/2025 13:28:01,bcastro.perfumeria@yahoo.com,PERFUMERIA CASTRO S.A.C,20345678912,Establecimiento_2_8912,D-01,44.8,6492,Agua residual,Agua,4.6
+11/13/2025 13:28:01,bcastro.perfumeria@yahoo.com,PERFUMERIA CASTRO S.A.C,20345678912,Establecimiento_2_8912,D-02,15.3,7096,Agua residual,Aire comprimido,4.8
+11/14/2025 11:54:24,ccervantes.peluqueria@outlook.com,PELUQUERIA CERVANTES S.A,20456789123,Establecimiento_1_9123,D-01,16.7,7297,Emision gaseosa,Aire comprimido,2.1
+11/14/2025 11:54:24,ccervantes.peluqueria@outlook.com,PELUQUERIA CERVANTES S.A,20456789123,Establecimiento_2_9123,D-01,42.6,8010,Emision gaseosa,Agua,3.0
+11/14/2025 11:54:24,ccervantes.peluqueria@outlook.com,PELUQUERIA CERVANTES S.A,20456789123,Establecimiento_2_9123,D-02,43.5,7907,Liquido proceso,Aire comprimido,1.8
+11/14/2025 11:54:24,ccervantes.peluqueria@outlook.com,PELUQUERIA CERVANTES S.A,20456789123,Establecimiento_2_9123,D-03,25.5,8502,Liquido proceso,Agua,4.0
+11/14/2025 11:54:24,ccervantes.peluqueria@outlook.com,PELUQUERIA CERVANTES S.A,20456789123,Establecimiento_3_9123,D-01,43.0,7783,Liquido proceso,Aire comprimido,3.6
+11/14/2025 11:54:24,ccervantes.peluqueria@outlook.com,PELUQUERIA CERVANTES S.A,20456789123,Establecimiento_3_9123,D-02,47.7,8381,Agua residual,Agua,3.0
+11/15/2025 15:21:47,dchacon.spa@gmail.com,SPA CHACON S.R.L,20567891234,Establecimiento_1_1234,D-01,40.9,6979,Agua residual,Agua,3.7
+11/15/2025 15:21:47,dchacon.spa@gmail.com,SPA CHACON S.R.L,20567891234,Establecimiento_1_1234,D-02,6.5,8640,Agua residual,Agua,4.6
+11/15/2025 15:21:47,dchacon.spa@gmail.com,SPA CHACON S.R.L,20567891234,Establecimiento_1_1234,D-03,40.5,6060,Emision gaseosa,Agua,1.4
+11/16/2025 8:48:12,echavez.gimnasio@hotmail.com,GIMNASIO CHAVEZ S.A.C,20678912345,Establecimiento_1_2345,D-01,46.6,7665,Emision gaseosa,Aire comprimido,1.4
+11/16/2025 8:48:12,echavez.gimnasio@hotmail.com,GIMNASIO CHAVEZ S.A.C,20678912345,Establecimiento_1_2345,D-02,47.2,8387,Liquido proceso,Agua,2.1
+11/16/2025 8:48:12,echavez.gimnasio@hotmail.com,GIMNASIO CHAVEZ S.A.C,20678912345,Establecimiento_2_2345,D-01,22.3,8172,Emision gaseosa,Aire comprimido,4.5
+11/16/2025 8:48:12,echavez.gimnasio@hotmail.com,GIMNASIO CHAVEZ S.A.C,20678912345,Establecimiento_2_2345,D-02,23.6,6959,Agua residual,Aire comprimido,1.5
+11/17/2025 12:15:35,fchiara.danza@yahoo.com,ACADEMIA DANZA CHIARA S.A,20789123456,Establecimiento_1_3456,D-01,6.4,8123,Emision gaseosa,Aire comprimido,2.1
+11/17/2025 12:15:35,fchiara.danza@yahoo.com,ACADEMIA DANZA CHIARA S.A,20789123456,Establecimiento_1_3456,D-02,16.2,8712,Liquido proceso,Aire comprimido,1.9
+11/17/2025 12:15:35,fchiara.danza@yahoo.com,ACADEMIA DANZA CHIARA S.A,20789123456,Establecimiento_1_3456,D-03,18.4,8027,Liquido proceso,Agua,1.4
+11/18/2025 17:42:58,gcifuentes.musica@gmail.com,ESCUELA MUSICA CIFUENTES S.R.L,20891234567,Establecimiento_1_4567,D-01,11.7,7486,Emision gaseosa,Agua,4.3
+11/18/2025 17:42:58,gcifuentes.musica@gmail.com,ESCUELA MUSICA CIFUENTES S.R.L,20891234567,Establecimiento_1_4567,D-02,32.3,7981,Liquido proceso,Agua,4.7
+11/18/2025 17:42:58,gcifuentes.musica@gmail.com,ESCUELA MUSICA CIFUENTES S.R.L,20891234567,Establecimiento_1_4567,D-03,8.9,6683,Emision gaseosa,Agua,4.4
+11/18/2025 17:42:58,gcifuentes.musica@gmail.com,ESCUELA MUSICA CIFUENTES S.R.L,20891234567,Establecimiento_2_4567,D-01,13.7,6634,Liquido proceso,Aire comprimido,4.4
+11/18/2025 17:42:58,gcifuentes.musica@gmail.com,ESCUELA MUSICA CIFUENTES S.R.L,20891234567,Establecimiento_3_4567,D-01,8.6,7353,Emision gaseosa,Aire comprimido,2.6
+11/18/2025 17:42:58,gcifuentes.musica@gmail.com,ESCUELA MUSICA CIFUENTES S.R.L,20891234567,Establecimiento_3_4567,D-02,32.3,7180,Emision gaseosa,Aire comprimido,3.0
+11/18/2025 17:42:58,gcifuentes.musica@gmail.com,ESCUELA MUSICA CIFUENTES S.R.L,20891234567,Establecimiento_4_4567,D-01,19.8,8378,Emision gaseosa,Agua,4.6
+11/18/2025 17:42:58,gcifuentes.musica@gmail.com,ESCUELA MUSICA CIFUENTES S.R.L,20891234567,Establecimiento_4_4567,D-02,35.4,8331,Liquido proceso,Agua,3.6
+11/19/2025 14:09:21,hcoello.arte@outlook.com,TALLER ARTE COELLO S.A.C,20912345678,Establecimiento_1_5678,D-01,14.7,8124,Liquido proceso,Agua,3.4
+11/20/2025 10:36:46,icolmenares.fotografia@hotmail.com,ESTUDIO FOTOGRAFIA COLMENARES S.A,20123456789,Establecimiento_1_6789,D-01,34.2,8441,Agua residual,Aire comprimido,1.9
+11/20/2025 10:36:46,icolmenares.fotografia@hotmail.com,ESTUDIO FOTOGRAFIA COLMENARES S.A,20123456789,Establecimiento_1_6789,D-02,29.0,6805,Liquido proceso,Aire comprimido,3.6
+11/20/2025 10:36:46,icolmenares.fotografia@hotmail.com,ESTUDIO FOTOGRAFIA COLMENARES S.A,20123456789,Establecimiento_1_6789,D-03,6.6,6226,Emision gaseosa,Aire comprimido,2.0
+11/20/2025 10:36:46,icolmenares.fotografia@hotmail.com,ESTUDIO FOTOGRAFIA COLMENARES S.A,20123456789,Establecimiento_2_6789,D-01,19.9,7988,Emision gaseosa,Agua,2.2
+11/20/2025 10:36:46,icolmenares.fotografia@hotmail.com,ESTUDIO FOTOGRAFIA COLMENARES S.A,20123456789,Establecimiento_2_6789,D-02,48.6,6537,Agua residual,Aire comprimido,4.6
+11/21/2025 16:03:09,jcordero.video@gmail.com,PRODUCTORA VIDEO CORDERO S.R.L,20234567891,Establecimiento_1_7891,D-01,44.0,7990,Agua residual,Agua,4.3
+11/21/2025 16:03:09,jcordero.video@gmail.com,PRODUCTORA VIDEO CORDERO S.R.L,20234567891,Establecimiento_2_7891,D-01,33.3,6024,Agua residual,Agua,2.8
+11/21/2025 16:03:09,jcordero.video@gmail.com,PRODUCTORA VIDEO CORDERO S.R.L,20234567891,Establecimiento_3_7891,D-01,42.8,6869,Liquido proceso,Agua,3.7
+11/21/2025 16:03:09,jcordero.video@gmail.com,PRODUCTORA VIDEO CORDERO S.R.L,20234567891,Establecimiento_3_7891,D-02,46.4,6281,Liquido proceso,Agua,2.8
+11/21/2025 16:03:09,jcordero.video@gmail.com,PRODUCTORA VIDEO CORDERO S.R.L,20234567891,Establecimiento_3_7891,D-03,10.6,7860,Agua residual,Agua,3.8
+11/22/2025 9:29:32,kcorrea.radio@yahoo.com,RADIO CORREA S.A.C,20345678912,Establecimiento_1_8912,D-01,5.1,8619,Liquido proceso,Aire comprimido,1.6
+11/22/2025 9:29:32,kcorrea.radio@yahoo.com,RADIO CORREA S.A.C,20345678912,Establecimiento_1_8912,D-02,19.1,6760,Agua residual,Agua,4.3
+11/23/2025 13:56:57,lcortez.television@outlook.com,TELEVISION CORTEZ S.A,20456789123,Establecimiento_1_9123,D-01,16.9,6951,Liquido proceso,Aire comprimido,3.2
+11/23/2025 13:56:57,lcortez.television@outlook.com,TELEVISION CORTEZ S.A,20456789123,Establecimiento_2_9123,D-01,43.5,7888,Liquido proceso,Agua,2.4
+11/23/2025 13:56:57,lcortez.television@outlook.com,TELEVISION CORTEZ S.A,20456789123,Establecimiento_2_9123,D-02,37.3,8374,Emision gaseosa,Agua,2.1
+11/23/2025 13:56:57,lcortez.television@outlook.com,TELEVISION CORTEZ S.A,20456789123,Establecimiento_2_9123,D-03,27.2,6539,Agua residual,Agua,4.2
+11/24/2025 11:23:20,mcristobal.periodico@gmail.com,PERIODICO CRISTOBAL S.R.L,20567891234,Establecimiento_1_1234,D-01,46.3,7516,Emision gaseosa,Agua,2.8
+11/25/2025 15:49:43,ncruz.revista@hotmail.com,REVISTA CRUZ S.A.C,20678912345,Establecimiento_1_2345,D-01,10.5,8625,Agua residual,Agua,1.8
+11/25/2025 15:49:43,ncruz.revista@hotmail.com,REVISTA CRUZ S.A.C,20678912345,Establecimiento_1_2345,D-02,21.7,7484,Emision gaseosa,Agua,1.9
+11/25/2025 15:49:43,ncruz.revista@hotmail.com,REVISTA CRUZ S.A.C,20678912345,Establecimiento_2_2345,D-01,48.6,8545,Liquido proceso,Agua,2.5
+11/25/2025 15:49:43,ncruz.revista@hotmail.com,REVISTA CRUZ S.A.C,20678912345,Establecimiento_2_2345,D-02,43.1,8118,Emision gaseosa,Aire comprimido,3.0
+11/25/2025 15:49:43,ncruz.revista@hotmail.com,REVISTA CRUZ S.A.C,20678912345,Establecimiento_2_2345,D-03,38.6,6354,Agua residual,Aire comprimido,2.4
+11/25/2025 15:49:43,ncruz.revista@hotmail.com,REVISTA CRUZ S.A.C,20678912345,Establecimiento_3_2345,D-01,31.6,6006,Emision gaseosa,Agua,4.7
+11/26/2025 8:16:08,ocuadros.publicidad@yahoo.com,AGENCIA PUBLICIDAD CUADROS S.A,20789123456,Establecimiento_1_3456,D-01,30.5,7563,Emision gaseosa,Aire comprimido,4.3
+11/26/2025 8:16:08,ocuadros.publicidad@yahoo.com,AGENCIA PUBLICIDAD CUADROS S.A,20789123456,Establecimiento_2_3456,D-01,19.7,8118,Agua residual,Aire comprimido,2.5
+11/26/2025 8:16:08,ocuadros.publicidad@yahoo.com,AGENCIA PUBLICIDAD CUADROS S.A,20789123456,Establecimiento_2_3456,D-02,33.6,7114,Emision gaseosa,Aire comprimido,3.8
+11/26/2025 8:16:08,ocuadros.publicidad@yahoo.com,AGENCIA PUBLICIDAD CUADROS S.A,20789123456,Establecimiento_3_3456,D-01,24.9,8008,Agua residual,Aire comprimido,4.0
+11/26/2025 8:16:08,ocuadros.publicidad@yahoo.com,AGENCIA PUBLICIDAD CUADROS S.A,20789123456,Establecimiento_4_3456,D-01,44.0,8653,Agua residual,Agua,3.4
+11/27/2025 12:43:31,pcuellar.diseño@gmail.com,DISEÑO CUELLAR S.R.L,20891234567,Establecimiento_1_4567,D-01,43.9,8164,Liquido proceso,Agua,1.2
+11/27/2025 12:43:31,pcuellar.diseño@gmail.com,DISEÑO CUELLAR S.R.L,20891234567,Establecimiento_2_4567,D-01,27.0,7000,Agua residual,Aire comprimido,4.3
+11/27/2025 12:43:31,pcuellar.diseño@gmail.com,DISEÑO CUELLAR S.R.L,20891234567,Establecimiento_2_4567,D-02,14.3,8438,Liquido proceso,Agua,3.7
+11/27/2025 12:43:31,pcuellar.diseño@gmail.com,DISEÑO CUELLAR S.R.L,20891234567,Establecimiento_2_4567,D-03,24.1,7312,Liquido proceso,Agua,4.9
+11/28/2025 17:09:54,qcuesta.arquitectura@outlook.com,ARQUITECTURA CUESTA S.A.C,20912345678,Establecimiento_1_5678,D-01,36.2,6334,Liquido proceso,Agua,4.3
+11/28/2025 17:09:54,qcuesta.arquitectura@outlook.com,ARQUITECTURA CUESTA S.A.C,20912345678,Establecimiento_1_5678,D-02,37.3,6626,Liquido proceso,Aire comprimido,2.6
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_1_6789,D-01,42.6,8155,Emision gaseosa,Aire comprimido,1.6
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_1_6789,D-02,33.1,6360,Agua residual,Agua,3.0
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_1_6789,D-03,13.0,8472,Liquido proceso,Aire comprimido,1.7
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_2_6789,D-01,43.2,7090,Emision gaseosa,Agua,3.2
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_2_6789,D-02,44.9,6474,Emision gaseosa,Aire comprimido,2.5
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_3_6789,D-01,30.8,7910,Liquido proceso,Agua,3.5
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_3_6789,D-02,24.0,8528,Liquido proceso,Agua,3.6
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_4_6789,D-01,27.3,7636,Agua residual,Agua,4.1
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_4_6789,D-02,24.1,8033,Liquido proceso,Aire comprimido,1.5
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_5_6789,D-01,42.7,7598,Agua residual,Aire comprimido,4.1
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_5_6789,D-02,27.1,7236,Agua residual,Aire comprimido,3.1
+11/29/2025 14:37:17,rdavila.construccion@hotmail.com,CONSTRUCCION DAVILA S.A,20123456789,Establecimiento_5_6789,D-03,29.5,8362,Liquido proceso,Agua,3.5
+11/30/2025 10:04:42,sdelgado.demolicion@gmail.com,DEMOLICIONES DELGADO S.R.L,20234567891,Establecimiento_1_7891,D-01,49.4,7789,Agua residual,Agua,4.1
+11/30/2025 10:04:42,sdelgado.demolicion@gmail.com,DEMOLICIONES DELGADO S.R.L,20234567891,Establecimiento_2_7891,D-01,45.8,7952,Agua residual,Aire comprimido,4.2
+11/30/2025 10:04:42,sdelgado.demolicion@gmail.com,DEMOLICIONES DELGADO S.R.L,20234567891,Establecimiento_3_7891,D-01,13.6,6869,Liquido proceso,Aire comprimido,3.2
+11/30/2025 10:04:42,sdelgado.demolicion@gmail.com,DEMOLICIONES DELGADO S.R.L,20234567891,Establecimiento_3_7891,D-02,6.8,7190,Emision gaseosa,Aire comprimido,3.6
+11/30/2025 10:04:42,sdelgado.demolicion@gmail.com,DEMOLICIONES DELGADO S.R.L,20234567891,Establecimiento_3_7891,D-03,36.3,7758,Liquido proceso,Agua,1.0
+12/1/2025 16:31:05,tdiaz.excavacion@yahoo.com,EXCAVACIONES DIAZ S.A.C,20345678912,Establecimiento_1_8912,D-01,21.4,7866,Agua residual,Aire comprimido,1.6
+12/1/2025 16:31:05,tdiaz.excavacion@yahoo.com,EXCAVACIONES DIAZ S.A.C,20345678912,Establecimiento_2_8912,D-01,20.1,7582,Emision gaseosa,Agua,3.9
+12/1/2025 16:31:05,tdiaz.excavacion@yahoo.com,EXCAVACIONES DIAZ S.A.C,20345678912,Establecimiento_2_8912,D-02,33.9,7534,Emision gaseosa,Aire comprimido,4.2
+12/1/2025 16:31:05,tdiaz.excavacion@yahoo.com,EXCAVACIONES DIAZ S.A.C,20345678912,Establecimiento_2_8912,D-03,47.8,6257,Liquido proceso,Aire comprimido,4.9
+12/2/2025 9:57:28,udominguez.asfalto@outlook.com,ASFALTOS DOMINGUEZ S.A,20456789123,Establecimiento_1_9123,D-01,17.5,6775,Liquido proceso,Aire comprimido,3.3
+12/2/2025 9:57:28,udominguez.asfalto@outlook.com,ASFALTOS DOMINGUEZ S.A,20456789123,Establecimiento_2_9123,D-01,46.3,6394,Liquido proceso,Agua,3.7
+12/2/2025 9:57:28,udominguez.asfalto@outlook.com,ASFALTOS DOMINGUEZ S.A,20456789123,Establecimiento_3_9123,D-01,47.9,8471,Agua residual,Aire comprimido,1.6
+12/2/2025 9:57:28,udominguez.asfalto@outlook.com,ASFALTOS DOMINGUEZ S.A,20456789123,Establecimiento_4_9123,D-01,20.2,6022,Agua residual,Aire comprimido,4.6
+12/2/2025 9:57:28,udominguez.asfalto@outlook.com,ASFALTOS DOMINGUEZ S.A,20456789123,Establecimiento_4_9123,D-02,9.5,6305,Emision gaseosa,Agua,2.4
+12/3/2025 13:24:53,vduarte.concreto@gmail.com,CONCRETOS DUARTE S.R.L,20567891234,Establecimiento_1_1234,D-01,13.8,6827,Liquido proceso,Agua,5.0
+12/3/2025 13:24:53,vduarte.concreto@gmail.com,CONCRETOS DUARTE S.R.L,20567891234,Establecimiento_1_1234,D-02,24.1,7381,Agua residual,Lodos,3.1
+12/4/2025 11:51:16,wduran.acero@hotmail.com,ESTRUCTURAS ACERO DURAN S.A.C,20678912345,Establecimiento_1_2345,D-01,27.7,8520,Emision gaseosa,Agua,3.5
+12/4/2025 11:51:16,wduran.acero@hotmail.com,ESTRUCTURAS ACERO DURAN S.A.C,20678912345,Establecimiento_1_2345,D-02,8.4,8481,Emision gaseosa,Aire comprimido,2.6
+12/4/2025 11:51:16,wduran.acero@hotmail.com,ESTRUCTURAS ACERO DURAN S.A.C,20678912345,Establecimiento_2_2345,D-01,23.0,6972,Emision gaseosa,Agua,1.0
+12/4/2025 11:51:16,wduran.acero@hotmail.com,ESTRUCTURAS ACERO DURAN S.A.C,20678912345,Establecimiento_2_2345,D-02,19.9,7246,Emision gaseosa,Aire comprimido,3.2
+12/4/2025 11:51:16,wduran.acero@hotmail.com,ESTRUCTURAS ACERO DURAN S.A.C,20678912345,Establecimiento_2_2345,D-03,36.6,6245,Agua residual,Agua,3.2
+12/4/2025 11:51:16,wduran.acero@hotmail.com,ESTRUCTURAS ACERO DURAN S.A.C,20678912345,Establecimiento_3_2345,D-01,36.1,8160,Agua residual,Agua,3.0
+12/5/2025 15:18:39,xespinoza.vidrio@yahoo.com,VIDRIOS ESPINOZA S.A,20789123456,Establecimiento_1_3456,D-01,44.6,6715,Agua residual,Aire comprimido,1.6
+12/5/2025 15:18:39,xespinoza.vidrio@yahoo.com,VIDRIOS ESPINOZA S.A,20789123456,Establecimiento_2_3456,D-01,30.1,8372,Emision gaseosa,Agua,4.9
+12/5/2025 15:18:39,xespinoza.vidrio@yahoo.com,VIDRIOS ESPINOZA S.A,20789123456,Establecimiento_2_3456,D-02,15.6,7283,Emision gaseosa,Aire comprimido,2.5
+12/5/2025 15:18:39,xespinoza.vidrio@yahoo.com,VIDRIOS ESPINOZA S.A,20789123456,Establecimiento_2_3456,D-03,25.9,6821,Agua residual,Aire comprimido,1.1
+12/6/2025 8:45:04,yesquivel.aluminio@gmail.com,ALUMINIOS ESQUIVEL S.R.L,20891234567,Establecimiento_1_4567,D-01,47.2,8590,Emision gaseosa,Agua,2.3
+12/6/2025 8:45:04,yesquivel.aluminio@gmail.com,ALUMINIOS ESQUIVEL S.R.L,20891234567,Establecimiento_1_4567,D-02,29.4,7235,Emision gaseosa,Agua,1.4
+12/6/2025 8:45:04,yesquivel.aluminio@gmail.com,ALUMINIOS ESQUIVEL S.R.L,20891234567,Establecimiento_1_4567,D-03,5.6,8414,Emision gaseosa,Aire comprimido,1.0
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_1_5678,D-01,40.1,6052,Agua residual,Agua,4.2
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_1_5678,D-02,37.0,8308,Agua residual,Aire comprimido,1.7
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_2_5678,D-01,40.4,6409,Agua residual,Aire comprimido,4.1
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_2_5678,D-02,31.2,6084,Liquido proceso,Agua,1.3
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_3_5678,D-01,47.5,6829,Agua residual,Agua,3.0
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_4_5678,D-01,47.3,7952,Agua residual,Aire comprimido,1.0
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_5_5678,D-01,34.4,8477,Agua residual,Aire comprimido,3.3
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_6_5678,D-01,33.3,6926,Emision gaseosa,Agua,5.0
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_6_5678,D-02,48.6,7173,Emision gaseosa,Agua,3.8
+12/7/2025 12:12:27,zestrada.madera@outlook.com,MADERAS ESTRADA S.A.C,20912345678,Establecimiento_6_5678,D-03,33.4,8611,Emision gaseosa,Agua,4.9
+12/8/2025 17:38:52,afigueroa.muebles@hotmail.com,MUEBLES FIGUEROA S.A,20123456789,Establecimiento_1_6789,D-01,35.0,7577,Liquido proceso,Aire comprimido,3.6
+12/8/2025 17:38:52,afigueroa.muebles@hotmail.com,MUEBLES FIGUEROA S.A,20123456789,Establecimiento_2_6789,D-01,8.3,7643,Liquido proceso,Agua,1.3
+12/8/2025 17:38:52,afigueroa.muebles@hotmail.com,MUEBLES FIGUEROA S.A,20123456789,Establecimiento_3_6789,D-01,47.1,8111,Liquido proceso,Agua,1.4
+12/8/2025 17:38:52,afigueroa.muebles@hotmail.com,MUEBLES FIGUEROA S.A,20123456789,Establecimiento_4_6789,D-01,39.7,7024,Liquido proceso,Agua,4.4
+12/8/2025 17:38:52,afigueroa.muebles@hotmail.com,MUEBLES FIGUEROA S.A,20123456789,Establecimiento_4_6789,D-02,7.9,6380,Emision gaseosa,Agua,4.6
+12/9/2025 14:06:15,bflores.tapiceria@gmail.com,TAPICERIA FLORES S.R.L,20234567891,Establecimiento_1_7891,D-01,27.5,8560,Agua residual,Agua,1.9
+12/9/2025 14:06:15,bflores.tapiceria@gmail.com,TAPICERIA FLORES S.R.L,20234567891,Establecimiento_1_7891,D-02,8.9,8087,Agua residual,Agua,1.8
+12/9/2025 14:06:15,bflores.tapiceria@gmail.com,TAPICERIA FLORES S.R.L,20234567891,Establecimiento_1_7891,D-03,47.0,6121,Liquido proceso,Aire comprimido,3.2
+12/9/2025 14:06:15,bflores.tapiceria@gmail.com,TAPICERIA FLORES S.R.L,20234567891,Establecimiento_2_7891,D-01,39.4,8558,Agua residual,Agua,3.2
+12/9/2025 14:06:15,bflores.tapiceria@gmail.com,TAPICERIA FLORES S.R.L,20234567891,Establecimiento_2_7891,D-02,24.6,7528,Emision gaseosa,Agua,4.0
+12/9/2025 14:06:15,bflores.tapiceria@gmail.com,TAPICERIA FLORES S.R.L,20234567891,Establecimiento_2_7891,D-03,10.9,7861,Emision gaseosa,Agua,3.6
+12/10/2025 10:32:38,cfonseca.cortinas@yahoo.com,CORTINAS FONSECA S.A.C,20345678912,Establecimiento_1_8912,D-01,6.0,8459,Emision gaseosa,Solventes,2.9
+12/10/2025 10:32:38,cfonseca.cortinas@yahoo.com,CORTINAS FONSECA S.A.C,20345678912,Establecimiento_1_8912,D-02,10.5,7678,Emision gaseosa,Agua,2.9
+12/11/2025 16:59:13,dfuentes.alfombras@outlook.com,ALFOMBRAS FUENTES S.A,20456789123,Establecimiento_1_9123,D-01,30.2,7537,Agua residual,Solventes,2.4
+12/11/2025 16:59:13,dfuentes.alfombras@outlook.com,ALFOMBRAS FUENTES S.A,20456789123,Establecimiento_1_9123,D-02,37.3,7375,Liquido proceso,Agua,3.2
+12/11/2025 16:59:13,dfuentes.alfombras@outlook.com,ALFOMBRAS FUENTES S.A,20456789123,Establecimiento_2_9123,D-01,17.0,6574,Agua residual,Solventes,2.1
+12/11/2025 16:59:13,dfuentes.alfombras@outlook.com,ALFOMBRAS FUENTES S.A,20456789123,Establecimiento_3_9123,D-01,46.7,8248,Agua residual,Agua,5.0
+12/12/2025 9:25:36,egallardo.colchones@gmail.com,COLCHONES GALLARDO S.R.L,20567891234,Establecimiento_1_1234,D-01,49.1,7398,Emision gaseosa,Aire comprimido,4.4
+12/12/2025 9:25:36,egallardo.colchones@gmail.com,COLCHONES GALLARDO S.R.L,20567891234,Establecimiento_2_1234,D-01,11.7,6233,Emision gaseosa,Aire comprimido,2.3
+12/12/2025 9:25:36,egallardo.colchones@gmail.com,COLCHONES GALLARDO S.R.L,20567891234,Establecimiento_2_1234,D-02,13.6,6517,Liquido proceso,Agua,4.1
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_1_2345,D-01,29.2,6961,Emision gaseosa,Agua,1.6
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_1_2345,D-02,38.9,6750,Agua residual,Aire comprimido,4.3
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_1_2345,D-03,44.0,6604,Agua residual,Agua,1.6
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_2_2345,D-01,5.9,8178,Agua residual,Aire comprimido,2.7
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_3_2345,D-01,21.6,6336,Emision gaseosa,Aire comprimido,3.1
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_3_2345,D-02,48.4,8469,Liquido proceso,Aire comprimido,2.7
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_4_2345,D-01,9.5,8511,Liquido proceso,Agua,3.1
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_4_2345,D-02,41.9,6618,Agua residual,Aire comprimido,2.0
+12/13/2025 13:52:01,fgarcia.electrodomesticos@hotmail.com,ELECTRODOMESTICOS GARCIA S.A.C,20678912345,Establecimiento_5_2345,D-01,21.9,6155,Agua residual,Agua,2.1
+12/14/2025 11:19:24,ggil.ferreteria@yahoo.com,FERRETERIA GIL S.A,20789123456,Establecimiento_1_3456,D-01,7.0,6247,Emision gaseosa,Agua,3.2
+12/14/2025 11:19:24,ggil.ferreteria@yahoo.com,FERRETERIA GIL S.A,20789123456,Establecimiento_2_3456,D-01,20.6,7557,Emision gaseosa,Aire comprimido,1.3
+12/14/2025 11:19:24,ggil.ferreteria@yahoo.com,FERRETERIA GIL S.A,20789123456,Establecimiento_2_3456,D-02,44.8,8607,Emision gaseosa,Agua,3.8
+12/14/2025 11:19:24,ggil.ferreteria@yahoo.com,FERRETERIA GIL S.A,20789123456,Establecimiento_2_3456,D-03,11.7,7406,Liquido proceso,Agua,3.6
+12/14/2025 11:19:24,ggil.ferreteria@yahoo.com,FERRETERIA GIL S.A,20789123456,Establecimiento_3_3456,D-01,29.2,6754,Emision gaseosa,Aire comprimido,3.8
+12/15/2025 15:45:47,hgomez.pinturas@gmail.com,PINTURAS GOMEZ S.R.L,20891234567,Establecimiento_1_4567,D-01,25.7,8233,Emision gaseosa,Aire comprimido,4.1
+12/15/2025 15:45:47,hgomez.pinturas@gmail.com,PINTURAS GOMEZ S.R.L,20891234567,Establecimiento_1_4567,D-02,24.0,8014,Agua residual,Agua,1.3
+12/16/2025 8:12:12,igonzalez.plomeria@outlook.com,PLOMERIA GONZALEZ S.A.C,20912345678,Establecimiento_1_5678,D-01,8.4,8683,Emision gaseosa,Agua,4.1
+12/16/2025 8:12:12,igonzalez.plomeria@outlook.com,PLOMERIA GONZALEZ S.A.C,20912345678,Establecimiento_2_5678,D-01,50.0,7506,Agua residual,Agua,3.7
+12/16/2025 8:12:12,igonzalez.plomeria@outlook.com,PLOMERIA GONZALEZ S.A.C,20912345678,Establecimiento_3_5678,D-01,9.1,6025,Liquido proceso,Aire comprimido,1.8
+12/16/2025 8:12:12,igonzalez.plomeria@outlook.com,PLOMERIA GONZALEZ S.A.C,20912345678,Establecimiento_3_5678,D-02,38.8,8036,Agua residual,Agua,4.3
+12/16/2025 8:12:12,igonzalez.plomeria@outlook.com,PLOMERIA GONZALEZ S.A.C,20912345678,Establecimiento_4_5678,D-01,8.2,8077,Agua residual,Agua,3.0
+12/16/2025 8:12:12,igonzalez.plomeria@outlook.com,PLOMERIA GONZALEZ S.A.C,20912345678,Establecimiento_4_5678,D-02,31.3,7656,Emision gaseosa,Agua,3.3
+12/17/2025 12:39:35,jgranados.electricidad@hotmail.com,ELECTRICIDAD GRANADOS S.A,20123456789,Establecimiento_1_6789,D-01,29.3,6544,Agua residual,Aire comprimido,2.0
+12/17/2025 12:39:35,jgranados.electricidad@hotmail.com,ELECTRICIDAD GRANADOS S.A,20123456789,Establecimiento_2_6789,D-01,23.4,8029,Liquido proceso,Aire comprimido,3.1
+12/17/2025 12:39:35,jgranados.electricidad@hotmail.com,ELECTRICIDAD GRANADOS S.A,20123456789,Establecimiento_2_6789,D-02,47.4,6137,Agua residual,Agua,3.8
+12/17/2025 12:39:35,jgranados.electricidad@hotmail.com,ELECTRICIDAD GRANADOS S.A,20123456789,Establecimiento_2_6789,D-03,41.2,6400,Agua residual,Aire comprimido,2.5
+12/18/2025 17:05:58,kguerrero.aire@gmail.com,AIRE ACONDICIONADO GUERRERO S.R.L,20234567891,Establecimiento_1_7891,D-01,48.9,6932,Emision gaseosa,Agua,3.1
+12/18/2025 17:05:58,kguerrero.aire@gmail.com,AIRE ACONDICIONADO GUERRERO S.R.L,20234567891,Establecimiento_1_7891,D-02,31.4,8320,Agua residual,Aire comprimido,3.3
+12/18/2025 17:05:58,kguerrero.aire@gmail.com,AIRE ACONDICIONADO GUERRERO S.R.L,20234567891,Establecimiento_2_7891,D-01,48.4,8362,Liquido proceso,Agua,3.9
+12/18/2025 17:05:58,kguerrero.aire@gmail.com,AIRE ACONDICIONADO GUERRERO S.R.L,20234567891,Establecimiento_2_7891,D-02,7.3,8732,Liquido proceso,Aire comprimido,3.1
+12/18/2025 17:05:58,kguerrero.aire@gmail.com,AIRE ACONDICIONADO GUERRERO S.R.L,20234567891,Establecimiento_3_7891,D-01,49.4,7826,Liquido proceso,Aire comprimido,1.2
+12/19/2025 14:33:21,lgutierrez.cerrajeria@yahoo.com,CERRAJERIA GUTIERREZ S.A.C,20345678912,Establecimiento_1_8912,D-01,24.8,8358,Agua residual,Agua,4.0
+12/19/2025 14:33:21,lgutierrez.cerrajeria@yahoo.com,CERRAJERIA GUTIERREZ S.A.C,20345678912,Establecimiento_1_8912,D-02,41.4,6454,Agua residual,Agua,2.7
+12/20/2025 10:59:44,mhernandez.alarmas@outlook.com,ALARMAS HERNANDEZ S.A,20456789123,Establecimiento_1_9123,D-01,36.2,7081,Agua residual,Agua,3.3
+12/20/2025 10:59:44,mhernandez.alarmas@outlook.com,ALARMAS HERNANDEZ S.A,20456789123,Establecimiento_1_9123,D-02,39.2,8169,Liquido proceso,Agua,1.7
+12/20/2025 10:59:44,mhernandez.alarmas@outlook.com,ALARMAS HERNANDEZ S.A,20456789123,Establecimiento_1_9123,D-03,13.9,6182,Emision gaseosa,Agua,2.8
+12/20/2025 10:59:44,mhernandez.alarmas@outlook.com,ALARMAS HERNANDEZ S.A,20456789123,Establecimiento_2_9123,D-01,32.9,7178,Liquido proceso,Agua,2.0
+12/20/2025 10:59:44,mhernandez.alarmas@outlook.com,ALARMAS HERNANDEZ S.A,20456789123,Establecimiento_2_9123,D-02,43.3,7431,Liquido proceso,Agua,2.7
+12/20/2025 10:59:44,mhernandez.alarmas@outlook.com,ALARMAS HERNANDEZ S.A,20456789123,Establecimiento_2_9123,D-03,33.5,8455,Agua residual,Agua,2.0
+12/21/2025 16:26:09,nhidalgo.camaras@gmail.com,CAMARAS HIDALGO S.R.L,20567891234,Establecimiento_1_1234,D-01,9.7,8408,Emision gaseosa,Agua,1.1
+12/21/2025 16:26:09,nhidalgo.camaras@gmail.com,CAMARAS HIDALGO S.R.L,20567891234,Establecimiento_1_1234,D-02,26.5,7797,Emision gaseosa,Aire comprimido,2.7
+12/21/2025 16:26:09,nhidalgo.camaras@gmail.com,CAMARAS HIDALGO S.R.L,20567891234,Establecimiento_2_1234,D-01,48.0,6318,Emision gaseosa,Agua,4.5
+12/21/2025 16:26:09,nhidalgo.camaras@gmail.com,CAMARAS HIDALGO S.R.L,20567891234,Establecimiento_2_1234,D-02,38.6,8258,Agua residual,Agua,2.2
+12/21/2025 16:26:09,nhidalgo.camaras@gmail.com,CAMARAS HIDALGO S.R.L,20567891234,Establecimiento_3_1234,D-01,30.3,7646,Emision gaseosa,Agua,1.5
+12/21/2025 16:26:09,nhidalgo.camaras@gmail.com,CAMARAS HIDALGO S.R.L,20567891234,Establecimiento_3_1234,D-02,20.3,8641,Emision gaseosa,Aire comprimido,4.8
+12/21/2025 16:26:09,nhidalgo.camaras@gmail.com,CAMARAS HIDALGO S.R.L,20567891234,Establecimiento_4_1234,D-01,26.9,7016,Emision gaseosa,Agua,3.9
+12/21/2025 16:26:09,nhidalgo.camaras@gmail.com,CAMARAS HIDALGO S.R.L,20567891234,Establecimiento_4_1234,D-02,9.3,8071,Emision gaseosa,Aire comprimido,4.3
+12/21/2025 16:26:09,nhidalgo.camaras@gmail.com,CAMARAS HIDALGO S.R.L,20567891234,Establecimiento_4_1234,D-03,16.4,6422,Agua residual,Agua,2.6
+12/22/2025 9:52:32,ohuaman.comunicaciones@hotmail.com,COMUNICACIONES HUAMAN S.A.C,20678912345,Establecimiento_1_2345,D-01,12.5,7916,Emision gaseosa,Aire comprimido,4.7
+12/22/2025 9:52:32,ohuaman.comunicaciones@hotmail.com,COMUNICACIONES HUAMAN S.A.C,20678912345,Establecimiento_1_2345,D-02,48.5,7187,Agua residual,Aire comprimido,2.6
+12/23/2025 13:19:55,pibañez.internet@yahoo.com,INTERNET IBAÑEZ S.A,20789123456,Establecimiento_1_3456,D-01,21.2,8217,Emision gaseosa,Aire comprimido,4.8
+12/23/2025 13:19:55,pibañez.internet@yahoo.com,INTERNET IBAÑEZ S.A,20789123456,Establecimiento_1_3456,D-02,34.4,7706,Liquido proceso,Aire comprimido,2.5
+12/23/2025 13:19:55,pibañez.internet@yahoo.com,INTERNET IBAÑEZ S.A,20789123456,Establecimiento_1_3456,D-03,48.9,6957,Agua residual,Aire comprimido,2.6
+12/23/2025 13:19:55,pibañez.internet@yahoo.com,INTERNET IBAÑEZ S.A,20789123456,Establecimiento_2_3456,D-01,27.2,6898,Liquido proceso,Aire comprimido,4.0
+12/23/2025 13:19:55,pibañez.internet@yahoo.com,INTERNET IBAÑEZ S.A,20789123456,Establecimiento_2_3456,D-02,39.4,6897,Agua residual,Aire comprimido,4.0
+12/23/2025 13:19:55,pibañez.internet@yahoo.com,INTERNET IBAÑEZ S.A,20789123456,Establecimiento_3_3456,D-01,48.3,7498,Agua residual,Agua,1.2
+12/23/2025 13:19:55,pibañez.internet@yahoo.com,INTERNET IBAÑEZ S.A,20789123456,Establecimiento_3_3456,D-02,7.1,6331,Emision gaseosa,Agua,2.5
+12/24/2025 11:46:18,qiglesias.computadoras@gmail.com,COMPUTADORAS IGLESIAS S.R.L,20891234567,Establecimiento_1_4567,D-01,49.3,7669,Agua residual,Agua,3.7
+12/24/2025 11:46:18,qiglesias.computadoras@gmail.com,COMPUTADORAS IGLESIAS S.R.L,20891234567,Establecimiento_1_4567,D-02,11.7,7997,Liquido proceso,Aire comprimido,1.9
+12/24/2025 11:46:18,qiglesias.computadoras@gmail.com,COMPUTADORAS IGLESIAS S.R.L,20891234567,Establecimiento_1_4567,D-03,11.6,6966,Agua residual,Aire comprimido,3.7
+12/24/2025 11:46:18,qiglesias.computadoras@gmail.com,COMPUTADORAS IGLESIAS S.R.L,20891234567,Establecimiento_2_4567,D-01,42.3,8359,Agua residual,Agua,2.7
+12/24/2025 11:46:18,qiglesias.computadoras@gmail.com,COMPUTADORAS IGLESIAS S.R.L,20891234567,Establecimiento_2_4567,D-02,23.6,6140,Emision gaseosa,Agua,2.3
+12/25/2025 15:13:43,riturbe.software@outlook.com,SOFTWARE ITURBE S.A.C,20912345678,Establecimiento_1_5678,D-01,42.1,6342,Liquido proceso,Agua,3.4
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_1_6789,D-01,19.4,8619,Agua residual,Agua,2.4
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_1_6789,D-02,19.9,6448,Emision gaseosa,Agua,2.7
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_1_6789,D-03,14.7,7942,Agua residual,Aire comprimido,2.6
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_2_6789,D-01,27.6,7671,Agua residual,Aire comprimido,1.2
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_3_6789,D-01,33.4,6214,Liquido proceso,Aire comprimido,2.2
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_4_6789,D-01,12.2,6555,Emision gaseosa,Aire comprimido,2.2
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_4_6789,D-02,34.8,7526,Liquido proceso,Aire comprimido,2.6
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_5_6789,D-01,40.9,6107,Liquido proceso,Agua,2.5
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_5_6789,D-02,42.5,8489,Liquido proceso,Agua,1.6
+12/26/2025 8:40:06,sjaramillo.hosting@hotmail.com,HOSTING JARAMILLO S.A,20123456789,Establecimiento_5_6789,D-03,43.6,8353,Emision gaseosa,Agua,2.8
+12/27/2025 12:07:29,tjimenez.dominios@gmail.com,DOMINIOS JIMENEZ S.R.L,20234567891,Establecimiento_1_7891,D-01,32.6,7099,Liquido proceso,Agua,4.3
+12/27/2025 12:07:29,tjimenez.dominios@gmail.com,DOMINIOS JIMENEZ S.R.L,20234567891,Establecimiento_1_7891,D-02,48.4,6235,Agua residual,Aire comprimido,4.9
+12/27/2025 12:07:29,tjimenez.dominios@gmail.com,DOMINIOS JIMENEZ S.R.L,20234567891,Establecimiento_1_7891,D-03,28.6,7249,Liquido proceso,Agua,3.2
+12/28/2025 17:33:54,ujuarez.paginas@yahoo.com,PAGINAS WEB JUAREZ S.A.C,20345678912,Establecimiento_1_8912,D-01,36.3,8579,Emision gaseosa,Agua,2.9
+12/28/2025 17:33:54,ujuarez.paginas@yahoo.com,PAGINAS WEB JUAREZ S.A.C,20345678912,Establecimiento_2_8912,D-01,24.9,8441,Emision gaseosa,Aire comprimido,3.6
+12/28/2025 17:33:54,ujuarez.paginas@yahoo.com,PAGINAS WEB JUAREZ S.A.C,20345678912,Establecimiento_2_8912,D-02,24.7,7884,Agua residual,Aire comprimido,3.7
+12/28/2025 17:33:54,ujuarez.paginas@yahoo.com,PAGINAS WEB JUAREZ S.A.C,20345678912,Establecimiento_2_8912,D-03,42.8,6169,Liquido proceso,Aire comprimido,2.8
+12/29/2025 14:01:17,vlarrea.marketing@outlook.com,MARKETING DIGITAL LARREA S.A,20456789123,Establecimiento_1_9123,D-01,23.6,7064,Liquido proceso,Aire comprimido,4.4
+12/29/2025 14:01:17,vlarrea.marketing@outlook.com,MARKETING DIGITAL LARREA S.A,20456789123,Establecimiento_1_9123,D-02,47.7,6934,Liquido proceso,Agua,3.3
+12/29/2025 14:01:17,vlarrea.marketing@outlook.com,MARKETING DIGITAL LARREA S.A,20456789123,Establecimiento_1_9123,D-03,18.8,7345,Liquido proceso,Agua,4.2
+12/29/2025 14:01:17,vlarrea.marketing@outlook.com,MARKETING DIGITAL LARREA S.A,20456789123,Establecimiento_2_9123,D-01,38.7,8616,Emision gaseosa,Aire comprimido,2.4
+12/29/2025 14:01:17,vlarrea.marketing@outlook.com,MARKETING DIGITAL LARREA S.A,20456789123,Establecimiento_2_9123,D-02,31.6,7789,Liquido proceso,Aire comprimido,2.9
+12/29/2025 14:01:17,vlarrea.marketing@outlook.com,MARKETING DIGITAL LARREA S.A,20456789123,Establecimiento_3_9123,D-01,10.8,8289,Emision gaseosa,Agua,3.1
+12/29/2025 14:01:17,vlarrea.marketing@outlook.com,MARKETING DIGITAL LARREA S.A,20456789123,Establecimiento_3_9123,D-02,26.6,6569,Liquido proceso,Agua,1.4
+12/29/2025 14:01:17,vlarrea.marketing@outlook.com,MARKETING DIGITAL LARREA S.A,20456789123,Establecimiento_3_9123,D-03,22.2,7027,Liquido proceso,Aire comprimido,1.0
+12/30/2025 10:27:42,wleon.redes@gmail.com,REDES SOCIALES LEON S.R.L,20567891234,Establecimiento_1_1234,D-01,12.1,7803,Liquido proceso,Agua,2.3
+12/30/2025 10:27:42,wleon.redes@gmail.com,REDES SOCIALES LEON S.R.L,20567891234,Establecimiento_1_1234,D-02,16.4,6882,Liquido proceso,Agua,3.8
+12/31/2025 16:54:05,xlima.ecommerce@hotmail.com,ECOMMERCE LIMA S.A.C,20678912345,Establecimiento_1_2345,D-01,28.5,6233,Agua residual,Agua,3.5
+12/31/2025 16:54:05,xlima.ecommerce@hotmail.com,ECOMMERCE LIMA S.A.C,20678912345,Establecimiento_2_2345,D-01,47.7,7819,Agua residual,Agua,2.2
+12/31/2025 16:54:05,xlima.ecommerce@hotmail.com,ECOMMERCE LIMA S.A.C,20678912345,Establecimiento_3_2345,D-01,7.9,8458,Agua residual,Agua,2.6
+12/31/2025 16:54:05,xlima.ecommerce@hotmail.com,ECOMMERCE LIMA S.A.C,20678912345,Establecimiento_4_2345,D-01,35.3,8266,Emision gaseosa,Aire comprimido,2.5
+12/31/2025 16:54:05,xlima.ecommerce@hotmail.com,ECOMMERCE LIMA S.A.C,20678912345,Establecimiento_4_2345,D-02,17.3,6204,Liquido proceso,Aire comprimido,2.0
+12/31/2025 16:54:05,xlima.ecommerce@hotmail.com,ECOMMERCE LIMA S.A.C,20678912345,Establecimiento_4_2345,D-03,47.7,8443,Agua residual,Agua,4.1
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_1_3456,D-01,20.0,8253,Emision gaseosa,Agua,4.8
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_1_3456,D-02,44.4,6589,Agua residual,Aire comprimido,2.5
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_2_3456,D-01,33.0,6288,Agua residual,Aire comprimido,4.0
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_2_3456,D-02,13.0,7487,Agua residual,Aire comprimido,4.4
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_3_3456,D-01,45.6,6913,Liquido proceso,Aire comprimido,1.3
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_3_3456,D-02,28.6,6388,Liquido proceso,Agua,4.2
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_3_3456,D-03,37.3,6750,Liquido proceso,Agua,3.8
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_4_3456,D-01,10.8,7475,Emision gaseosa,Agua,2.0
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_4_3456,D-02,10.8,7756,Emision gaseosa,Agua,5.0
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_5_3456,D-01,5.1,7202,Agua residual,Agua,4.7
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_6_3456,D-01,36.3,7931,Agua residual,Agua,3.5
+1/1/2026 9:20:28,ymadrid.logistica@yahoo.com,LOGISTICA MADRID S.A,20789123456,Establecimiento_6_3456,D-02,14.3,6940,Emision gaseosa,Agua,3.7
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_1_4567,D-01,46.2,6916,Agua residual,Aire comprimido,4.3
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_1_4567,D-02,25.0,8484,Liquido proceso,Aire comprimido,4.2
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_1_4567,D-03,43.7,7612,Emision gaseosa,Agua,3.1
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_2_4567,D-01,23.3,6394,Agua residual,Agua,2.3
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_2_4567,D-02,47.9,8391,Liquido proceso,Agua,1.3
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_3_4567,D-01,5.7,7794,Liquido proceso,Agua,2.8
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_3_4567,D-02,28.3,7678,Emision gaseosa,Aire comprimido,2.5
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_3_4567,D-03,6.6,7839,Emision gaseosa,Aire comprimido,4.0
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_4_4567,D-01,37.3,7781,Liquido proceso,Agua,4.1
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_5_4567,D-01,48.1,8603,Agua residual,Aire comprimido,4.4
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_5_4567,D-02,33.1,6600,Agua residual,Agua,3.2
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_6_4567,D-01,32.3,7083,Liquido proceso,Agua,4.5
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_7_4567,D-01,29.2,7706,Agua residual,Agua,4.7
+1/2/2026 13:47:53,zmaldonado.transporte@gmail.com,TRANSPORTES MALDONADO S.R.L,20891234567,Establecimiento_8_4567,D-01,36.4,6070,Liquido proceso,Aire comprimido,1.5
+1/3/2026 11:14:16,amantilla.carga@outlook.com,CARGA MANTILLA S.A.C,20912345678,Establecimiento_1_5678,D-01,15.3,6788,Liquido proceso,Agua,3.1
+1/3/2026 11:14:16,amantilla.carga@outlook.com,CARGA MANTILLA S.A.C,20912345678,Establecimiento_2_5678,D-01,21.3,8177,Emision gaseosa,Agua,4.6
+1/3/2026 11:14:16,amantilla.carga@outlook.com,CARGA MANTILLA S.A.C,20912345678,Establecimiento_3_5678,D-01,21.2,6457,Liquido proceso,Agua,3.1
+1/3/2026 11:14:16,amantilla.carga@outlook.com,CARGA MANTILLA S.A.C,20912345678,Establecimiento_3_5678,D-02,18.4,8759,Liquido proceso,Aire comprimido,4.5
+1/3/2026 11:14:16,amantilla.carga@outlook.com,CARGA MANTILLA S.A.C,20912345678,Establecimiento_3_5678,D-03,11.0,6803,Agua residual,Agua,4.7
+1/4/2026 15:40:39,bmartinez.mudanzas@hotmail.com,MUDANZAS MARTINEZ S.A,20123456789,Establecimiento_1_6789,D-01,42.4,6369,Agua residual,Agua,1.9
+1/4/2026 15:40:39,bmartinez.mudanzas@hotmail.com,MUDANZAS MARTINEZ S.A,20123456789,Establecimiento_1_6789,D-02,8.9,6688,Emision gaseosa,Aire comprimido,1.8
+1/4/2026 15:40:39,bmartinez.mudanzas@hotmail.com,MUDANZAS MARTINEZ S.A,20123456789,Establecimiento_1_6789,D-03,49.5,8645,Liquido proceso,Aire comprimido,1.7
+1/4/2026 15:40:39,bmartinez.mudanzas@hotmail.com,MUDANZAS MARTINEZ S.A,20123456789,Establecimiento_2_6789,D-01,9.2,6197,Emision gaseosa,Agua,1.1
+1/4/2026 15:40:39,bmartinez.mudanzas@hotmail.com,MUDANZAS MARTINEZ S.A,20123456789,Establecimiento_2_6789,D-02,30.4,6084,Emision gaseosa,Aire comprimido,3.7
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_1_7891,D-01,20.5,8701,Agua residual,Aire comprimido,1.4
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_1_7891,D-02,25.0,6754,Agua residual,Aire comprimido,3.2
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_1_7891,D-03,48.5,8421,Liquido proceso,Aire comprimido,3.9
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_2_7891,D-01,42.3,7629,Liquido proceso,Agua,1.6
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_2_7891,D-02,20.7,8576,Agua residual,Aire comprimido,3.0
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_3_7891,D-01,16.4,7646,Agua residual,Agua,3.8
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_3_7891,D-02,33.4,7990,Agua residual,Agua,3.4
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_3_7891,D-03,9.5,7021,Emision gaseosa,Aire comprimido,1.9
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_4_7891,D-01,37.7,6167,Emision gaseosa,Aire comprimido,2.5
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_4_7891,D-02,25.2,6270,Emision gaseosa,Agua,4.9
+1/5/2026 8:07:04,cmedina.courier@gmail.com,COURIER MEDINA S.R.L,20234567891,Establecimiento_5_7891,D-01,41.5,8751,Emision gaseosa,Aire comprimido,1.8
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_1_8912,D-01,30.6,6644,Agua residual,Aire comprimido,2.6
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_1_8912,D-02,19.3,6850,Agua residual,Aire comprimido,4.0
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_2_8912,D-01,8.7,6341,Emision gaseosa,Agua,1.2
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_2_8912,D-02,15.7,7215,Agua residual,Agua,1.2
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_2_8912,D-03,25.1,8096,Emision gaseosa,Aire comprimido,1.7
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_3_8912,D-01,33.9,8383,Emision gaseosa,Aire comprimido,1.3
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_3_8912,D-02,30.0,7346,Liquido proceso,Aire comprimido,4.2
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_4_8912,D-01,49.1,6377,Agua residual,Agua,1.7
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_5_8912,D-01,47.0,6037,Agua residual,Agua,1.0
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_6_8912,D-01,42.3,6755,Liquido proceso,Agua,1.6
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_6_8912,D-02,17.0,6142,Agua residual,Aire comprimido,1.3
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_7_8912,D-01,46.4,6434,Agua residual,Aire comprimido,3.1
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_7_8912,D-02,44.9,7195,Liquido proceso,Agua,1.5
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_8_8912,D-01,26.3,6761,Liquido proceso,Agua,1.7
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_9_8912,D-01,31.3,8113,Agua residual,Agua,1.4
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_10_8912,D-01,35.8,6019,Agua residual,Agua,2.8
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_10_8912,D-02,17.9,7135,Agua residual,Agua,1.8
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_11_8912,D-01,21.0,6199,Agua residual,Agua,2.6
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_11_8912,D-02,36.5,8090,Agua residual,Agua,3.4
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_11_8912,D-03,40.5,8563,Emision gaseosa,Agua,1.4
+1/6/2026 12:34:27,dmejia.taxi@yahoo.com,TAXI MEJIA S.A.C,20345678912,Establecimiento_12_8912,D-01,24.1,8740,Liquido proceso,Agua,1.7
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_1_9123,D-01,13.0,7954,Agua residual,Aire comprimido,4.3
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_2_9123,D-01,30.9,7976,Agua residual,Agua,1.7
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_2_9123,D-02,48.5,6467,Agua residual,Agua,4.5
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_3_9123,D-01,5.5,8678,Agua residual,Agua,2.8
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_4_9123,D-01,44.5,8429,Emision gaseosa,Aire comprimido,2.1
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_4_9123,D-02,25.9,6962,Agua residual,Aire comprimido,2.3
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_4_9123,D-03,40.8,6838,Agua residual,Aire comprimido,4.8
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_5_9123,D-01,44.6,7771,Liquido proceso,Aire comprimido,2.0
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_5_9123,D-02,35.2,7230,Emision gaseosa,Aire comprimido,1.2
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_5_9123,D-03,14.0,6916,Liquido proceso,Agua,1.3
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_6_9123,D-01,42.8,8315,Agua residual,Agua,3.5
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_7_9123,D-01,48.3,6382,Liquido proceso,Agua,3.7
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_7_9123,D-02,37.1,8392,Liquido proceso,Aire comprimido,2.6
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_8_9123,D-01,28.8,8184,Liquido proceso,Aire comprimido,2.0
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_8_9123,D-02,38.4,7572,Emision gaseosa,Aire comprimido,1.9
+1/7/2026 17:00:52,emendez.remis@outlook.com,REMIS MENDEZ S.A,20456789123,Establecimiento_8_9123,D-03,46.0,7903,Liquido proceso,Agua,3.2
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_1_1234,D-01,38.7,6197,Agua residual,Agua,3.6
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_1_1234,D-02,41.7,7770,Emision gaseosa,Aire comprimido,2.0
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_1_1234,D-03,11.6,6516,Agua residual,Agua,2.6
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_2_1234,D-01,20.7,7654,Emision gaseosa,Agua,2.0
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_2_1234,D-02,38.3,8170,Agua residual,Agua,2.3
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_2_1234,D-03,15.6,8405,Agua residual,Aire comprimido,4.3
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_3_1234,D-01,38.9,8501,Liquido proceso,Aire comprimido,2.1
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_3_1234,D-02,17.8,8194,Agua residual,Aire comprimido,4.9
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_4_1234,D-01,6.0,6902,Agua residual,Aire comprimido,2.2
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_4_1234,D-02,14.8,6091,Liquido proceso,Aire comprimido,4.0
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_5_1234,D-01,38.5,6407,Agua residual,Agua,1.1
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_6_1234,D-01,47.0,7047,Liquido proceso,Agua,4.6
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_6_1234,D-02,45.2,6929,Agua residual,Aire comprimido,4.5
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_6_1234,D-03,29.5,6843,Emision gaseosa,Aire comprimido,4.4
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_7_1234,D-01,19.6,7784,Emision gaseosa,Agua,3.3
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_7_1234,D-02,33.5,6108,Emision gaseosa,Agua,2.7
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_7_1234,D-03,26.6,7582,Emision gaseosa,Agua,5.0
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_8_1234,D-01,49.3,6627,Agua residual,Agua,2.9
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_9_1234,D-01,41.4,7659,Agua residual,Agua,3.8
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_10_1234,D-01,24.6,8363,Emision gaseosa,Agua,4.3
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_10_1234,D-02,16.9,7264,Emision gaseosa,Aire comprimido,3.3
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_11_1234,D-01,33.1,7727,Agua residual,Aire comprimido,4.6
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_12_1234,D-01,36.3,6920,Agua residual,Agua,4.5
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_12_1234,D-02,10.5,7166,Emision gaseosa,Agua,2.2
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_13_1234,D-01,9.1,7995,Liquido proceso,Aire comprimido,1.8
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_13_1234,D-02,22.3,8644,Liquido proceso,Aire comprimido,1.1
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_13_1234,D-03,29.9,6311,Agua residual,Aire comprimido,2.7
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_14_1234,D-01,41.1,7194,Emision gaseosa,Agua,1.3
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_14_1234,D-02,39.3,6383,Liquido proceso,Aire comprimido,4.4
+1/8/2026 14:28:15,fmendoza.bus@gmail.com,BUSES MENDOZA S.R.L,20567891234,Establecimiento_15_1234,D-01,17.8,6442,Agua residual,Aire comprimido,1.5
+1/9/2026 10:54:38,gmiranda.turismo@hotmail.com,TURISMO MIRANDA S.A.C,20678912345,Establecimiento_1_2345,D-01,25.7,8738,Liquido proceso,Agua,2.5
+1/9/2026 10:54:38,gmiranda.turismo@hotmail.com,TURISMO MIRANDA S.A.C,20678912345,Establecimiento_1_2345,D-02,9.1,8710,Liquido proceso,Aire comprimido,1.2
+1/9/2026 10:54:38,gmiranda.turismo@hotmail.com,TURISMO MIRANDA S.A.C,20678912345,Establecimiento_2_2345,D-01,14.7,6787,Liquido proceso,Aire comprimido,2.9
+1/9/2026 10:54:38,gmiranda.turismo@hotmail.com,TURISMO MIRANDA S.A.C,20678912345,Establecimiento_2_2345,D-02,5.2,6885,Liquido proceso,Aire comprimido,2.2
+1/9/2026 10:54:38,gmiranda.turismo@hotmail.com,TURISMO MIRANDA S.A.C,20678912345,Establecimiento_2_2345,D-03,27.4,6065,Agua residual,Aire comprimido,2.5
+1/10/2026 16:21:13,hmolina.hotel@yahoo.com,HOTEL MOLINA S.A,20789123456,Establecimiento_1_3456,D-01,6.1,6169,Emision gaseosa,Agua,4.1
+1/10/2026 16:21:13,hmolina.hotel@yahoo.com,HOTEL MOLINA S.A,20789123456,Establecimiento_1_3456,D-02,32.7,8460,Emision gaseosa,Agua,3.2
+1/11/2026 9:47:36,imontalvo.hostal@gmail.com,HOSTAL MONTALVO S.R.L,20891234567,Establecimiento_1_4567,D-01,36.0,7110,Emision gaseosa,Aire comprimido,4.1
+1/11/2026 9:47:36,imontalvo.hostal@gmail.com,HOSTAL MONTALVO S.R.L,20891234567,Establecimiento_1_4567,D-02,37.6,6938,Emision gaseosa,Aire comprimido,4.1
+1/11/2026 9:47:36,imontalvo.hostal@gmail.com,HOSTAL MONTALVO S.R.L,20891234567,Establecimiento_2_4567,D-01,38.5,6745,Emision gaseosa,Agua,3.3
+1/11/2026 9:47:36,imontalvo.hostal@gmail.com,HOSTAL MONTALVO S.R.L,20891234567,Establecimiento_2_4567,D-02,18.0,6968,Emision gaseosa,Aire comprimido,4.0
+1/11/2026 9:47:36,imontalvo.hostal@gmail.com,HOSTAL MONTALVO S.R.L,20891234567,Establecimiento_3_4567,D-01,14.2,6870,Liquido proceso,Aire comprimido,4.3
+1/11/2026 9:47:36,imontalvo.hostal@gmail.com,HOSTAL MONTALVO S.R.L,20891234567,Establecimiento_3_4567,D-02,25.8,6152,Emision gaseosa,Agua,2.5
+1/12/2026 13:14:01,jmontero.restaurant@outlook.com,RESTAURANT MONTERO S.A.C,20912345678,Establecimiento_1_5678,D-01,11.3,7290,Emision gaseosa,Agua,1.8
+1/12/2026 13:14:01,jmontero.restaurant@outlook.com,RESTAURANT MONTERO S.A.C,20912345678,Establecimiento_2_5678,D-01,17.9,7272,Emision gaseosa,Aire comprimido,1.1
+1/12/2026 13:14:01,jmontero.restaurant@outlook.com,RESTAURANT MONTERO S.A.C,20912345678,Establecimiento_2_5678,D-02,26.1,8603,Agua residual,Agua,2.5
+1/13/2026 11:41:24,kmontoya.pizzeria@hotmail.com,PIZZERIA MONTOYA S.A,20123456789,Establecimiento_1_6789,D-01,46.2,8153,Liquido proceso,Agua,4.3
+1/13/2026 11:41:24,kmontoya.pizzeria@hotmail.com,PIZZERIA MONTOYA S.A,20123456789,Establecimiento_1_6789,D-02,32.2,6874,Emision gaseosa,Aire comprimido,3.2
+1/13/2026 11:41:24,kmontoya.pizzeria@hotmail.com,PIZZERIA MONTOYA S.A,20123456789,Establecimiento_2_6789,D-01,48.8,6612,Liquido proceso,Agua,3.2
+1/13/2026 11:41:24,kmontoya.pizzeria@hotmail.com,PIZZERIA MONTOYA S.A,20123456789,Establecimiento_3_6789,D-01,36.5,6303,Agua residual,Agua,1.1
+1/13/2026 11:41:24,kmontoya.pizzeria@hotmail.com,PIZZERIA MONTOYA S.A,20123456789,Establecimiento_3_6789,D-02,34.2,6511,Liquido proceso,Agua,4.0
+1/13/2026 11:41:24,kmontoya.pizzeria@hotmail.com,PIZZERIA MONTOYA S.A,20123456789,Establecimiento_3_6789,D-03,31.3,7131,Emision gaseosa,Agua,4.3
+1/13/2026 11:41:24,kmontoya.pizzeria@hotmail.com,PIZZERIA MONTOYA S.A,20123456789,Establecimiento_4_6789,D-01,18.6,8609,Liquido proceso,Agua,2.0
